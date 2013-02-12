@@ -1,7 +1,12 @@
-PCBNEW-LibModule-V1  17/05/2012 10.24.06
+PCBNEW-LibModule-V1  dom 30 set 2012 21:38:53 CEST
 # encoding utf-8
 Units deci-mils
 $INDEX
+dcdc_dil
+dcdc_dil8
+dcdc_sil
+dcdc_sil4
+dcdc_sil7(2+4)
 dil_14-300
 dil_14-300_socket
 dil_16-300
@@ -31,6 +36,286 @@ dil_8-300
 dil_8-300_socket
 spm26
 $EndINDEX
+$MODULE dcdc_dil
+Po 0 0 0 15 4FFB6981 00000000 ~~
+Li dcdc_dil
+Cd DC/DC converter, DIP package
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2500 600 600 0 113 N V 21 N "U***"
+T1 0 2600 600 600 0 112 N V 21 N "dcdc_dil"
+DS -4000 -2000 4000 -2000 150 21
+DS 4000 -2000 4000 2000 150 21
+DS 4000 2000 -4000 2000 150 21
+DS -4000 2000 -4000 -2000 150 21
+DC -3392 1424 -3510 1581 150 21
+$PAD
+Sh "1" O 630 866 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3000 1500
+$EndPAD
+$PAD
+Sh "7" O 630 866 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3000 1500
+$EndPAD
+$PAD
+Sh "8" O 630 866 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3000 -1500
+$EndPAD
+$PAD
+Sh "9" O 630 866 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2000 -1500
+$EndPAD
+$PAD
+Sh "11" O 630 866 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1500
+$EndPAD
+$PAD
+Sh "14" O 630 866 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3000 -1500
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/pth_circuits/dcdc_dil.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dcdc_dil
+$MODULE dcdc_dil8
+Po 0 0 0 15 50689E2B 00000000 ~~
+Li dcdc_dil8
+Cd DC/DC converter, DIP8 package
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2500 600 600 0 113 N V 21 N "U***"
+T1 0 2600 600 600 0 112 N V 21 N "dcdc_dil8"
+DS -2323 -1929 2323 -1929 150 21
+DS 2323 -1929 2323 1929 150 21
+DS 2323 1929 -2323 1929 150 21
+DS -2323 1929 -2323 -1929 150 21
+DC -1896 754 -2014 911 150 21
+$PAD
+Sh "1" O 630 865 0 0 0
+Dr 392 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1500 1500
+$EndPAD
+$PAD
+Sh "4" O 630 865 0 0 0
+Dr 392 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1500 1500
+$EndPAD
+$PAD
+Sh "5" O 630 865 0 0 0
+Dr 392 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1500 -1500
+$EndPAD
+$PAD
+Sh "7" O 630 865 0 0 0
+Dr 392 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -500 -1500
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/pth_circuits/dcdc_dil8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dcdc_dil8
+$MODULE dcdc_sil
+Po 0 0 0 15 50689AE9 00000000 ~~
+Li dcdc_sil
+Cd DC/DC converter, SIP package
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -984 600 600 0 113 N V 21 N "U***"
+T1 0 2008 600 600 0 112 N V 21 N "dcdc_sil"
+DC -2992 1024 -3110 1181 150 21
+DS -3819 -551 3819 -551 150 21
+DS 3819 -551 3819 1457 150 21
+DS 3819 1457 -3819 1457 150 21
+DS -3819 1457 -3819 -551 150 21
+$PAD
+Sh "1" R 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3000 0
+$EndPAD
+$PAD
+Sh "2" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2000 0
+$EndPAD
+$PAD
+Sh "4" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "5" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1000 0
+$EndPAD
+$PAD
+Sh "6" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2000 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/pth_circuits/dcdc_sil.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dcdc_sil
+$MODULE dcdc_sil4
+Po 0 0 0 15 50689C3E 00000000 ~~
+Li dcdc_sil4
+Cd DC/DC converter, SIP4 package
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2283 600 600 0 113 N V 21 N "U***"
+T1 0 1142 600 600 0 112 N V 21 N "dcdc_sil4"
+DS 2323 551 -2323 551 150 21
+DS -2323 -1850 2323 -1850 150 21
+DS 2323 551 2323 -1850 150 21
+DS -2323 -1850 -2323 551 150 21
+DC -1890 -1416 -2008 -1259 150 21
+$PAD
+Sh "1" R 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1500 0
+$EndPAD
+$PAD
+Sh "2" O 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -500 0
+$EndPAD
+$PAD
+Sh "3" O 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 500 0
+$EndPAD
+$PAD
+Sh "4" O 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1500 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/pth_circuits/dcdc_sil4.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dcdc_sil4
+$MODULE dcdc_sil7(2+4)
+Po 0 0 0 15 50689951 00000000 ~~
+Li dcdc_sil7(2+4)
+Cd DC/DC converter, SIP7 package (2+4 pins)
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -984 600 600 0 113 N V 21 N "U***"
+T1 0 2402 600 600 0 112 N V 21 N "dcdc_sil7(2+4)"
+DS 3858 1850 3858 -551 150 21
+DS -3858 -551 -3858 1850 150 21
+DS -3858 1850 3858 1850 150 21
+DS -3858 -551 3858 -551 150 21
+DC -3425 1418 -3543 1575 150 21
+$PAD
+Sh "1" R 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3000 0
+$EndPAD
+$PAD
+Sh "2" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2000 0
+$EndPAD
+$PAD
+Sh "4" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "5" O 630 866 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1000 0
+$EndPAD
+$PAD
+Sh "6" O 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2000 0
+$EndPAD
+$PAD
+Sh "7" O 630 865 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3000 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/pth_circuits/dcdc_sil7(2+4).wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dcdc_sil7(2+4)
 $MODULE dil_14-300
 Po 0 0 0 15 4E4CD90A 00000000 ~~
 Li dil_14-300
