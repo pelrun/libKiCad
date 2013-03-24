@@ -23,12 +23,9 @@ symbol/license.txt.
 INSTALLATION AND USE
 ====================
 
-Get the library using:
+Clone this repository into the same folder as your KiCad project folders.
 
-git clone https://github.com/JorgeAparicio/libKiCad.git
-
-This library and all your kicad projects must be inside the same folder for
-proper integration. Your directory should look like the following example.
+Your directory should look like the following example.
 
 <path/to/projects>
     awesomeProject
