@@ -1,0 +1,56 @@
+EESchema-DOCLIB  Version 2.0  Date: mer 23 gen 2013 22:10:15 CET
+#
+$CMP ARDUINO_HEADER
+D Arduino shield Header
+$ENDCMP
+#
+$CMP ARDUINO_MEGA_HEADER
+D Arduino Mega/2 shield Header
+$ENDCMP
+#
+$CMP ARDUINO_NANO_HEADER
+D Arduino Nano Rev3 shield Header
+$ENDCMP
+#
+$CMP DB-100
+K CONN
+$ENDCMP
+#
+$CMP DB-15
+K CONN
+$ENDCMP
+#
+$CMP DB-25
+K CONN
+$ENDCMP
+#
+$CMP DB-26
+K CONN
+$ENDCMP
+#
+$CMP DB-28
+K CONN
+$ENDCMP
+#
+$CMP DB-50
+K CONN
+$ENDCMP
+#
+$CMP DB-68
+K CONN
+$ENDCMP
+#
+$CMP DB-9
+K CONN
+$ENDCMP
+#
+$CMP Jack_3.5mm_4pin
+D 3.5mm jack, 4 pin
+$ENDCMP
+#
+$CMP USB-B
+D USB B-TYPE connector
+K USB
+$ENDCMP
+#
+#End Doc Library

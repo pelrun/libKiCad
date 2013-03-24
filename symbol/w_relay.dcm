@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0  Date: sab 02 mar 2013 11:51:57 CET
+#
+$CMP FOTEK_SSR
+D Fotek SSR series solid state relay
+K SSR relay
+$ENDCMP
+#
+$CMP HSSR-8200
+D 200V/160ohm small signal solid state relay
+$ENDCMP
+#
+$CMP RELAY_DK1A
+D DK1a series relay
+K relay DK1a
+$ENDCMP
+#
+$CMP RELAY_DK1A-L2
+D DK1a-L2 series relay
+K relay DK1a-L2
+$ENDCMP
+#
+$CMP RELAY_DK1A1B
+D DK1a1b series relay
+K relay DK1a1b
+$ENDCMP
+#
+$CMP RELAY_DK1A1B-L2
+D DK1a1b-L2 series relay
+K relay DK1a1b-L2
+$ENDCMP
+#
+$CMP RELAY_DK2A
+D DK2a series relay
+K relay DK2a
+$ENDCMP
+#
+$CMP RELAY_DK2A-L2
+D DK2a-L2 series relay
+K relay DK2a-L2
+$ENDCMP
+#
+$CMP RELAY_HB
+D HB series relay
+K relay HB
+$ENDCMP
+#
+$CMP RELAY_PE
+D Relay, single dev contact, Schrack PE
+$ENDCMP
+#
+$CMP RELAY_RT1
+D RT1 series relay
+K relay RT1
+$ENDCMP
+#
+$CMP RELAY_SPDT
+D Relay, single dev contact
+$ENDCMP
+#
+$CMP RELAY_SY
+D SY series relay
+K relay SY
+$ENDCMP
+#
+$CMP RELAY_T9AS1X1
+D Relay, 1 Form A contact, TE T9AS1x1
+$ENDCMP
+#
+$CMP RELAY_T9AS2X1
+D Relay, 1 Form B contact, TE T9AS2x1
+$ENDCMP
+#
+$CMP RELAY_T9AS5X1
+D Relay, 1 Form C contact, TE T9AS5x1
+$ENDCMP
+#
+$CMP RELAY_V23042
+D Siemens V23042 series relay
+K relay V23042
+$ENDCMP
+#
+$CMP RELAY_V23042-B2
+D Siemens V23042-B2 series relay
+K relay V23042-B2
+$ENDCMP
+#
+$CMP RELAY_V23101-D0
+D V23101-D0 relay
+K relay V23101-D0
+$ENDCMP
+#
+$CMP RELAY_V23101-D1
+D V23101-D1 relay
+K relay V23101-D1
+$ENDCMP
+#
+#End Doc Library

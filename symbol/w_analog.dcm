@@ -1,0 +1,177 @@
+EESchema-DOCLIB  Version 2.0  Date: sab 09 mar 2013 12:08:22 CET
+#
+$CMP 78XX
+D 78xx 1A Linear Regulator, TO package
+$ENDCMP
+#
+$CMP 78XX-DPAK
+D 78xx 1A Linear Regulator, DPAK package
+$ENDCMP
+#
+$CMP 78XX-SO
+D 78xx 100mA Linear Regulator, SO package
+$ENDCMP
+#
+$CMP AD5320-MSOP
+D 12 bit RRO DAC, MSOP-8
+K DAC AD5320
+$ENDCMP
+#
+$CMP AD734
+D 4-Quadrant Multiplier/Divider
+$ENDCMP
+#
+$CMP ADP3110A
+D Half-Bridge Mosfet driver
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ON_ADP3110A.pdf
+$ENDCMP
+#
+$CMP FAN7382
+D Half-Bridge Mosfet driver, HI-side and LO-side
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/FCD_FAN7382.pdf
+$ENDCMP
+#
+$CMP IR2183
+D Half-Bridge Mosfet driver, HI-side and LO-side
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/IR_IR2183.pdf
+$ENDCMP
+#
+$CMP L6203
+D DMOS full bridge Driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L620x.pdf
+$ENDCMP
+#
+$CMP LM2731
+D 0.6/1.6 MHz Boost Converters With 22V Internal FET Switch in SOT-23
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/NSC_LM2731.pdf
+$ENDCMP
+#
+$CMP LM311
+D Voltage comparator
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/NSC_LM111-211-311.pdf
+$ENDCMP
+#
+$CMP LM317-PTH
+D LM317 series 1A Adjustable linear regulator, PTH version
+$ENDCMP
+#
+$CMP LM317-SMD
+D LM317 series 1A Adjustable linear regulator, SMD version
+$ENDCMP
+#
+$CMP LM324
+D Low Power Quad Operational Amplifiers
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/NSC_LM124-224-324-2902.pdf
+$ENDCMP
+#
+$CMP LM3402
+D 0.5A Constant Current Buck Regulator for Driving High Power LEDs
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/NSC_LM3402.pdf
+$ENDCMP
+#
+$CMP LM358
+D Low Power Dual Operational Amplifiers
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/TI_lm2904.pdf
+$ENDCMP
+#
+$CMP LM50
+D SOT-23 Single-Supply Centigrade Temperature Sensor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Temperatura/NSC_LM50.pdf
+$ENDCMP
+#
+$CMP LT3652
+D Power tracking 2A battery charger for Solar Power
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LT3652.pdf
+$ENDCMP
+#
+$CMP LT8610
+D 42V, 2.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LT8610.pdf
+$ENDCMP
+#
+$CMP MBI6651GSD
+D 1A Step Down Converter
+$ENDCMP
+#
+$CMP MC34063
+D 1.5A step up/down/inverting switching regulator
+$ENDCMP
+#
+$CMP MC34167
+D 5A step up/down/inverting switching regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/ON_MC34167.pdf
+$ENDCMP
+#
+$CMP MCAXXDXXD
+D Dual output DC/DC converters, DIP package
+$ENDCMP
+#
+$CMP MCAXXDXXS
+D Dual output DC/DC converters, SIP package
+$ENDCMP
+#
+$CMP MCP1702_SOT
+D MCP1702 250mA Low Dropout Linear Regulator, SOT package
+$ENDCMP
+#
+$CMP MCP1702_TO
+D MCP1702 250mA Low Dropout Linear Regulator, TO package
+$ENDCMP
+#
+$CMP MCP3002
+D 2.7V Dual Channel 10-Bit A/D Converter with SPI Serial Interface
+K ADC MCP3002
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3002.pdf
+$ENDCMP
+#
+$CMP MCP3004
+D 2.7V 4 Channel 10-Bit A/D Converter with SPI Serial Interface
+K ADC MCP3004
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3004-3008.pdf
+$ENDCMP
+#
+$CMP MCP3008
+D 2.7V 8 Channel 10-Bit A/D Converter with SPI Serial Interface
+K ADC MCP3008
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3004-3008.pdf
+$ENDCMP
+#
+$CMP MCP48X2
+D 8/10/12-Bit Dual Voltage Output Digital-to-Analog Converter with Internal VREF and SPI Interface
+K DAC MCP4802 MCP4812 MCP4822
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP48x2.pdf
+$ENDCMP
+#
+$CMP NE555
+D NE555 timer
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Clock/ST_NE555.pdf
+$ENDCMP
+#
+$CMP TL2575
+D 1-A Simple Step-Down switching voltage regulator
+$ENDCMP
+#
+$CMP TL431
+D Programmable shunt regulator
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/FCD_TL431.pdf
+$ENDCMP
+#
+$CMP TPS7A16
+D 60-V, 5-μA IQ, 100-mA, Low-Dropout Voltage regulator with Enable and Power-Good
+$ENDCMP
+#
+$CMP TS925I
+D RR High Out Current OpAmp
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/ST_TS925.pdf
+$ENDCMP
+#
+$CMP UA741
+D General purpose single Operational Amplifier
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/ST_UA741.pdf
+$ENDCMP
+#
+$CMP ULN2803
+D Darlington Transistor array
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,131 @@
+EESchema-DOCLIB  Version 2.0  Date: dom 17 mar 2013 16:55:53 CET
+#
+$CMP FT232BL
+D USB UART
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT232BL.pdf
+$ENDCMP
+#
+$CMP FT232RL
+D USB2 UART
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT232R.pdf
+$ENDCMP
+#
+$CMP FT245RL
+D USB2 FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT245R.pdf
+$ENDCMP
+#
+$CMP ITEAD_HC-05
+D Itead HC-05 serial Bluetooth module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ITEAD_HC-05.pdf
+$ENDCMP
+#
+$CMP M145026
+D Remote control encoder
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/ST_M145026-27-28.pdf
+$ENDCMP
+#
+$CMP M145027
+D Remote control encoder
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/ST_M145026-27-28.pdf
+$ENDCMP
+#
+$CMP MAX232
+D RS232 driver-receiver
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX3316-SSOP
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3316-TSSOP
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3317
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3318
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3319
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX485
+D RS422/RS485 Transceiver
+$ENDCMP
+#
+$CMP MCP2120
+D IrDA Encoder/Decoder
+$ENDCMP
+#
+$CMP MCP2551
+D CAN BUS Transceiver
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP2551.pdf
+$ENDCMP
+#
+$CMP PCF8574
+D Remote 8-bit I/O expander for I2C-bus
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_PCF8574.pdf
+$ENDCMP
+#
+$CMP QM-5767-F00
+D QM-5767-F00 FM digital tuner
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/XXX_QM-5767-F00.pdf
+$ENDCMP
+#
+$CMP RFM12B
+D RFM12B Universal ISM band FSK transceiver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM12B.pdf
+$ENDCMP
+#
+$CMP SC16IS740
+D Single UART with I2C-bus/SPI interface, 64-byte FIFOs, IrDA SIR
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_SC16IS7x0.pdf
+$ENDCMP
+#
+$CMP SC16IS750
+D Single UART with I2C-bus/SPI interface, 64-byte FIFOs, IrDA SIR
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_SC16IS7x0.pdf
+$ENDCMP
+#
+$CMP SP3224E
+D 3.0V to 5.5V RS-232 Transceivers with Auto On-Line Plus
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_SP322xE.pdf
+$ENDCMP
+#
+$CMP SP3226E
+D 3.0V to 5.5V RS-232 Transceivers with Auto On-Line Plus
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_SP322xE.pdf
+$ENDCMP
+#
+$CMP XR20M1170-16QFN
+D I2C/SPI UART WITH 64-BYTE FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+$CMP XR20M1170-16TSSOP
+D I2C/SPI UART WITH 64-BYTE FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+$CMP XR20M1170-24QFN
+D I2C/SPI UART WITH 64-byte FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+$CMP XR20M1170-24TSSOP
+D I2C/SPI UART WITH 64-byte FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+#End Doc Library
