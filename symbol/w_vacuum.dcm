@@ -1,4 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 23 mar 2013 15:26:35 CET
+EESchema-DOCLIB  Version 2.0  Date: mar 26 mar 2013 20:43:04 CET
+#
+$CMP 12AX7
+D 12AX7 / ECC83 type Double Triode Vacuum tube
+$ENDCMP
+#
+$CMP 6AU6
+D 6AU6 / EF94 type Pentode Vacuum tube
+$ENDCMP
 #
 $CMP 6BQ5
 D 6BQ5 / EL84 type Pentode Vacuum tube
