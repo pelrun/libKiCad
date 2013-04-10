@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 17 mar 2013 17:03:10 CET
+PCBNEW-LibModule-V1  sab 30 mar 2013 11:43:26 CET
 # encoding utf-8
 Units deci-mils
 $INDEX
@@ -14,6 +14,7 @@ fuse_smf
 inductor_1400_24,4x14_p23,6
 inductor_1400_24,4x18,5_p23,5
 inductor_8mm-p5
+resonator_sip3
 xtal_fa128
 $EndINDEX
 $MODULE buzzer_sg13j12
@@ -572,6 +573,52 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE inductor_8mm-p5
+$MODULE resonator_sip3
+Po 0 0 0 15 5156BEB8 00000000 ~~
+Li resonator_sip3
+Cd Ceramic resonator, SIP-3
+Kw RESONATOR
+Sc 0
+AR 
+Op 0 A 0
+T0 0 1417 392 392 0 77 N V 21 N "Resonator_SIP3"
+T1 0 -1299 393 393 0 78 N V 21 N "X***"
+DS -1969 394 -1969 -394 149 21
+DS 1378 984 -1378 984 149 21
+DS 1969 -394 1969 394 149 21
+DS -1378 -984 1378 -984 149 21
+DA -1378 394 -1378 984 900 149 21
+DA 1378 -394 1378 -984 900 149 21
+DA 1378 394 1969 394 900 149 21
+DA -1378 -394 -1969 -394 900 149 21
+$PAD
+Sh "1" O 590 787 0 0 0
+Dr 315 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -984 0
+$EndPAD
+$PAD
+Sh "2" O 590 787 0 0 0
+Dr 315 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" O 590 787 0 0 0
+Dr 315 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 984 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/misc_comp/resonator_sip3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE resonator_sip3
 $MODULE xtal_fa128
 Po 0 0 0 15 510E4D6D 00000000 ~~
 Li xtal_fa128

@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 03 mar 2013 12:06:22 CET
+EESchema-DOCLIB  Version 2.0  Date: sab 30 mar 2013 13:38:06 CET
 #
 $CMP BALUN_2450BM15A0002
 D Balun filter for TI CC253x, CC254x, CC257x, CC853x, CC852x
@@ -75,6 +75,36 @@ $ENDCMP
 #
 $CMP R
 D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_10NB
+D Resistor non bussed, SIP10
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_12NB
+D Resistor non bussed, SIP12
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_14NB
+D Resistor non bussed, SIP14
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_4NB
+D Resistor non bussed, SIP4
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_6NB
+D Resistor non bussed, SIP6
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_8NB
+D Resistor non bussed, SIP8
 K R DEV
 $ENDCMP
 #

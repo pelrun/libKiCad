@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 17 mar 2013 16:55:53 CET
+EESchema-DOCLIB  Version 2.0  Date: dom 07 apr 2013 14:15:03 CEST
 #
 $CMP FT232BL
 D USB UART
@@ -86,6 +86,11 @@ $ENDCMP
 $CMP RFM12B
 D RFM12B Universal ISM band FSK transceiver
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM12B.pdf
+$ENDCMP
+#
+$CMP RFM22B
+D RFM22B Universal ISM band FSK transceiver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM22B.pdf
 $ENDCMP
 #
 $CMP SC16IS740
