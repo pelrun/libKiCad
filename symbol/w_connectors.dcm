@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: mer 23 gen 2013 22:10:15 CET
+EESchema-DOCLIB  Version 2.0  Date: dom 14 apr 2013 21:08:15 CEST
 #
 $CMP ARDUINO_HEADER
 D Arduino shield Header
@@ -44,7 +44,7 @@ $CMP DB-9
 K CONN
 $ENDCMP
 #
-$CMP Jack_3.5mm_4pin
+$CMP JACK_3.5MM_4PIN
 D 3.5mm jack, 4 pin
 $ENDCMP
 #

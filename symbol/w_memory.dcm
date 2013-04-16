@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 23 feb 2013 10:45:03 CET
+EESchema-DOCLIB  Version 2.0  Date: dom 14 apr 2013 13:30:32 CEST
 #
 $CMP 24XX128-CS
 D 128K I2C CMOS Serial EEPROM, chip scale package
@@ -58,6 +58,30 @@ $ENDCMP
 $CMP 24XX512-TSSOP14
 D 512K I2C CMOS Serial EEPROM, TSSOP-14 package
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC512.pdf
+$ENDCMP
+#
+$CMP AS7C38098A-BGA
+D 512K X 16 BIT HIGH SPEED CMOS SRAM
+K AS7C38098A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/AMEM_AS7C38098A.pdf
+$ENDCMP
+#
+$CMP AS7C38098A-TSOP
+D 512K X 16 BIT HIGH SPEED CMOS SRAM
+K AS7C38098A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/AMEM_AS7C38098A.pdf
+$ENDCMP
+#
+$CMP IS61WV51216-BGA
+D 512K X 16 bit high speed asynchronous CMOS static RAM with 3.3V supply
+K IS61WV51216
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS61WV51216BLL-10TLI.pdf
+$ENDCMP
+#
+$CMP IS61WV51216-TSOP
+D 512K X 16 bit high speed asynchronous CMOS static RAM with 3.3V supply
+K IS61WV51216
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS61WV51216BLL-10TLI.pdf
 $ENDCMP
 #
 #End Doc Library

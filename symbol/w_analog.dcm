@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 09 mar 2013 12:08:22 CET
+EESchema-DOCLIB  Version 2.0  Date: dom 14 apr 2013 13:59:08 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -24,6 +24,12 @@ $ENDCMP
 $CMP ADP3110A
 D Half-Bridge Mosfet driver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ON_ADP3110A.pdf
+$ENDCMP
+#
+$CMP CS434x
+D 10-pin, 24-Bit, 192 kHz Stereo D/A Converter
+K DAC CS4344 CS4345 CS4346 CS4348
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/CIL_CS434x.pdf
 $ENDCMP
 #
 $CMP FAN7382
@@ -158,6 +164,12 @@ $ENDCMP
 #
 $CMP TPS7A16
 D 60-V, 5-μA IQ, 100-mA, Low-Dropout Voltage regulator with Enable and Power-Good
+$ENDCMP
+#
+$CMP TS4871
+D Output Rail-to-Rail 1W audio power amplifier with standby mode
+K TS4871
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/Rail_to_rail/ST_TS4871.pdf
 $ENDCMP
 #
 $CMP TS925I

@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  gio 04 apr 2013 21:21:30 CEST
+PCBNEW-LibModule-V1  dom 14 apr 2013 11:58:24 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -25,6 +25,7 @@ ssop-16
 ssop-24
 ssop-28
 ssop-48
+tsop2-44
 tssop-14
 tssop-16
 tssop-20
@@ -33,7 +34,7 @@ tssop-28
 tssop-8
 $EndINDEX
 $MODULE hsop-44
-Po 0 0 0 15 50522F8D 00000000 ~~
+Po 0 0 0 15 5169ABE4 00000000 ~~
 Li hsop-44
 Cd HSOP-44, Freescale 1291-02
 Sc 0
@@ -46,7 +47,7 @@ DS -8.001 -5.4991 -8.001 4.699 0.254 21
 DS 8.001 5.4991 8.001 -5.4991 0.254 21
 DS -7.2009 5.4991 -8.001 4.699 0.254 21
 DS -8.001 -5.4991 8.001 -5.4991 0.254 21
-DC -1.6764 1.2446 -1.9558 1.6256 0.127 21
+DC -6.9764 4.4446 -7.2558 4.8256 0.127 21
 $PAD
 Sh "23" R 0.38608 1.69926 0 0 0
 Dr 0 0 0
@@ -258,7 +259,7 @@ Ne 0 ""
 Po -2.2733 6.59892
 $EndPAD
 $PAD
-Sh "21" R 12.79906 7.49808 0 0 0
+Sh "45" R 12.79906 7.49808 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -279,7 +280,7 @@ Ne 0 ""
 Po -1.62306 6.59892
 $EndPAD
 $PAD
-Sh "21" R 16.09852 3.39852 0 0 0
+Sh "45" R 16.09852 3.39852 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -567,7 +568,7 @@ Po 0 0 0 15 515DD2B7 00000000 ~~
 Li msoic-8_powerpad
 Cd MSOIC-8 Powerpad
 Sc 0
-AR
+AR 
 Op 0 0 0
 T0 0 -3.4 0.25 0.25 0 0.06 N V 21 N "U***"
 T1 0 3.4 0.24892 0.24892 0 0.06 N V 21 N "msoic-8_powerpad"
@@ -960,7 +961,7 @@ DS -6.90118 5.6007 8.001 5.6007 0.254 21
 DS -6.90118 5.6007 -8.001 4.50088 0.254 21
 DS -8.001 -5.6007 8.001 -5.6007 0.254 21
 DS 8.001 -5.6007 8.001 5.6007 0.254 21
-DC -1.6764 1.2446 -1.9558 1.6256 0.127 21
+DC -6.7764 4.3446 -7.0558 4.7256 0.127 21
 $PAD
 Sh "1" R 0.75946 1.69926 0 0 0
 Dr 0 0 0
@@ -3846,6 +3847,335 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE ssop-48
+$MODULE tsop2-44
+Po 0 0 0 15 516A7DB5 00000000 ~~
+Li tsop2-44
+Cd TSOP2-44
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.016 0.7493 0.7493 0 0.14986 N V 21 N "TSOP2-44"
+T1 0 1.016 0.7493 0.7493 0 0.14986 N V 21 N "U***"
+DS -9.3 -5.1 9.3 -5.1 0.127 21
+DS 9.3 -5.1 9.3 5.1 0.127 21
+DS 9.3 5.1 -9.3 5.1 0.127 21
+DS -9.3 5.1 -9.3 -5.1 0.127 21
+DC -8.4764 4.2446 -8.7558 4.6256 0.127 21
+$PAD
+Sh "23" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.4 -5.65
+$EndPAD
+$PAD
+Sh "24" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.6 -5.65
+$EndPAD
+$PAD
+Sh "25" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.8 -5.65
+$EndPAD
+$PAD
+Sh "26" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -5.65
+$EndPAD
+$PAD
+Sh "27" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2 -5.65
+$EndPAD
+$PAD
+Sh "28" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 -5.65
+$EndPAD
+$PAD
+Sh "29" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 -5.65
+$EndPAD
+$PAD
+Sh "30" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 -5.65
+$EndPAD
+$PAD
+Sh "31" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -5.65
+$EndPAD
+$PAD
+Sh "32" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -5.65
+$EndPAD
+$PAD
+Sh "33" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -5.65
+$EndPAD
+$PAD
+Sh "34" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -5.65
+$EndPAD
+$PAD
+Sh "36" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -5.65
+$EndPAD
+$PAD
+Sh "35" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -5.65
+$EndPAD
+$PAD
+Sh "37" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 -5.65
+$EndPAD
+$PAD
+Sh "38" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 -5.65
+$EndPAD
+$PAD
+Sh "39" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4 -5.65
+$EndPAD
+$PAD
+Sh "40" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2 -5.65
+$EndPAD
+$PAD
+Sh "41" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -5.65
+$EndPAD
+$PAD
+Sh "42" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.8 -5.65
+$EndPAD
+$PAD
+Sh "43" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.6 -5.65
+$EndPAD
+$PAD
+Sh "44" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.4 -5.65
+$EndPAD
+$PAD
+Sh "1" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.4 5.65
+$EndPAD
+$PAD
+Sh "2" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.6 5.65
+$EndPAD
+$PAD
+Sh "3" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.8 5.65
+$EndPAD
+$PAD
+Sh "4" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 5.65
+$EndPAD
+$PAD
+Sh "5" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2 5.65
+$EndPAD
+$PAD
+Sh "6" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4 5.65
+$EndPAD
+$PAD
+Sh "7" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 5.65
+$EndPAD
+$PAD
+Sh "8" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 5.65
+$EndPAD
+$PAD
+Sh "10" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 5.65
+$EndPAD
+$PAD
+Sh "9" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 5.65
+$EndPAD
+$PAD
+Sh "11" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 5.65
+$EndPAD
+$PAD
+Sh "12" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 5.65
+$EndPAD
+$PAD
+Sh "13" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 5.65
+$EndPAD
+$PAD
+Sh "14" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 5.65
+$EndPAD
+$PAD
+Sh "15" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 5.65
+$EndPAD
+$PAD
+Sh "16" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 5.65
+$EndPAD
+$PAD
+Sh "17" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 5.65
+$EndPAD
+$PAD
+Sh "18" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2 5.65
+$EndPAD
+$PAD
+Sh "19" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 5.65
+$EndPAD
+$PAD
+Sh "20" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.8 5.65
+$EndPAD
+$PAD
+Sh "21" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.6 5.65
+$EndPAD
+$PAD
+Sh "22" R 0.5 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.4 5.65
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_dil/tsop2-44.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE tsop2-44
 $MODULE tssop-14
 Po 0 0 0 15 49E9AE23 00000000 ~~
 Li tssop-14

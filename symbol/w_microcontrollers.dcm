@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: mer 13 feb 2013 00:03:15 CET
+EESchema-DOCLIB  Version 2.0  Date: ven 12 apr 2013 21:02:30 CEST
 #
 $CMP ATMEGA164_324_644_1284P-DIP
 D 8-Bit AVR Microcontroller with 16/32/64/128KB In-System Programmable Flash
@@ -256,6 +256,18 @@ $CMP PIC18F66J60
 D FLASH-Based 8-Bit CMOS Microcontroller with Ethernet
 K 18F66J60,18F66J65,18F67J60
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC18F66-67-86-87_J_60-65.pdf
+$ENDCMP
+#
+$CMP STM32F102Cx
+D Medium-density USB access line, ARM-based 32b MCU with 64/128KB Flash,USB FS interface,6 timers, ADC&8 com. interfaces
+K STM32F102Cx
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F102x8-102xB.pdf
+$ENDCMP
+#
+$CMP STM32F102Rx
+D Medium-density USB access line, ARM-based 32b MCU with 64/128KB Flash,USB FS interface,6 timers, ADC&8 com. interfaces
+K STM32F102Rx
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F102x8-102xB.pdf
 $ENDCMP
 #
 $CMP STM32F405OX
