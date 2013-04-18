@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 14 apr 2013 13:59:08 CEST
+EESchema-DOCLIB  Version 2.0  Date: mar 16 apr 2013 20:09:07 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -26,7 +26,7 @@ D Half-Bridge Mosfet driver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ON_ADP3110A.pdf
 $ENDCMP
 #
-$CMP CS434x
+$CMP CS434X
 D 10-pin, 24-Bit, 192 kHz Stereo D/A Converter
 K DAC CS4344 CS4345 CS4346 CS4348
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/CIL_CS434x.pdf
@@ -45,6 +45,26 @@ $ENDCMP
 $CMP L6203
 D DMOS full bridge Driver
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L620x.pdf
+$ENDCMP
+#
+$CMP LFxx-DPAK
+D LFxx 500mA very low drop Linear Regulator, D-PAK package
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
+$ENDCMP
+#
+$CMP LFxx-Pentawatt
+D LFxx 500mA very low drop Linear Regulator, Pentawatt Package
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
+$ENDCMP
+#
+$CMP LFxx-PPAK
+D LFxx 500mA very low drop Linear Regulator, PPAK Package
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
+$ENDCMP
+#
+$CMP LFxx-TO220
+D LFxx 500mA very low drop Linear Regulator, TO220 package
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
 $ENDCMP
 #
 $CMP LM2731
