@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 14 apr 2013 21:08:15 CEST
+EESchema-DOCLIB  Version 2.0  Date: dom 21 apr 2013 17:00:10 CEST
 #
 $CMP ARDUINO_HEADER
 D Arduino shield Header
@@ -44,8 +44,21 @@ $CMP DB-9
 K CONN
 $ENDCMP
 #
+$CMP Jack_3.5mm_3pin
+D 3.5mm jack, 3 pin
+$ENDCMP
+#
 $CMP JACK_3.5MM_4PIN
 D 3.5mm jack, 4 pin
+$ENDCMP
+#
+$CMP Jack_3.5mm_5pin
+D 3.5mm jack, 5 pin
+$ENDCMP
+#
+$CMP RJ45-WIZNET-RB1-125BAG1A
+D RJ45 connector, Wiznet rb1-125bag1a
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Meccanici/Connettori/altro/WIZnet_RB1-125BAG1A.pdf
 $ENDCMP
 #
 $CMP USB-B

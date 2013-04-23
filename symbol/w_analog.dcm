@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: mar 16 apr 2013 20:09:07 CEST
+EESchema-DOCLIB  Version 2.0  Date: dom 21 apr 2013 10:18:21 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -15,6 +15,7 @@ $ENDCMP
 $CMP AD5320-MSOP
 D 12 bit RRO DAC, MSOP-8
 K DAC AD5320
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/adc-dac/TI_AD5320.pdf
 $ENDCMP
 #
 $CMP AD734
@@ -47,22 +48,22 @@ D DMOS full bridge Driver
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L620x.pdf
 $ENDCMP
 #
-$CMP LFxx-DPAK
+$CMP LFXX-DPAK
 D LFxx 500mA very low drop Linear Regulator, D-PAK package
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
 $ENDCMP
 #
-$CMP LFxx-Pentawatt
+$CMP LFXX-PENTAWATT
 D LFxx 500mA very low drop Linear Regulator, Pentawatt Package
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
 $ENDCMP
 #
-$CMP LFxx-PPAK
+$CMP LFXX-PPAK
 D LFxx 500mA very low drop Linear Regulator, PPAK Package
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
 $ENDCMP
 #
-$CMP LFxx-TO220
+$CMP LFXX-TO220
 D LFxx 500mA very low drop Linear Regulator, TO220 package
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
 $ENDCMP
@@ -115,12 +116,19 @@ D 42V, 2.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LT8610.pdf
 $ENDCMP
 #
+$CMP MAX1684
+D Low-Noise, 14V Input, 1A, PWM Step-Down Converter
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MAX_MAX1684-1685.pdf
+$ENDCMP
+#
 $CMP MBI6651GSD
 D 1A Step Down Converter
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MBLK_MBI6651.pdf
 $ENDCMP
 #
 $CMP MC34063
 D 1.5A step up/down/inverting switching regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/ON_MC34063.pdf
 $ENDCMP
 #
 $CMP MC34167
@@ -138,10 +146,12 @@ $ENDCMP
 #
 $CMP MCP1702_SOT
 D MCP1702 250mA Low Dropout Linear Regulator, SOT package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP1702.pdf
 $ENDCMP
 #
 $CMP MCP1702_TO
 D MCP1702 250mA Low Dropout Linear Regulator, TO package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP1702.pdf
 $ENDCMP
 #
 $CMP MCP3002
@@ -168,6 +178,41 @@ K DAC MCP4802 MCP4812 MCP4822
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP48x2.pdf
 $ENDCMP
 #
+$CMP MCP601-DIL
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP601-SOT
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP601R-SOT
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP602
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP603-DIL
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP603-SOT
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP604
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
 $CMP NE555
 D NE555 timer
 F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Clock/ST_NE555.pdf
@@ -175,6 +220,7 @@ $ENDCMP
 #
 $CMP TL2575
 D 1-A Simple Step-Down switching voltage regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/TI_TL2575.pdf
 $ENDCMP
 #
 $CMP TL431
@@ -182,8 +228,14 @@ D Programmable shunt regulator
 F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/FCD_TL431.pdf
 $ENDCMP
 #
+$CMP TPA3123D2
+D 25-W STEREO CLASS-D AUDIO POWER AMPLIFIER
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/TI_TPA3123D2.pdf
+$ENDCMP
+#
 $CMP TPS7A16
 D 60-V, 5-μA IQ, 100-mA, Low-Dropout Voltage regulator with Enable and Power-Good
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A16.pdf
 $ENDCMP
 #
 $CMP TS4871

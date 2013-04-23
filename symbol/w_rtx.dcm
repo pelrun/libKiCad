@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 07 apr 2013 14:15:03 CEST
+EESchema-DOCLIB  Version 2.0  Date: dom 21 apr 2013 10:37:05 CEST
 #
 $CMP FT232BL
 D USB UART
@@ -18,6 +18,11 @@ $ENDCMP
 $CMP ITEAD_HC-05
 D Itead HC-05 serial Bluetooth module
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ITEAD_HC-05.pdf
+$ENDCMP
+#
+$CMP KSZ8081RN
+D 10Base-T/100Base-TX PHY with RMII support
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MREL_KSZ8081RN.pdf
 $ENDCMP
 #
 $CMP M145026
@@ -68,6 +73,30 @@ $CMP MCP2120
 D IrDA Encoder/Decoder
 $ENDCMP
 #
+$CMP MCP23017-DIL
+D 16bit I/O expander with I2C interface
+K MCP23017
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP23017-QFN
+D 16bit I/O expander with I2C interface
+K MCP23017
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP23S17-DIL
+D 16bit I/O expander with SPI interface
+K MCP23S17
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP23S17-QFN
+D 16bit I/O expander with SPI interface
+K MCP23S17
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
 $CMP MCP2551
 D CAN BUS Transceiver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP2551.pdf
@@ -101,6 +130,11 @@ $ENDCMP
 $CMP SC16IS750
 D Single UART with I2C-bus/SPI interface, 64-byte FIFOs, IrDA SIR
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_SC16IS7x0.pdf
+$ENDCMP
+#
+$CMP SKY12347
+D DC-3.0 GHz Six-Bit Digital Attenuator with Serial or Parallel Driver (0.5 dB LSB)
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/SKY_SKY12347.pdf
 $ENDCMP
 #
 $CMP SP3224E

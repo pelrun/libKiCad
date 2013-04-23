@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 14 apr 2013 11:58:24 CEST
+PCBNEW-LibModule-V1  sab 20 apr 2013 12:39:12 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -11,6 +11,7 @@ msop-16
 powerso-20
 psop-24
 psop-8
+qsop-16ep
 so-14
 so-16
 so-8
@@ -1412,6 +1413,146 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE psop-8
+$MODULE qsop-16ep
+Po 0 0 0 15 51726ADE 00000000 ~~
+Li qsop-16ep
+Cd QSOP-16EP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 4.1 0.50038 0.50038 0 0.09906 N V 21 N "QSOP-16EP"
+T1 0 -4 0.50038 0.50038 0 0.09906 N V 21 N "U***"
+DS -2.5 -2 2.5 -2 0.127 21
+DS 2.5 -2 2.5 2 0.127 21
+DS 2.5 2 -2.5 2 0.127 21
+DS -2.5 2 -2.5 -2 0.127 21
+DC -1.905 1.424 -2.032 1.678 0.127 21
+$PAD
+Sh "4" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.32512 2.6545
+$EndPAD
+$PAD
+Sh "5" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.32512 2.6545
+$EndPAD
+$PAD
+Sh "6" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.97536 2.6545
+$EndPAD
+$PAD
+Sh "7" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.6256 2.6545
+$EndPAD
+$PAD
+Sh "16" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.26568 -2.6545
+$EndPAD
+$PAD
+Sh "1" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.27584 2.6545
+$EndPAD
+$PAD
+Sh "2" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.6256 2.6545
+$EndPAD
+$PAD
+Sh "3" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.97536 2.6545
+$EndPAD
+$PAD
+Sh "9" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.27584 -2.6545
+$EndPAD
+$PAD
+Sh "10" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.6256 -2.6545
+$EndPAD
+$PAD
+Sh "11" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.97536 -2.6545
+$EndPAD
+$PAD
+Sh "12" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.32512 -2.6545
+$EndPAD
+$PAD
+Sh "13" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.32512 -2.6545
+$EndPAD
+$PAD
+Sh "14" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.97536 -2.6545
+$EndPAD
+$PAD
+Sh "8" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.27584 2.6545
+$EndPAD
+$PAD
+Sh "15" R 0.356 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.6256 -2.6545
+$EndPAD
+$PAD
+Sh "17" R 3.302 2.286 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_dil/qsop-16ep.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE qsop-16ep
 $MODULE so-14
 Po 0 0 0 15 4E688543 00000000 ~~
 Li so-14
