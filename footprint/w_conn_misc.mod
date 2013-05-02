@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  gio 04 apr 2013 22:02:02 CEST
+PCBNEW-LibModule-V1  lun 29 apr 2013 18:02:42 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -10,7 +10,6 @@ arduino_mega_header
 arduino_nano_header
 arduino_pin_socket_8
 dc_socket
-lemo_epb00250ntn
 microsd_socket
 molex_6p6c
 sd_socket
@@ -1645,63 +1644,6 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE dc_socket
-$MODULE lemo_epb00250ntn
-Po 0 0 0 15 503A20E5 00000000 ~~
-Li lemo_epb00250ntn
-Cd LEMO connector, EPB.00.250.NTN
-Sc 0
-AR 
-Op 0 0 0
-T0 0 5.10032 1.524 1.524 0 0.3048 N V 21 N "lemo_epb00250ntn"
-T1 0 -4.8006 1.524 1.524 0 0.3048 N V 21 N "VAL**"
-DC 0 0 -1.30048 0 0.381 21
-DC 0 0 -3.50012 0 0.381 21
-DS -3.59918 -3.59918 3.59918 -3.59918 0.381 21
-DS 3.59918 -3.59918 3.59918 3.59918 0.381 21
-DS 3.59918 3.59918 -3.59918 3.59918 0.381 21
-DS -3.59918 3.59918 -3.59918 -3.59918 0.381 21
-$PAD
-Sh "1" C 1.79832 1.79832 0 0 0
-Dr 0.89916 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 0 0
-$EndPAD
-$PAD
-Sh "2" C 1.79578 1.79578 0 0 0
-Dr 0.89916 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 2.54 -2.54
-$EndPAD
-$PAD
-Sh "2" C 1.79578 1.79578 0 0 0
-Dr 0.89916 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po -2.54 -2.54
-$EndPAD
-$PAD
-Sh "2" C 1.79578 1.79578 0 0 0
-Dr 0.89916 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po -2.54 2.54
-$EndPAD
-$PAD
-Sh "2" C 1.79578 1.79578 0 0 0
-Dr 0.89916 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 2.54 2.54
-$EndPAD
-$SHAPE3D
-Na "../libKiCad/3d/conn_misc/lemo_epb00250ntn.wrl"
-Sc 1 1 1
-Of 0 0 0
-Ro 0 0 0
-$EndSHAPE3D
-$EndMODULE lemo_epb00250ntn
 $MODULE microsd_socket
 Po 0 0 0 15 515DDC2E 00000000 ~~
 Li microsd_socket
