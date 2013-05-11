@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 02 mar 2013 11:51:57 CET
+EESchema-DOCLIB  Version 2.0  Date: dom 05 mag 2013 11:03:45 CEST
 #
 $CMP FOTEK_SSR
 D Fotek SSR series solid state relay
@@ -42,6 +42,16 @@ $ENDCMP
 $CMP RELAY_HB
 D HB series relay
 K relay HB
+$ENDCMP
+#
+$CMP RELAY_HJR-3FF_H
+D HJR-3FF Form A relay
+K relay HJR-3FF
+$ENDCMP
+#
+$CMP RELAY_HJR-3FF_Z
+D HJR-3FF Form C relay
+K relay HJR-3FF
 $ENDCMP
 #
 $CMP RELAY_PE

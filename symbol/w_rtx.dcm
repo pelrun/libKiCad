@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 21 apr 2013 10:37:05 CEST
+EESchema-DOCLIB  Version 2.0  Date: dom 05 mag 2013 16:03:53 CEST
 #
 $CMP FT232BL
 D USB UART
@@ -102,6 +102,16 @@ D CAN BUS Transceiver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP2551.pdf
 $ENDCMP
 #
+$CMP PCA9306-BGA
+D Dual bidirectional I2C bus and SMBus Voltage-Level translator
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_PCA9306.pdf
+$ENDCMP
+#
+$CMP PCA9306-DIL
+D Dual bidirectional I2C bus and SMBus Voltage-Level translator
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_PCA9306.pdf
+$ENDCMP
+#
 $CMP PCF8574
 D Remote 8-bit I/O expander for I2C-bus
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_PCF8574.pdf
@@ -145,6 +155,21 @@ $ENDCMP
 $CMP SP3226E
 D 3.0V to 5.5V RS-232 Transceivers with Auto On-Line Plus
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_SP322xE.pdf
+$ENDCMP
+#
+$CMP TXS0102-BGA
+D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
+$ENDCMP
+#
+$CMP TXS0102-DIL
+D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
+$ENDCMP
+#
+$CMP TXS0102-QFN
+D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
 $ENDCMP
 #
 $CMP XR20M1170-16QFN

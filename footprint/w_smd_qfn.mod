@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 20 apr 2013 13:32:16 CEST
+PCBNEW-LibModule-V1  dom 05 mag 2013 15:24:16 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -26,6 +26,7 @@ qfn-24
 qfn-28
 qfn-44
 qfn-64
+r-px2son-n8
 tdfn8
 $EndINDEX
 $MODULE DFN-6_Clock
@@ -5674,6 +5675,110 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE qfn-64
+$MODULE r-px2son-n8
+Po 0 0 0 15 51865AEA 00000000 ~~
+Li r-px2son-n8
+Cd Plastic QFP, TI R-PX2SON-N8
+Sc 0
+AR dfn5
+Op 0 0 0
+T0 0 -1.2 0.50038 0.50038 0 0.09906 N V 21 N "r-px2son-n8"
+T1 0 1.2 0.50038 0.50038 0 0.09906 N V 21 N "VAL**"
+DC -0.4 0.25 -0.5 0.3 0.127 21
+DS -0.7 -0.55 0.7 -0.55 0.127 21
+DS 0.7 -0.55 0.7 0.55 0.127 21
+DS 0.7 0.55 -0.7 0.55 0.127 21
+DS -0.7 0.55 -0.7 -0.55 0.127 21
+DS -0.8002 0.35048 -0.8002 0.6502 0.127 21
+DS -0.8002 0.6502 -0.50048 0.6502 0.127 21
+DS -0.50048 0.6502 -0.8002 0.35048 0.127 21
+$PAD
+Sh "1" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.525 0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "2" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.175 0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "3" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.175 0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "4" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.525 0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "5" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.525 -0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "6" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.175 -0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "7" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.175 -0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "8" R 0.2 0.53 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.525 -0.3335
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_qfn/r-px2son-n8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-px2son-n8
 $MODULE tdfn8
 Po 0 0 0 15 51288ED2 00000000 ~~
 Li tdfn8

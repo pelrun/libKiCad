@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 20 apr 2013 12:39:12 CEST
+PCBNEW-LibModule-V1  dom 05 mag 2013 14:53:39 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -8,6 +8,7 @@ msoic-8
 msoic-8_powerpad
 msop-12
 msop-16
+pdso-8
 powerso-20
 psop-24
 psop-8
@@ -948,6 +949,107 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE msop-16
+$MODULE pdso-8
+Po 0 0 0 15 5186385C 00000000 ~~
+Li pdso-8
+Cd PDSO-8
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -0.29972 0.24892 0.24892 0 0.06096 N V 21 N "PDSO-8"
+T1 0 0.29972 0.24892 0.24892 0 0.0508 N V 21 N "U***"
+DS -0.25 1.2 -0.25 1.6 0.127 21
+DS 0.75 1.2 0.75 1.6 0.127 21
+DS 0.25 1.2 0.25 1.6 0.127 21
+DC -0.6 0.8 -0.8 0.8 0.127 21
+DS -1 -1.2 1 -1.2 0.127 21
+DS 1 -1.2 1 1.2 0.127 21
+DS 1 1.2 -1 1.2 0.127 21
+DS -1 1.2 -1 -1.2 0.127 21
+DS 0.25 -1.6 0.25 -1.2 0.127 21
+DS -0.25 -1.6 -0.25 -1.2 0.127 21
+DS -0.75 -1.6 -0.75 -1.2 0.127 21
+DS 0.75 -1.6 0.75 -1.2 0.127 21
+DS -0.75 1.2 -0.75 1.6 0.127 21
+$PAD
+Sh "1" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "2" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "3" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "4" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "5" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "7" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$PAD
+Sh "8" R 0.3 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -1.55
+.SolderMask 0.05
+.SolderPaste -0.025
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_dil/pdso-8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pdso-8
 $MODULE powerso-20
 Po 0 0 0 15 50198894 00000000 ~~
 Li powerso-20

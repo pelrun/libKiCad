@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 14 apr 2013 12:49:05 CEST
+PCBNEW-LibModule-V1  dom 05 mag 2013 15:47:34 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -11,6 +11,7 @@ mbga100
 mbga144
 mbga256
 mbga68
+r-xbga-n8
 spbgan298
 spbgan324
 tfbga100
@@ -12354,6 +12355,106 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE mbga68
+$MODULE r-xbga-n8
+Po 0 0 0 15 518662E8 00000000 ~~
+Li r-xbga-n8
+Cd 8 pin, 0.5mm pitch Die-Size Ball Grid Array
+Sc 0
+AR 
+Op 0 0 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.09906
+T0 0 -1 0.50038 0.50038 0 0.09906 N V 21 N "U***"
+T1 0 1.3 0.50038 0.50038 0 0.09906 N V 21 N "R-XBGA-N8"
+DS -0.96 -0.46 -0.96 0.46 0.127 21
+DS -0.96 0.46 0.96 0.46 0.127 21
+DS 0.96 -0.46 0.96 0.46 0.127 21
+DS -0.96 -0.46 0.96 -0.46 0.127 21
+DS -1.19964 -0.0998 -1.19964 0.7003 0.127 21
+DS -1.19964 0.7003 -0.39954 0.7003 0.127 21
+DS -0.79992 0.39964 -0.89898 0.30058 0.127 21
+DS -0.89898 0.09992 -0.59926 0.39964 0.127 21
+DS -0.70086 0.39964 -0.89898 0.19898 0.127 21
+$PAD
+Sh "C2" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "C1" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "D1" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "D2" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "B2" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "B1" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "A1" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "A2" C 0.26 0.26 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -0.25
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_bga/r-xbga-n8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-xbga-n8
 $MODULE spbgan298
 Po 0 0 0 15 511AC49F 00000000 ~~
 Li spbgan298

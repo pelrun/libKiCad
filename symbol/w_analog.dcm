@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 21 apr 2013 10:18:21 CEST
+EESchema-DOCLIB  Version 2.0  Date: dom 05 mag 2013 12:22:49 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -104,6 +104,21 @@ $ENDCMP
 $CMP LM50
 D SOT-23 Single-Supply Centigrade Temperature Sensor
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Temperatura/NSC_LM50.pdf
+$ENDCMP
+#
+$CMP LM6171
+D High Speed Low Power Low Distortion Voltage Feedback Amplifier
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LM6171.pdf
+$ENDCMP
+#
+$CMP LMH6702-SO8
+D 1.7 GHz, Ultra Low Distortion, Wideband Op Amp
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LMH6702.pdf
+$ENDCMP
+#
+$CMP LMH6702-SOT
+D 1.7 GHz, Ultra Low Distortion, Wideband Op Amp
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LMH6702.pdf
 $ENDCMP
 #
 $CMP LT3652
@@ -241,7 +256,7 @@ $ENDCMP
 $CMP TS4871
 D Output Rail-to-Rail 1W audio power amplifier with standby mode
 K TS4871
-F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/Rail_to_rail/ST_TS4871.pdf
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/ST_TS4871.pdf
 $ENDCMP
 #
 $CMP TS925I
