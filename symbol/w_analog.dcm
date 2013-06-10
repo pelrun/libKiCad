@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 05 mag 2013 12:22:49 CEST
+EESchema-DOCLIB  Version 2.0  Date: gio 06 giu 2013 19:45:50 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -20,6 +20,11 @@ $ENDCMP
 #
 $CMP AD734
 D 4-Quadrant Multiplier/Divider
+$ENDCMP
+#
+$CMP ADG719-EP
+D CMOS 1.8 V to 5.5 V, 2.5ohm 2:1 Mux/SPDT Switch in SOT-23
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Analog_switch/AD_ADG719EP.pdf
 $ENDCMP
 #
 $CMP ADP3110A
@@ -66,6 +71,26 @@ $ENDCMP
 $CMP LFXX-TO220
 D LFxx 500mA very low drop Linear Regulator, TO220 package
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
+$ENDCMP
+#
+$CMP LM1117-SOT
+D 800mA Low Dropout Linear Regulator, SOT packages
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
+$ENDCMP
+#
+$CMP LM1117-TO
+D 800mA Low Dropout Linear Regulator, TO220 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
+$ENDCMP
+#
+$CMP LM1117-WSON
+D 800mA Low Dropout Linear Regulator, TO220 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
+$ENDCMP
+#
+$CMP LM1578A
+D LM1578A/LM2578A/LM3578A Switching Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/NSC_LM1578-3578.pdf
 $ENDCMP
 #
 $CMP LM2731
@@ -228,9 +253,29 @@ D 2.7V to 6.0V Single Supply CMOS Op Amps
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
 $ENDCMP
 #
+$CMP MPU-9150
+D 9-axis MotionTracking device
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/MPU-9150.pdf
+$ENDCMP
+#
 $CMP NE555
 D NE555 timer
 F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Clock/ST_NE555.pdf
+$ENDCMP
+#
+$CMP NJU7771F
+D Low Dropout linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
+$ENDCMP
+#
+$CMP NJU7772F
+D Low Dropout linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
+$ENDCMP
+#
+$CMP NJU7773F
+D Low Dropout linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
 $ENDCMP
 #
 $CMP TL2575

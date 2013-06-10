@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 05 mag 2013 15:24:16 CEST
+PCBNEW-LibModule-V1  gio 06 giu 2013 18:46:45 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -28,6 +28,7 @@ qfn-44
 qfn-64
 r-px2son-n8
 tdfn8
+wson
 $EndINDEX
 $MODULE DFN-6_Clock
 Po 0 0 0 15 4E52D592 00000000 ~~
@@ -5874,4 +5875,108 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE tdfn8
+$MODULE wson
+Po 0 0 0 15 51B0BA6B 00000000 ~~
+Li wson
+Cd Plastic QFP, TI WSON
+Sc 0
+AR dfn5
+Op 0 0 0
+T0 0 2.5 0.50038 0.50038 0 0.09906 N V 21 N "wson"
+T1 0 -2.5 0.50038 0.50038 0 0.09906 N V 21 N "VAL**"
+DS -2.10096 1.49936 -2.10096 2.0988 0.127 21
+DS -2.10096 2.0988 -1.49898 2.0988 0.127 21
+DS -1.49898 2.0988 -2.10096 1.49936 0.127 21
+DC -1.29992 1.29926 -1.39898 1.29926 0.127 21
+DC -1.29992 1.29926 -1.50058 1.29926 0.127 21
+DC -1.29992 1.29926 -1.59964 1.29926 0.127 21
+DC -1.29992 1.29926 -1.59964 1.29926 0.127 21
+DS -1.69964 1.99974 -1.99936 1.70002 0.127 21
+DS -1.99936 1.79908 -1.80124 1.99974 0.127 21
+DS -1.9003 1.99974 -1.99936 1.90068 0.127 21
+DC -1.29992 1.29926 -1.59964 1.49992 0.127 21
+DS -2 -2 2 -2 0.127 21
+DS 2 -2 2 2 0.127 21
+DS 2 2 -2 2 0.127 21
+DS -2 2 -2 -2 0.127 21
+$PAD
+Sh "1" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "4" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "5" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "7" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "8" R 0.3 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -1.65
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "9" R 3 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+.SolderMask 0.06858
+.SolderPaste -0.09906
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_qfn/wson.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE wson
 $EndLIBRARY

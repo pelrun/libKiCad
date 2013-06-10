@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  mar 16 apr 2013 19:56:40 CEST
+PCBNEW-LibModule-V1  gio 06 giu 2013 19:12:42 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -53,6 +53,7 @@ to247
 to3-2
 to3-4
 to92_3
+to99
 top3
 $EndINDEX
 $MODULE Multiwatt11
@@ -3385,6 +3386,82 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE to92_3
+$MODULE to99
+Po 0 0 0 15 51B0C0DC 00000000 ~~
+Li to99
+Cd TO99 package
+Sc 0
+AR to18
+Op 0 0 0
+T0 0 6 1.524 1.524 0 0.3048 N V 21 N "TO99"
+T1 0 -5.8 1.524 1.524 0 0.3048 N V 21 N "Q***"
+DS -3.7 2.9 -4.4 3.6 0.3048 21
+DS -4.4 3.6 -3.6 4.4 0.3048 21
+DS -3.6 4.4 -2.9 3.7 0.3048 21
+DC 0 0 -4.7 -0.1 0.3048 21
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.8 1.8
+$EndPAD
+$PAD
+Sh "4" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.8 -1.8
+$EndPAD
+$PAD
+Sh "8" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.8 1.8
+$EndPAD
+$PAD
+Sh "6" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.8 -1.8
+$EndPAD
+$PAD
+Sh "5" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "7" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "3" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.54
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/to/to99.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE to99
 $MODULE top3
 Po 0 0 0 15 4B90E3AC 00000000 ~~
 Li top3
