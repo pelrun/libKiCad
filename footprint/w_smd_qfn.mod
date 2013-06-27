@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  gio 06 giu 2013 18:46:45 CEST
+PCBNEW-LibModule-V1  sab 22 giu 2013 11:31:30 CEST
 # encoding utf-8
 Units mm
 $INDEX
 DFN-6_Clock
 dfn-s-8
+dfn10-3x3
 dfn12
 dfn5
 dfn8
@@ -238,6 +239,129 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE dfn-s-8
+$MODULE dfn10-3x3
+Po 0 0 0 15 51C56EEC 00000000 ~~
+Li dfn10-3x3
+Cd Plastic DFN, 10 pins, 3x3, Linear Technology
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.89992 0.29972 0.29972 0 0.06096 N V 21 N "dfn10-3x3"
+T1 0 1.89992 0.29972 0.29972 0 0.06096 N V 21 N "VAL**"
+DS -1.6002 -1.6002 -1.6002 -1.09982 0.127 21
+DS -1.6002 -1.09982 -1.09982 -1.6002 0.127 21
+DS -1.09982 -1.6002 -1.6002 -1.6002 0.127 21
+DS -1.50114 -1.30048 -1.30048 -1.50114 0.127 21
+DS -1.50114 -1.50114 -1.50114 1.50114 0.127 21
+DS -1.50114 1.50114 1.50114 1.50114 0.127 21
+DS 1.50114 1.50114 1.50114 -1.50114 0.127 21
+DS 1.50114 -1.50114 -1.50114 -1.50114 0.127 21
+DC -1.09982 -1.09982 -1.19888 -0.99822 0.127 21
+$PAD
+Sh "1" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.425 -1
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.425 -0.5
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "3" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.425 0
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "4" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.425 0.5
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "5" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.425 1
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "6" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.425 1
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "7" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.425 0.5
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "8" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.425 0
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "9" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.425 -0.5
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "10" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.425 -1
+.SolderMask 0.07
+$EndPAD
+$PAD
+Sh "11" R 1.65 1.19 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -0.595
+.SolderMask 0.07
+.SolderPaste -0.1
+$EndPAD
+$PAD
+Sh "11" R 1.65 1.19 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0.595
+.SolderMask 0.07
+.SolderPaste -0.1
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_qfn/dfn10_3x3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dfn10-3x3
 $MODULE dfn12
 Po 0 0 0 15 513B15D0 00000000 ~~
 Li dfn12

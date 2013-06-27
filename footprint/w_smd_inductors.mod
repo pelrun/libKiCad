@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  gio 04 apr 2013 21:28:01 CEST
+PCBNEW-LibModule-V1  sab 22 giu 2013 13:36:42 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -9,6 +9,7 @@ inductor_smd_1008
 inductor_smd_4.8x2.8mm
 inductor_smd_5.8x2.8mm
 inductor_smd_8x5mm
+inductor_smd_do3316p
 $EndINDEX
 $MODULE inductor_smd_0402
 Po 0 0 0 15 50CC79BA 00000000 ~~
@@ -269,4 +270,45 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE inductor_smd_8x5mm
+$MODULE inductor_smd_do3316p
+Po 0 0 0 15 51C58C22 00000000 ~~
+Li inductor_smd_do3316p
+Cd Inductor SMD, Coilcraft DO3316P series
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.3 1.524 1.524 0 0.3048 N V 21 N "inductor_smd_do3316p"
+T1 0 6.2 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 5 2.6 5 -2.6 0.381 21
+DS -5 2.6 -5 -2.6 0.381 21
+DS -1.9 4.7 -6.5 1.6 0.381 21
+DS 6.5 1.6 1.9 4.7 0.381 21
+DS 1.9 -4.7 6.5 -1.6 0.381 21
+DS -6.5 -1.6 -1.9 -4.7 0.381 21
+DS 6.5 -1.6 6.5 1.6 0.381 21
+DS -6.5 -1.6 -6.5 1.6 0.381 21
+DS -1.9 4.7 1.9 4.7 0.381 21
+DS -1.9 -4.7 1.9 -4.7 0.381 21
+DC 0 0 -4.2 0 0.381 21
+$PAD
+Sh "1" R 2.92 2.79 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.145 0
+$EndPAD
+$PAD
+Sh "2" R 2.92 2.79 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.145 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_inductors/inductor_smd_do3316p.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE inductor_smd_do3316p
 $EndLIBRARY

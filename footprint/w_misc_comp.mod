@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 20 apr 2013 14:06:45 CEST
+PCBNEW-LibModule-V1  sab 15 giu 2013 11:00:14 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -10,6 +10,7 @@ fuse_smf
 inductor_1400_24,4x14_p23,6
 inductor_1400_24,4x18,5_p23,5
 inductor_8mm-p5
+trafo_ei38
 $EndINDEX
 $MODULE buzzer_sg13j12
 Po 0 0 0 15 510EC6CB 00000000 ~~
@@ -392,4 +393,70 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE inductor_8mm-p5
+$MODULE trafo_ei38
+Po 0 0 0 15 51BC2D16 00000000 ~~
+Li trafo_ei38
+Cd EI38 Transformer
+Kw fuse
+Sc 0
+AR 
+Op 0 0 0
+T0 0 2 1.524 1.524 0 0.3048 N V 21 N "Trafo_EI38"
+T1 0 -1.6 1.524 1.524 0 0.3048 N V 21 N "TR***"
+T2 -7.5 -10 1 1 0 0.2 N V 21 N "SEC2"
+T2 7.5 -10 1 1 0 0.2 N V 21 N "SEC1"
+T2 0 12.6 1 1 0 0.2 N V 21 N "PRI"
+DS 20.6 -17.8 20.6 17.8 0.37846 21
+DS -20.6 -17.8 -20.6 17.8 0.37846 21
+DS -20.6 17.8 20.6 17.8 0.37846 21
+DS -20.6 -17.8 20.6 -17.8 0.37846 21
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 12.5
+$EndPAD
+$PAD
+Sh "5" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 12.5
+$EndPAD
+$PAD
+Sh "6" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 -12.5
+$EndPAD
+$PAD
+Sh "7" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -12.5
+$EndPAD
+$PAD
+Sh "9" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -12.5
+$EndPAD
+$PAD
+Sh "10" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 -12.5
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/misc_comp/trafo_EI38.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trafo_ei38
 $EndLIBRARY

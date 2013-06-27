@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: gio 06 giu 2013 19:45:50 CEST
+EESchema-DOCLIB  Version 2.0  Date: sab 22 giu 2013 11:42:46 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -84,7 +84,7 @@ F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/
 $ENDCMP
 #
 $CMP LM1117-WSON
-D 800mA Low Dropout Linear Regulator, TO220 package
+D 800mA Low Dropout Linear Regulator, WSON package
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
 $ENDCMP
 #
@@ -154,6 +154,16 @@ $ENDCMP
 $CMP LT8610
 D 42V, 2.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LT8610.pdf
+$ENDCMP
+#
+$CMP LTC3127-DD
+D 1A Buck-Boost DC/DC converter with programmable input current limit
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LTC3127.pdf
+$ENDCMP
+#
+$CMP LTC3127-MSE
+D 1A Buck-Boost DC/DC converter with programmable input current limit
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LTC3127.pdf
 $ENDCMP
 #
 $CMP MAX1684
@@ -276,6 +286,11 @@ $ENDCMP
 $CMP NJU7773F
 D Low Dropout linear regulator
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
+$ENDCMP
+#
+$CMP TDA2822M
+D Dual low voltage Power Amplifiers
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/ST_TDA2822.pdf
 $ENDCMP
 #
 $CMP TL2575
