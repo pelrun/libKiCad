@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 22 giu 2013 11:42:46 CEST
+EESchema-DOCLIB  Version 2.0  Date: sab 29 giu 2013 12:35:58 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -36,6 +36,18 @@ $CMP CS434X
 D 10-pin, 24-Bit, 192 kHz Stereo D/A Converter
 K DAC CS4344 CS4345 CS4346 CS4348
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/CIL_CS434x.pdf
+$ENDCMP
+#
+$CMP CS9236L
+D Single chip Wavetable music synthesizer
+K CS9236
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/CRY_CS9236.pdf
+$ENDCMP
+#
+$CMP CS9236Q
+D Single chip Wavetable music synthesizer
+K CS9236
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/CRY_CS9236.pdf
 $ENDCMP
 #
 $CMP FAN7382
@@ -288,6 +300,12 @@ D Low Dropout linear regulator
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
 $ENDCMP
 #
+$CMP SAM2195
+D Low power single chip synthesizer with effects
+K SAM2195
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
+$ENDCMP
+#
 $CMP TDA2822M
 D Dual low voltage Power Amplifiers
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/ST_TDA2822.pdf
@@ -331,6 +349,18 @@ $ENDCMP
 #
 $CMP ULN2803
 D Darlington Transistor array
+$ENDCMP
+#
+$CMP VS1003-B
+D Low power single chip synthesizer with effects
+K SAM2195
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
+$ENDCMP
+#
+$CMP VS1003-L
+D Low power single chip synthesizer with effects
+K SAM2195
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
 $ENDCMP
 #
 #End Doc Library

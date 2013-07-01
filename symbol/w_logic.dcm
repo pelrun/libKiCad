@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: mar 08 gen 2013 22:57:20 CET
+EESchema-DOCLIB  Version 2.0  Date: ven 28 giu 2013 21:31:01 CEST
 #
 $CMP 4093
 D Quad 2-input NAND Schmitt Trigger, logic symbol
@@ -75,6 +75,16 @@ D Quad 2-input OR gate, logic symbol
 F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Porte_logiche/OR/NXP_74HC32_74HCT32.pdf
 $ENDCMP
 #
+$CMP 744049
+D Hex Buffers, Inverting, logic symbol
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/TI_CD74HC4050.pdf
+$ENDCMP
+#
+$CMP 744050
+D Hex Buffers, Non-inverting, logic symbol
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/TI_CD74HC4050.pdf
+$ENDCMP
+#
 $CMP 7474
 D Dual D-type flip-flop with Set and Reset; positive edge trigger
 F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Flip-Flop/NXP_74HC-HCT74.pdf
@@ -108,6 +118,16 @@ $ENDCMP
 $CMP 74HC245
 D Octal BUS Transceivers
 F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/NXP_74HC245-HCT245.pdf
+$ENDCMP
+#
+$CMP 74HC4049
+D Hex Buffers, Inverting
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/TI_CD74HC4050.pdf
+$ENDCMP
+#
+$CMP 74HC4050
+D Hex Buffers, Non-inverting
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/TI_CD74HC4050.pdf
 $ENDCMP
 #
 $CMP 74HC4051

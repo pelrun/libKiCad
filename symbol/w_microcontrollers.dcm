@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: ven 12 apr 2013 21:02:30 CEST
+EESchema-DOCLIB  Version 2.0  Date: ven 28 giu 2013 22:43:02 CEST
 #
 $CMP ATMEGA164_324_644_1284P-DIP
 D 8-Bit AVR Microcontroller with 16/32/64/128KB In-System Programmable Flash
@@ -90,10 +90,64 @@ K CC2530F
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/TI_CC2530F.pdf
 $ENDCMP
 #
+$CMP CS9236Q
+D Single chip Wavetable music synthesizer
+K CS9236
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/CRY_CS9236.pdf
+$ENDCMP
+#
 $CMP CY8C21234
 D FLASH-Based 8-Bit CMOS Microcontroller
 K 16F628
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC16F62xA.pdf
+$ENDCMP
+#
+$CMP ICE40HX1K-CB132
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX1K-TQ144
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX1K-VQ100
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX4K-CB132
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX4K-TQ144
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX8K-CB132
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX8K-CM225
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
+$ENDCMP
+#
+$CMP ICE40HX8K-CT256
+D ICE40 HX-Series Ultra Low-Power mobileFPGA
+K ICE40HX
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/LATC_ICE40HX.pdf
 $ENDCMP
 #
 $CMP LPC122XXX48
@@ -120,9 +174,39 @@ K LPC1769
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NXP_LPC1769-68-67-66-65-64-63.pdf
 $ENDCMP
 #
+$CMP MCP120G-TO
+D Microcontroller Supervisory circuit with Open Drain output, TO92 package with G bondout
+K MCP120
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_MCP120-130.pdf
+$ENDCMP
+#
+$CMP MCP130-SN
+D Microcontroller Supervisory circuit with Open Drain output, SO-8 package
+K MCP130
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_MCP120-130.pdf
+$ENDCMP
+#
 $CMP MCP130-TT
-D Microcontroller Supervisory circuit with Open Drain output
-K 12F609
+D Microcontroller Supervisory circuit with Open Drain output, SOT23 package
+K MCP130
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_MCP120-130.pdf
+$ENDCMP
+#
+$CMP MCP130D-TO
+D Microcontroller Supervisory circuit with Open Drain output, TO92 package with D bondout
+K MCP130
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_MCP120-130.pdf
+$ENDCMP
+#
+$CMP MCP130F-TO
+D Microcontroller Supervisory circuit with Open Drain output, TO92 package with F bondout
+K MCP130
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_MCP120-130.pdf
+$ENDCMP
+#
+$CMP MCP130H-TO
+D Microcontroller Supervisory circuit with Open Drain output, TO92 package with H bondout
+K MCP120 MCP130
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_MCP120-130.pdf
 $ENDCMP
 #
@@ -258,13 +342,13 @@ K 18F66J60,18F66J65,18F67J60
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC18F66-67-86-87_J_60-65.pdf
 $ENDCMP
 #
-$CMP STM32F102Cx
+$CMP STM32F102CX
 D Medium-density USB access line, ARM-based 32b MCU with 64/128KB Flash,USB FS interface,6 timers, ADC&8 com. interfaces
 K STM32F102Cx
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F102x8-102xB.pdf
 $ENDCMP
 #
-$CMP STM32F102Rx
+$CMP STM32F102RX
 D Medium-density USB access line, ARM-based 32b MCU with 64/128KB Flash,USB FS interface,6 timers, ADC&8 com. interfaces
 K STM32F102Rx
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F102x8-102xB.pdf
