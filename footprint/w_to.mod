@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  gio 06 giu 2013 19:12:42 CEST
+PCBNEW-LibModule-V1  dom 14 lug 2013 19:28:55 CEST
 # encoding utf-8
 Units mm
 $INDEX
 Multiwatt11
 Pentawatt
+hzip25-100f
 ipak
 ipak_std
 sot82
@@ -230,6 +231,226 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE Pentawatt
+$MODULE hzip25-100f
+Po 0 0 0 15 51E2DFB7 00000000 ~~
+Li hzip25-100f
+Cd HZIP25-1.00F
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -7.80034 1.524 1.524 0 0.3048 N V 21 N "U***"
+T1 0 -5.4991 1.524 1.524 0 0.3048 N V 21 N "HZIP25-1.00F"
+DS 1 0 1 -2 0.3048 21
+DS 3 0 3 -2 0.3048 21
+DS 2 4 2 -2 0.3048 21
+DS 6 4 6 -2 0.3048 21
+DS 7 0 7 -2 0.3048 21
+DS 5 0 5 -2 0.3048 21
+DS 4 4 4 -2 0.3048 21
+DS 12 4 12 -2 0.3048 21
+DS 10 4 10 -2 0.3048 21
+DS 11 0 11 -2 0.3048 21
+DS 9 0 9 -2 0.3048 21
+DS 8 4 8 -2 0.3048 21
+DS -4 4 -4 -2 0.3048 21
+DS -3 0 -3 -2 0.3048 21
+DS -1 0 -1 -2 0.3048 21
+DS -2 4 -2 -2 0.3048 21
+DS 0 4 0 -2 0.3048 21
+DS -8 4 -8 -2 0.3048 21
+DS -7 0 -7 -2 0.3048 21
+DS -5 0 -5 -2 0.3048 21
+DS -6 4 -6 -2 0.3048 21
+DS -10 4 -10 -2 0.3048 21
+DS -9 0 -9 -2 0.3048 21
+DS -11 0 -11 -2 0.3048 21
+DS -12 4 -12 -2 0.3048 21
+DS -14.7 -4.2 14.7 -4.2 0.3048 21
+DS -14.7 -4.2 -14.7 0.3 0.3048 21
+DS -14.7 0.3 14.7 0.3 0.3048 21
+DS 14.7 -4.2 14.7 0.3 0.3048 21
+$PAD
+Sh "15" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 4
+$EndPAD
+$PAD
+Sh "1" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 4
+$EndPAD
+$PAD
+Sh "2" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "3" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 4
+$EndPAD
+$PAD
+Sh "4" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "5" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 4
+$EndPAD
+$PAD
+Sh "6" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "7" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 4
+$EndPAD
+$PAD
+Sh "8" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "9" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 4
+$EndPAD
+$PAD
+Sh "10" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "11" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 4
+$EndPAD
+$PAD
+Sh "12" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "13" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 4
+$EndPAD
+$PAD
+Sh "14" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "16" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "17" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 4
+$EndPAD
+$PAD
+Sh "18" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "19" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 4
+$EndPAD
+$PAD
+Sh "20" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "21" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 4
+$EndPAD
+$PAD
+Sh "22" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "23" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 4
+$EndPAD
+$PAD
+Sh "24" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "25" O 1.06 1.6 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 4
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/to/hzip25-100f.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hzip25-100f
 $MODULE ipak
 Po 0 0 0 15 4E4BB391 00000000 ~~
 Li ipak

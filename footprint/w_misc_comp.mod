@@ -1,8 +1,9 @@
-PCBNEW-LibModule-V1  sab 15 giu 2013 11:00:14 CEST
+PCBNEW-LibModule-V1  dom 14 lug 2013 13:32:18 CEST
 # encoding utf-8
 Units mm
 $INDEX
 buzzer_sg13j12
+buzzer_tmb
 encoder_alps-ec12d
 encoder_alps-ec12e
 fuse_holder_CQ-2
@@ -62,6 +63,40 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE buzzer_sg13j12
+$MODULE buzzer_tmb
+Po 0 0 0 15 51E28C2B 00000000 ~~
+Li buzzer_tmb
+Cd Buzzer, TMB
+Kw buzzer
+Sc 0
+AR crystal_hc-49/smd
+Op 0 A 0
+T0 0 -6.9 0.99822 0.99822 0 0.19812 N V 21 N "BZ***"
+T1 0 7 0.99822 0.99822 0 0.19812 N V 21 N "buzzer_TMB"
+DS 6.6 0 8.6 0 0.37846 21
+DS 7.6 1 7.6 -1 0.37846 21
+DC 0 0 -6 0 0.37846 21
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.8 0
+$EndPAD
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.8 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/misc_comp/buzzer_tmb.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE buzzer_tmb
 $MODULE encoder_alps-ec12d
 Po 0 0 0 15 4ED293C1 00000000 ~~
 Li encoder_alps-ec12d

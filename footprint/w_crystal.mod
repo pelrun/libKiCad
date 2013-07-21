@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 20 apr 2013 14:42:26 CEST
+PCBNEW-LibModule-V1  dom 14 lug 2013 12:39:13 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -8,6 +8,13 @@ crystal_hc-49s
 crystal_hc-49u
 crystal_hc-49u_horiz
 crystal_smd_5x3.2mm
+crystal_smd_ma-406
+crystal_smd_ma-505
+crystal_smd_ma-506
+crystal_tc-26
+crystal_tc-26_horiz
+crystal_tc-38
+crystal_tc-38_horiz
 resonator_sip3
 $EndINDEX
 $MODULE crystal_fa128
@@ -287,6 +294,306 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE crystal_smd_5x3.2mm
+$MODULE crystal_smd_ma-406
+Po 0 0 0 15 51E27FCE 00000000 ~~
+Li crystal_smd_ma-406
+Cd Epson MA-406 SMD crystal
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.6 0.49784 0.49784 0 0.09906 N V 21 N "X***"
+T1 0 3.2 0.49784 0.49784 0 0.09906 N V 21 N "crystal_smd_MA-406"
+DC 3.6 0 2.9 0.3 0.254 21
+DS -5.9 -0.7 -5.1 -0.7 0.254 21
+DS -5.1 -0.7 -5.1 0.7 0.254 21
+DS -5.1 0.7 -5.9 0.7 0.254 21
+DS -5.9 -2 5.9 -2 0.254 21
+DS 5.9 -2 5.9 2 0.254 21
+DS -5.9 2 5.9 2 0.254 21
+DS -5.9 -2 -5.9 2 0.254 21
+$PAD
+Sh "1" R 1.8 1.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 1.8
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 1.8 1.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 -1.8
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 1.8 1.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 1.8
+$EndPAD
+$PAD
+Sh "3" R 1.8 1.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 -1.8
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_smd_ma-406.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_smd_ma-406
+$MODULE crystal_smd_ma-505
+Po 0 0 0 15 51E27BC7 00000000 ~~
+Li crystal_smd_ma-505
+Cd Epson MA-505 SMD crystal
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.2 0.49784 0.49784 0 0.09906 N V 21 N "X***"
+T1 0 3.2 0.49784 0.49784 0 0.09906 N V 21 N "crystal_smd_MA-505"
+DS -4.3 2.5 -4.3 -2.5 0.254 21
+DS -4.5 -2.5 -4.5 2.5 0.254 21
+DS -4.7 2.5 -4.7 -2.5 0.254 21
+DS -4.8 2.5 -4.8 -2.5 0.254 21
+DS -6.35 -2.54 6.35 -2.54 0.254 21
+DS 6.35 -2.54 6.35 2.54 0.254 21
+DS -6.35 2.54 6.35 2.54 0.254 21
+DS -6.35 -2.54 -6.35 2.54 0.254 21
+$PAD
+Sh "1" R 4.1 5.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.55 0
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 4.1 5.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.55 0
+.SolderMask 0.06858
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_smd_ma-505.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_smd_ma-505
+$MODULE crystal_smd_ma-506
+Po 0 0 0 15 51E27F53 00000000 ~~
+Li crystal_smd_ma-506
+Cd Epson MA-506 SMD crystal
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.2 0.49784 0.49784 0 0.09906 N V 21 N "X***"
+T1 0 3.6 0.49784 0.49784 0 0.09906 N V 21 N "crystal_smd_MA-506"
+DS -4.3 2.5 -4.3 -2.5 0.254 21
+DS -4.5 -2.5 -4.5 2.5 0.254 21
+DS -4.7 2.5 -4.7 -2.5 0.254 21
+DS -4.8 2.5 -4.8 -2.5 0.254 21
+DS -6.35 -2.54 6.35 -2.54 0.254 21
+DS 6.35 -2.54 6.35 2.54 0.254 21
+DS -6.35 2.54 6.35 2.54 0.254 21
+DS -6.35 -2.54 -6.35 2.54 0.254 21
+$PAD
+Sh "1" R 4.1 2.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.55 1.8
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 4.1 2.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.5 -1.8
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 4.1 2.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.55 1.8
+$EndPAD
+$PAD
+Sh "3" R 4.1 2.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.55 -1.8
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_smd_ma-505.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_smd_ma-506
+$MODULE crystal_tc-26
+Po 0 0 0 15 51D490DE 00000000 ~~
+Li crystal_tc-26
+Cd Crystal, TC-26
+Kw QUARTZ
+Sc 0
+AR 
+Op 0 A 0
+.LocalClearance 0.2
+T0 0 -1.9 0.8 0.8 0 0.2 N V 21 N "TC-26"
+T1 0 2.25 0.8 0.8 0 0.2 N V 21 N "X***"
+DC 0 0 -1.05 0 0.254 21
+$PAD
+Sh "1" O 0.5 0.5 0 0 0
+Dr 0.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.35 0
+$EndPAD
+$PAD
+Sh "2" O 0.5 0.5 0 0 0
+Dr 0.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.35 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_tc-26.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_tc-26
+$MODULE crystal_tc-26_horiz
+Po 0 0 0 15 51D49251 00000000 ~~
+Li crystal_tc-26_horiz
+Cd Crystal, TC-26, horizontal
+Kw QUARTZ
+Sc 0
+AR 
+Op 0 A 0
+.LocalClearance 0.2
+T0 0 -4.3 0.8 0.8 0 0.2 N V 21 N "TC-26_Horiz"
+T1 0 5.3 0.8 0.8 0 0.2 N V 21 N "X***"
+DS -1 -2.7 -1 3.3 0.254 21
+DS -1 -2.7 1 -2.7 0.254 21
+DS 1 -2.7 1 3.3 0.254 21
+DS -1 3.3 1 3.3 0.254 21
+$PAD
+Sh "1" O 0.5 0.5 0 0 0
+Dr 0.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.35 -3.17
+$EndPAD
+$PAD
+Sh "2" O 0.5 0.5 0 0 0
+Dr 0.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.35 -3.17
+$EndPAD
+$PAD
+Sh "" R 2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 3.3
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_tc-26_horiz.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_tc-26_horiz
+$MODULE crystal_tc-38
+Po 0 0 0 15 51D4965E 00000000 ~~
+Li crystal_tc-38
+Cd Crystal, TC-38
+Kw QUARTZ
+Sc 0
+AR 
+Op 0 A 0
+.LocalClearance 0.2
+T0 0 -2.6 0.8 0.8 0 0.2 N V 21 N "TC-38"
+T1 0 2.5 0.8 0.8 0 0.2 N V 21 N "X***"
+DC 0 0 -1.6 0 0.254 21
+$PAD
+Sh "1" C 0.7 0.7 0 0 0
+Dr 0.35 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.55 0
+$EndPAD
+$PAD
+Sh "2" C 0.7 0.7 0 0 0
+Dr 0.35 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.55 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_tc-38.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_tc-38
+$MODULE crystal_tc-38_horiz
+Po 0 0 0 15 51D4960B 00000000 ~~
+Li crystal_tc-38_horiz
+Cd Crystal, TC-38, horizontal
+Kw QUARTZ
+Sc 0
+AR 
+Op 0 A 0
+.LocalClearance 0.2
+T0 0 -5.8 0.8 0.8 0 0.2 N V 21 N "TC-38_Horiz"
+T1 0 7 0.8 0.8 0 0.2 N V 21 N "X***"
+DS -1.6 -3.8 -1.6 4.6 0.254 21
+DS -1.6 -3.8 1.6 -3.8 0.254 21
+DS 1.6 -3.8 1.6 4.6 0.254 21
+DS -1.6 4.6 1.6 4.6 0.254 21
+$PAD
+Sh "1" C 0.7 0.7 0 0 0
+Dr 0.35 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.55 -4.4
+$EndPAD
+$PAD
+Sh "2" C 0.7 0.7 0 0 0
+Dr 0.35 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.55 -4.4
+$EndPAD
+$PAD
+Sh "" R 3 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.6
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/crystal/crystal_tc-38_horiz.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_tc-38_horiz
 $MODULE resonator_sip3
 Po 0 0 0 15 5156BEB8 00000000 ~~
 Li resonator_sip3
