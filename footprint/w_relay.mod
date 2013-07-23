@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 14 lug 2013 11:42:47 CEST
+PCBNEW-LibModule-V1  sab 20 lug 2013 22:36:02 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -21,8 +21,7 @@ relay_DK2a
 relay_DK2a-L2
 relay_PE
 relay_RT1
-relay_RT1_3mm5_spdt
-relay_RT1_3mm5_spno
+relay_SJ-1M
 relay_SSR-P03
 relay_SSR-xxDA
 relay_SY
@@ -1622,133 +1621,64 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE relay_RT1
-$MODULE relay_RT1_3mm5_spdt
-Po 0 0 0 15 51E2726F 00000000 ~~
-Li relay_RT1_3mm5_spdt
-Cd relay, RT1 series, 3.5mm pitch, SPDT
+$MODULE relay_SJ-1M
+Po 0 0 0 15 51EAF4A6 00000000 ~~
+Li relay_SJ-1M
+Cd relay, Sanyou SJ-x-1xxxM series
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -7.8 1.524 1.524 0 0.3048 N V 21 N "RLY***"
-T1 0 8.3 1.524 1.524 0 0.3048 N V 21 N "relay_RT1_3mm5_spdt"
-DS 12 3.8 12 0.8 0.254 21
-DS 12 0.8 9 0.8 0.254 21
-DS 5 3.8 5 0.8 0.254 21
-DS 5 0.8 8 0.8 0.254 21
-DS 8.5 -3.8 8.5 -1 0.254 21
-DS 8.5 -1 7.6 1 0.254 21
-DS 14.5 -6.35 -14.5 -6.35 0.254 21
-DS -14.5 -6.35 -14.5 6.35 0.254 21
-DS -14.5 6.35 14.5 6.35 0.254 21
-DS 14.5 6.35 14.5 -6.35 0.254 21
-DS -12 3.81 -12 0.762 0.3048 21
-DS -12 -3.81 -12 -0.762 0.3048 21
-DS -13 0.762 -11 -0.762 0.3048 21
-DS -13 -0.762 -11 -0.762 0.3048 21
-DS -11 -0.762 -11 0.762 0.3048 21
-DS -11 0.762 -13 0.762 0.3048 21
-DS -13 0.762 -13 -0.762 0.3048 21
+T0 0 10.7 1.524 1.524 0 0.3048 N V 21 N "relay_SJ-1M"
+T1 0 -10.5 1.524 1.524 0 0.3048 N V 21 N "RLY***"
+DS -5.1 9.2 5.1 9.2 0.381 21
+DS 5.1 -9.2 5.1 9.2 0.381 21
+DS -5.1 -9.2 5.1 -9.2 0.381 21
+DS -5.1 -9.2 -5.1 9.2 0.381 21
+DS 3.8 7.6 3.8 5.8 0.381 21
+DS -3.8 5.1 2.4 5.1 0.381 21
+DS 2.4 5.1 4.1 4.4 0.381 21
+DS -1.2 -6.6 1.2 -6.6 0.381 21
+DS 1.2 -6.6 1.2 -8.6 0.381 21
+DS 1.2 -8.6 -1.2 -8.6 0.381 21
+DS -1.2 -8.6 -1.2 -6.6 0.381 21
+DS -1.2 -6.6 1.2 -8.6 0.381 21
+DS 3.8 -7.6 1.2 -7.6 0.381 21
+DS -3.8 -7.6 -1.2 -7.6 0.381 21
 $PAD
-Sh "1" C 3 3 0 0 0
+Sh "1" C 2.5 2.5 0 0 0
 Dr 1.3 0 0
-At STD N 00E0FFFF
+At STD N 0000FFFF
 Ne 0 ""
-Po -12 3.81
+Po -3.81 -7.62
 $EndPAD
 $PAD
-Sh "12" C 3 3 0 0 0
+Sh "3" C 2.5 2.5 0 0 0
 Dr 1.3 0 0
-At STD N 00E0FFFF
+At STD N 0000FFFF
 Ne 0 ""
-Po 5 3.81
+Po -3.81 5.08
 $EndPAD
 $PAD
-Sh "14" C 3 3 0 0 0
+Sh "4" C 2.5 2.5 0 0 0
 Dr 1.3 0 0
-At STD N 00E0FFFF
+At STD N 0000FFFF
 Ne 0 ""
-Po 12 3.81
+Po 3.81 7.62
 $EndPAD
 $PAD
-Sh "11" C 3 3 0 0 0
+Sh "2" C 2.5 2.5 0 0 0
 Dr 1.3 0 0
-At STD N 00E0FFFF
+At STD N 0000FFFF
 Ne 0 ""
-Po 8.5 -3.81
-$EndPAD
-$PAD
-Sh "2" C 3 3 0 0 0
-Dr 1.3 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po -12 -3.81
+Po 3.81 -7.62
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_RT1_3mm5_spdt.wrl"
+Na "../libKiCad/3d/relay/relay_SJ-1M.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
-$EndMODULE relay_RT1_3mm5_spdt
-$MODULE relay_RT1_3mm5_spno
-Po 0 0 0 15 51E2727D 00000000 ~~
-Li relay_RT1_3mm5_spno
-Cd relay, RT1 series, 3.5mm pitch, SPNO
-Sc 0
-AR 
-Op 0 0 0
-T0 0 -7.8 1.524 1.524 0 0.3048 N V 21 N "RLY***"
-T1 0 8.3 1.524 1.524 0 0.3048 N V 21 N "relay_RT1_3mm5_spno"
-DS 12 3.8 12 0.8 0.254 21
-DS 12 0.8 9 0.8 0.254 21
-DS 8.5 -3.8 8.5 -1 0.254 21
-DS 8.5 -1 7.6 1 0.254 21
-DS 14.5 -6.35 -14.5 -6.35 0.254 21
-DS -14.5 -6.35 -14.5 6.35 0.254 21
-DS -14.5 6.35 14.5 6.35 0.254 21
-DS 14.5 6.35 14.5 -6.35 0.254 21
-DS -12 3.81 -12 0.762 0.3048 21
-DS -12 -3.81 -12 -0.762 0.3048 21
-DS -13 0.762 -11 -0.762 0.3048 21
-DS -13 -0.762 -11 -0.762 0.3048 21
-DS -11 -0.762 -11 0.762 0.3048 21
-DS -11 0.762 -13 0.762 0.3048 21
-DS -13 0.762 -13 -0.762 0.3048 21
-$PAD
-Sh "1" C 3 3 0 0 0
-Dr 1.3 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po -12 3.81
-$EndPAD
-$PAD
-Sh "14" C 3 3 0 0 0
-Dr 1.3 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 12 3.81
-$EndPAD
-$PAD
-Sh "11" C 3 3 0 0 0
-Dr 1.3 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 8.5 -3.81
-$EndPAD
-$PAD
-Sh "2" C 3 3 0 0 0
-Dr 1.3 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po -12 -3.81
-$EndPAD
-$SHAPE3D
-Na "../libKiCad/3d/relay/relay_RT1_3mm5_spno.wrl"
-Sc 1 1 1
-Of 0 0 0
-Ro 0 0 0
-$EndSHAPE3D
-$EndMODULE relay_RT1_3mm5_spno
+$EndMODULE relay_SJ-1M
 $MODULE relay_SSR-P03
 Po 0 0 0 15 50E8A01C 00000000 ~~
 Li relay_SSR-P03
