@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 29 giu 2013 12:35:58 CEST
+EESchema-DOCLIB  Version 2.0  Date: gio 25 lug 2013 21:13:11 CEST
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -136,6 +136,11 @@ $ENDCMP
 $CMP LM358
 D Low Power Dual Operational Amplifiers
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/TI_lm2904.pdf
+$ENDCMP
+#
+$CMP LM4752
+D Stereo 11W Audio power amplifier
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/TI_LM4752.pdf
 $ENDCMP
 #
 $CMP LM50

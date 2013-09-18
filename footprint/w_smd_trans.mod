@@ -1,10 +1,11 @@
-PCBNEW-LibModule-V1  gio 16 mag 2013 21:32:46 CEST
+PCBNEW-LibModule-V1  gio 25 lug 2013 21:00:42 CEST
 # encoding utf-8
 Units mm
 $INDEX
 d-pak
 d-pak-5
 d2-pak
+d2-pak-7
 powermite3
 ppak
 sc70
@@ -214,6 +215,106 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE d2-pak
+$MODULE d2-pak-7
+Po 0 0 0 15 51F175C6 00000000 ~~
+Li d2-pak-7
+Cd D2-pak-7
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -9 1.524 1.524 0 0.3048 N V 21 N "D2-pak-7"
+T1 0 9.1 1.524 1.524 0 0.3048 N I 21 N "Q***"
+DS 3.5 7 3.5 3 0.254 21
+DS 4.1 7 4.1 3 0.254 21
+DS 2.8 7 2.8 3 0.254 21
+DS 2.2 7 2.2 3 0.254 21
+DS 1 7 1 3 0.254 21
+DS 1.6 7 1.6 3 0.254 21
+DS 0.3 7 0.3 3 0.254 21
+DS -0.3 7 -0.3 3 0.254 21
+DS -1.6 7 -1.6 3 0.254 21
+DS -1 7 -1 3 0.254 21
+DS -2.8 7 -2.8 3 0.254 21
+DS -2.2 7 -2.2 3 0.254 21
+DS -3.5 7 -3.5 3 0.254 21
+DS -4.1 7 -4.1 3 0.254 21
+DS 1 7 1.6 7 0.254 21
+DS 2.2 7 2.8 7 0.254 21
+DS 3.5 7 4.1 7 0.254 21
+DS -0.3 7 0.3 7 0.254 21
+DS -1.6 7 -1 7 0.254 21
+DS -2.8 7 -2.2 7 0.254 21
+DS -4.1 7 -3.5 7 0.254 21
+DS 3.5 -7 5.1 -6.7 0.254 21
+DS -3.5 -7 -5.1 -6.7 0.254 21
+DS 5.1 -6.7 5.1 3 0.254 21
+DS -5.1 -6.7 -5.1 3 0.254 21
+DS -5.1 3 5.1 3 0.254 21
+DS -5.1 -5.7 5.1 -5.7 0.254 21
+DS -3.5 -7 3.5 -7 0.254 21
+$PAD
+Sh "1" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 6.1
+$EndPAD
+$PAD
+Sh "3" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 6.1
+$EndPAD
+$PAD
+Sh "2" R 10.795 10.414 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.1
+$EndPAD
+$PAD
+Sh "2" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 6.1
+$EndPAD
+$PAD
+Sh "4" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 6.1
+$EndPAD
+$PAD
+Sh "5" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 6.1
+$EndPAD
+$PAD
+Sh "6" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 6.1
+$EndPAD
+$PAD
+Sh "7" R 0.95 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 6.1
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_trans/d2-pak-7.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE d2-pak-7
 $MODULE powermite3
 Po 0 0 0 15 4A81F00D 00000000 ~~
 Li powermite3

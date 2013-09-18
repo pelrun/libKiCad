@@ -30,6 +30,9 @@ Luxeon_C
 Luxeon_M
 Luxeon_Rebel
 Multi_Rebel+XP
+Osram_Duris_E3
+Osram_Duris_E5
+Osram_Duris_S5
 Osram_GoldenDragon
 Osram_GoldenDragonPlus
 Osram_PlatinumDragon
@@ -2158,6 +2161,258 @@ Of 0 0 0
 Ro 0 0 180
 $EndSHAPE3D
 $EndMODULE Multi_Rebel+XP
+$MODULE Osram_Duris_E3
+Po 0 0 0 15 52174D36 00000000 ~~
+Li Osram_Duris_E3
+Cd Osram Duris E 3
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.30124 0.52324 0.52324 0 0.09906 N V 21 N "LD?"
+T1 0 2.4511 0.52324 0.52324 0 0.09906 N V 21 N "Osram_Duris_E3"
+DS -0.9 -0.5 0.9 -0.5 0.15 21
+DS 0.9 -0.5 1.2 -0.2 0.15 21
+DS 1.2 -0.2 1.2 0.2 0.15 21
+DS 1.2 0.2 0.9 0.5 0.15 21
+DS 0.9 0.5 -0.9 0.5 0.15 21
+DS -0.9 0.5 -1.2 0.2 0.15 21
+DS -1.2 0.2 -1.2 -0.2 0.15 21
+DS -1.2 -0.2 -0.9 -0.5 0.15 21
+DS -1.55 -0.25 -1.05 -0.75 0.15 21
+DS -1.55 0.75 1.55 0.75 0.15 21
+DS 1.55 0.75 1.55 -0.75 0.15 21
+DS 1.55 -0.75 -1.55 -0.75 0.15 21
+DS -1.55 -0.75 -1.55 0.75 0.15 21
+$PAD
+Sh "1" R 1.1 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.35 0
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 1.1 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.35 0
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_leds/osram_duris_e3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Osram_Duris_E3
+$MODULE Osram_Duris_E5
+Po 0 0 0 15 52175E82 00000000 ~~
+Li Osram_Duris_E5
+Cd Osram Duris E 5
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.49936 0.8001 0.8001 0 0.14986 N V 21 N "LD**"
+T1 0 2.60096 0.8001 0.8001 0 0.14986 N V 21 N "Osram_Duris_E5"
+DS -2.6 0.3 -2.8 0.3 0.127 21
+DS -2.8 0.3 -2.8 1.2 0.127 21
+DS -2.8 1.2 -2.6 1.2 0.127 21
+DS -2.6 -1.2 -2.8 -1.2 0.127 21
+DS -2.8 -1.2 -2.8 -0.3 0.127 21
+DS -2.8 -0.3 -2.6 -0.3 0.127 21
+DS 2.6 -0.3 2.8 -0.3 0.127 21
+DS 2.8 -0.3 2.8 -1.2 0.127 21
+DS 2.8 -1.2 2.6 -1.2 0.127 21
+DS 2.6 1.2 2.8 1.2 0.127 21
+DS 2.8 1.2 2.8 0.3 0.127 21
+DS 2.8 0.3 2.6 0.3 0.127 21
+DS 1.95 -1.3 -1.95 -1.3 0.127 21
+DS 2.3 0.95 2.3 -0.95 0.127 21
+DS -1.95 1.3 1.95 1.3 0.127 21
+DS -2.3 -0.95 -2.3 0.95 0.127 21
+DS -1.99898 -1.50114 -2.10058 -1.50114 0.127 21
+DS -2.1 1.5 -2.6 1 0.127 21
+DS -2.60096 -1.00076 -2.60096 -1.09982 0.127 21
+DS -2.6 1.1 -2.2 1.5 0.127 21
+DS -2.19964 -1.50114 -2.30124 -1.50114 0.127 21
+DS -2.3 1.5 -2.6 1.2 0.127 21
+DS -2.60096 -1.19888 -2.60096 -1.30048 0.127 21
+DS -2.6 1.3 -2.4 1.5 0.127 21
+DS -2.6 -1.5 -2.6 1.5 0.127 21
+DS -2.6 1.5 2.6 1.5 0.127 21
+DS 2.6 1.5 2.6 -1.5 0.127 21
+DS 2.6 -1.5 -2.6 -1.5 0.127 21
+DS 2.3 0.95 2.25 1.1 0.127 21
+DS 2.25 1.1 2.1 1.25 0.127 21
+DS -2.3 0.95 -2.25 1.1 0.127 21
+DS -2.25 1.1 -2.1 1.25 0.127 21
+DS 2.3 -0.95 2.25 -1.1 0.127 21
+DS 2.25 -1.1 2.1 -1.25 0.127 21
+DS 1.95 1.3 2.1 1.25 0.127 21
+DS -1.95 1.3 -2.1 1.25 0.127 21
+DS 2.1 -1.25 1.95 -1.3 0.127 21
+DS -1.95 -1.3 -2.1 -1.25 0.127 21
+DS -2.1 -1.25 -2.25 -1.1 0.127 21
+DS -2.25 -1.1 -2.3 -0.95 0.127 21
+$PAD
+Sh "4" R 1.2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.4 0.715
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 1.2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.4 -0.715
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "3" R 1.2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.4 0.715
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "1" R 1.2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.4 -0.715
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "5" R 1.8 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "5" R 1.8 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po 0 -1.075
+$EndPAD
+$PAD
+Sh "5" R 1.8 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po 0 1.075
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_leds/osram_duris_e5.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Osram_Duris_E5
+$MODULE Osram_Duris_S5
+Po 0 0 0 15 52173928 00000000 ~~
+Li Osram_Duris_S5
+Cd Osram Duris S 5
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.30124 0.52324 0.52324 0 0.09906 N V 21 N "LD?"
+T1 0 2.4511 0.52324 0.52324 0 0.09906 N V 21 N "Osram_Duris_S5"
+DC -1.2 -1.2 -1.4 -1.2 0.15 21
+DC 0 0 -1.3 0 0.15 21
+DS -1.65 1.65 1.65 1.65 0.14986 21
+DS 1.65 1.65 1.65 -1.65 0.14986 21
+DS 1.65 -1.65 -1.65 -1.65 0.14986 21
+DS -1.65 -1.65 -1.65 1.65 0.14986 21
+$PAD
+Sh "1" R 0.32 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 0.575
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 0.65 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.185 0.575
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 0.49 3.3 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po -1.405 0
+$EndPAD
+$PAD
+Sh "1" R 0.49 3.3 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po 1.405 0
+$EndPAD
+$PAD
+Sh "1" R 0.32 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -0.575
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 0.65 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.835 -0.575
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 0.65 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.185 -0.575
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$PAD
+Sh "2" R 0.65 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.835 0.575
+.SolderMask 0.05
+.SolderPaste -0.05
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_leds/osram_duris_s5.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Osram_Duris_S5
 $MODULE Osram_GoldenDragon
 Po 0 0 0 15 4D984F25 00000000 ~~
 Li Osram_GoldenDragon
