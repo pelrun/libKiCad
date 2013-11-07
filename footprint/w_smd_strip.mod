@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 10 ago 2013 16:56:18 CEST
+PCBNEW-LibModule-V1  dom 20 ott 2013 10:35:56 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -82,6 +82,7 @@ bb02-hp80
 bb02-hp80_peg
 bb02-hy02a
 bb02-hy03a
+bb02-hy04a
 bb02-hy05a
 bb02-hy06a
 bb02-hy07a
@@ -26523,6 +26524,70 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE bb02-hy03a
+$MODULE bb02-hy04a
+Po 0 0 0 15 52049CFC 00000000 ~~
+Li bb02-hy04a
+Cd Smd strip connector, 4 pin, 2.54mm pitch
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.9 0.99822 0.99822 0 0.19812 N V 21 N "JP***"
+T1 0 4.2 0.99568 0.99568 0 0.19558 N V 21 N "bb02-hy04a"
+DS 2.5 1.3 2.5 -1.3 0.254 21
+DS -5.1 -1.3 5.1 -1.3 0.254 21
+DS 5.1 -1.3 5.1 1.3 0.254 21
+DS 5.1 1.3 -5.1 1.3 0.254 21
+DS -5.1 1.3 -5.1 -1.3 0.254 21
+DS 7.74 0.81 7.3 0.81 0.254 21
+DS 6.85 -0.25 6.98 -0.33 0.254 21
+DS 6.98 -0.33 7.14 -0.46 0.254 21
+DS 7.14 -0.46 7.28 -0.63 0.254 21
+DS 7.28 -0.63 7.31 -0.72 0.254 21
+DS 7.31 -0.72 7.31 0.81 0.254 21
+DS 7.31 0.81 6.87 0.81 0.254 21
+DS 5.8 0.1 5.8 -0.1 0.254 21
+DS 5.9 -0.1 5.9 0.1 0.254 21
+DS 6 0.2 6 -0.2 0.254 21
+DS 6.1 -0.2 6.1 0.2 0.254 21
+DS 6.2 0.3 6.2 -0.3 0.254 21
+DS 5.5 0 6.3 0.4 0.254 21
+DS 6.3 0.4 6.3 -0.4 0.254 21
+DS 6.3 -0.4 5.5 0 0.254 21
+$PAD
+Sh "2" R 1.27 3.05 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 -1.525
+$EndPAD
+$PAD
+Sh "1" R 1.27 3.05 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 1.525
+$EndPAD
+$PAD
+Sh "3" R 1.27 3.05 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 1.525
+$EndPAD
+$PAD
+Sh "4" R 1.27 3.05 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 -1.525
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_strip/BB02-HY04A.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE bb02-hy04a
 $MODULE bb02-hy05a
 Po 0 0 0 15 5204A308 00000000 ~~
 Li bb02-hy05a

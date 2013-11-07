@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: gio 25 lug 2013 21:13:11 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 78XX
 D 78xx 1A Linear Regulator, TO package
@@ -60,9 +60,29 @@ D Half-Bridge Mosfet driver, HI-side and LO-side
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/IR_IR2183.pdf
 $ENDCMP
 #
+$CMP L298N
+D Dual full bridge Driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L298.pdf
+$ENDCMP
+#
+$CMP L298P
+D Dual full bridge Driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L298.pdf
+$ENDCMP
+#
 $CMP L6203
 D DMOS full bridge Driver
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L620x.pdf
+$ENDCMP
+#
+$CMP L6506
+D Current controller for stepping motor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L6506.pdf
+$ENDCMP
+#
+$CMP L6506D
+D Current controller for stepping motor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L6506.pdf
 $ENDCMP
 #
 $CMP LFXX-DPAK

@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  gio 25 lug 2013 21:00:42 CEST
+PCBNEW-LibModule-V1  lun 14 ott 2013 22:22:29 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -17,6 +17,7 @@ sot223
 sot23
 sot23-5
 sot23-6
+sot23-8
 sot323
 sot323-5
 sot323-6
@@ -476,11 +477,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE sc70
 $MODULE sc70-5
-Po 0 0 0 15 490474DD 00000000 ~~
+Po 0 0 0 15 525C51D6 00000000 ~~
 Li sc70-5
 Cd SC70-5
 Sc 0
-AR 
+AR sc70-5
 Op 0 0 0
 T0 0 -0.3048 0.29972 0.29972 0 0.06096 N V 21 N "SC70-5"
 T1 0 0.3556 0.29972 0.29972 0 0.06096 N I 21 N "Q***"
@@ -496,39 +497,44 @@ DS 1.1049 -0.6477 1.1049 0.6477 0.127 21
 DS 1.1049 0.6477 -1.1049 0.6477 0.127 21
 DS -1.1049 0.6477 -1.1049 -0.6477 0.127 21
 $PAD
-Sh "1" R 0.4064 0.6604 0 0 0
+Sh "1" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.6604 1.016
+Po -0.66 1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "3" R 0.4064 0.6604 0 0 0
+Sh "3" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.6604 1.016
+Po 0.66 1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "2" R 0.4064 0.6604 0 0 0
+Sh "2" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "4" R 0.4064 0.6604 0 0 0
+Sh "4" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.6604 -1.016
+Po 0.66 -1.016
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "5" R 0.4064 0.6604 0 0 0
+Sh "5" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.6604 -1.016
+Po -0.66 -1.016
+.LocalClearance 0.14
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_trans/sc70-5.wrl"
@@ -538,11 +544,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE sc70-5
 $MODULE sc70-6
-Po 0 0 0 15 490474FF 00000000 ~~
+Po 0 0 0 15 525C5229 00000000 ~~
 Li sc70-6
 Cd SC70-6
 Sc 0
-AR 
+AR sc70-6
 Op 0 0 0
 T0 0 -0.2794 0.29972 0.29972 0 0.06096 N V 21 N "SC70-6"
 T1 0 0.3556 0.29972 0.29972 0 0.06096 N I 21 N "Q***"
@@ -559,46 +565,52 @@ DS 1.1049 -0.6477 1.1049 0.6477 0.127 21
 DS 1.1049 0.6477 -1.1049 0.6477 0.127 21
 DS -1.1049 0.6477 -1.1049 -0.6477 0.127 21
 $PAD
-Sh "1" R 0.4064 0.6604 0 0 0
+Sh "1" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.6604 1.016
+Po -0.66 1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "3" R 0.4064 0.6604 0 0 0
+Sh "3" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.6604 1.016
+Po 0.66 1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "2" R 0.4064 0.6604 0 0 0
+Sh "2" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "4" R 0.4064 0.6604 0 0 0
+Sh "4" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.6604 -1.016
+Po 0.66 -1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "6" R 0.4064 0.6604 0 0 0
+Sh "6" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.6604 -1.016
+Po -0.66 -1.016
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "5" R 0.4064 0.6604 0 0 0
+Sh "5" R 0.4 0.66 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 -1.016
+.LocalClearance 0.2
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_trans/sc70-6.wrl"
@@ -951,6 +963,105 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE sot23-6
+$MODULE sot23-8
+Po 0 0 0 15 525C50A3 00000000 ~~
+Li sot23-8
+Cd SOT23-8
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.1 0.50038 0.50038 0 0.09906 N V 21 N "SOT23-8"
+T1 0 0 0.50038 0.50038 0 0.09906 N I 21 N "Q***"
+DS -1.5 0.7 -1.4 0.8 0.127 21
+DS -1.5 0.6 -1.3 0.8 0.127 21
+DS -1.5 0.5 -1.2 0.8 0.127 21
+DS -1.5 0.4 -1.1 0.8 0.127 21
+DS -1.5 0.3 -1 0.8 0.127 21
+DS -1.5 0.1 -0.8 0.8 0.127 21
+DS -1.5 0.2 -0.9 0.8 0.127 21
+DS 0.325 -0.85 0.325 -1.6 0.127 21
+DS -0.325 0.85 -0.325 1.6 0.127 21
+DS -0.325 -0.85 -0.325 -1.6 0.127 21
+DS 0.975 -0.85 0.975 -1.6 0.127 21
+DS -0.975 -0.85 -0.975 -1.6 0.127 21
+DS 0.325 0.85 0.325 1.6 0.127 21
+DS 0.975 0.85 0.975 1.6 0.127 21
+DS -0.975 0.85 -0.975 1.6 0.127 21
+DS -1.5 -0.85 1.5 -0.85 0.127 21
+DS 1.5 -0.85 1.5 0.85 0.127 21
+DS 1.5 0.85 -1.5 0.85 0.127 21
+DS -1.5 0.85 -1.5 -0.85 0.127 21
+$PAD
+Sh "1" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "3" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "2" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "4" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "6" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 -1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "5" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 -1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "7" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 -1.2
+.LocalClearance 0.2
+$EndPAD
+$PAD
+Sh "8" R 0.4 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 -1.2
+.LocalClearance 0.2
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_trans/sot23-8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE sot23-8
 $MODULE sot323
 Po 0 0 0 15 49047690 00000000 ~~
 Li sot323
@@ -996,11 +1107,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE sot323
 $MODULE sot323-5
-Po 0 0 0 15 490476AD 00000000 ~~
+Po 0 0 0 15 525C5118 00000000 ~~
 Li sot323-5
 Cd SOT323-5
 Sc 0
-AR 
+AR sot323-5
 Op 0 0 0
 T0 0 -1.6256 0.29972 0.29972 0 0.06096 N V 21 N "SOT323-5"
 T1 0 0 0.29972 0.29972 0 0.06096 N I 21 N "Q***"
@@ -1016,39 +1127,44 @@ DS 1.1049 -0.6477 1.1049 0.6477 0.127 21
 DS 1.1049 0.6477 -1.1049 0.6477 0.127 21
 DS -1.1049 0.6477 -1.1049 -0.6477 0.127 21
 $PAD
-Sh "1" R 0.50038 0.8001 0 0 0
+Sh "1" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.65024 1.00076
+Po -0.65 1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "3" R 0.50038 0.8001 0 0 0
+Sh "3" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.65024 1.00076
+Po 0.65 1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "2" R 0.50038 0.8001 0 0 0
+Sh "2" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 1.00076
+Po 0 1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "4" R 0.50038 0.8001 0 0 0
+Sh "4" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.65024 -1.00076
+Po 0.65 -1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "5" R 0.50038 0.8001 0 0 0
+Sh "5" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.65024 -1.00076
+Po -0.65 -1
+.LocalClearance 0.14
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_trans/sot323-5.wrl"
@@ -1058,11 +1174,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE sot323-5
 $MODULE sot323-6
-Po 0 0 0 15 490476CB 00000000 ~~
+Po 0 0 0 15 525C5174 00000000 ~~
 Li sot323-6
 Cd SOT323-6
 Sc 0
-AR 
+AR sot323-6
 Op 0 0 0
 T0 0 -1.651 0.29972 0.29972 0 0.06096 N V 21 N "SOT323-6"
 T1 0 0 0.29972 0.29972 0 0.06096 N I 21 N "Q***"
@@ -1079,46 +1195,52 @@ DS 1.1049 -0.6477 1.1049 0.6477 0.127 21
 DS 1.1049 0.6477 -1.1049 0.6477 0.127 21
 DS -1.1049 0.6477 -1.1049 -0.6477 0.127 21
 $PAD
-Sh "1" R 0.50038 0.8001 0 0 0
+Sh "1" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.65024 1.00076
+Po -0.65 1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "5" R 0.50038 0.8001 0 0 0
+Sh "5" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 -1.00076
+Po 0 -1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "3" R 0.50038 0.8001 0 0 0
+Sh "3" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.65024 1.00076
+Po 0.65 1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "2" R 0.50038 0.8001 0 0 0
+Sh "2" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 1.00076
+Po 0 1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "4" R 0.50038 0.8001 0 0 0
+Sh "4" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.65024 -1.00076
+Po 0.65 -1
+.LocalClearance 0.14
 $EndPAD
 $PAD
-Sh "6" R 0.50038 0.8001 0 0 0
+Sh "6" R 0.5 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.65024 -1.00076
+Po -0.65 -1
+.LocalClearance 0.14
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_trans/sot323-6.wrl"
@@ -1350,11 +1472,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE to263
 $MODULE tsot-6
-Po 0 0 0 15 49E9E765 00000000 ~~
+Po 0 0 0 15 525C5282 00000000 ~~
 Li tsot-6
 Cd TSOT-6
 Sc 0
-AR 
+AR tsot-6
 Op 0 0 0
 T0 0 -1.9812 0.50038 0.50038 0 0.09906 N V 21 N "TSOT-6"
 T1 0 0 0.50038 0.50038 0 0.09906 N I 21 N "Q***"
@@ -1371,46 +1493,52 @@ DS 0 0.85852 0 1.51892 0.127 21
 DS 0.9525 0.85852 0.9525 1.51892 0.127 21
 DS -0.9525 0.85852 -0.9525 1.51892 0.127 21
 $PAD
-Sh "1" R 0.69088 1.00076 0 0 0
+Sh "1" R 0.69 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.94996 1.30048
+Po -0.95 1.3
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "3" R 0.69088 1.00076 0 0 0
+Sh "3" R 0.69 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.94996 1.30048
+Po 0.95 1.3
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "2" R 0.69088 1.00076 0 0 0
+Sh "2" R 0.69 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 1.30048
+Po 0 1.3
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "4" R 0.69088 1.00076 0 0 0
+Sh "4" R 0.69 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.94996 -1.30048
+Po 0.95 -1.3
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "6" R 0.69088 1.00076 0 0 0
+Sh "6" R 0.69 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.94996 -1.30048
+Po -0.95 -1.3
+.LocalClearance 0.2
 $EndPAD
 $PAD
-Sh "5" R 0.69088 1.00076 0 0 0
+Sh "5" R 0.69 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 -1.30048
+Po 0 -1.3
+.LocalClearance 0.2
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_trans/tsot-6.wrl"

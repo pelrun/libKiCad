@@ -1,8 +1,9 @@
-PCBNEW-LibModule-V1  gio 22 ago 2013 20:21:16 CEST
+PCBNEW-LibModule-V1  mer 23 ott 2013 20:29:46 CEST
 # encoding utf-8
 Units mm
 $INDEX
 Multiwatt11
+Multiwatt15
 Pentawatt
 hzip25-100f
 ipak
@@ -168,6 +169,149 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE Multiwatt11
+$MODULE Multiwatt15
+Po 0 0 0 15 526812B8 00000000 ~~
+Li Multiwatt15
+Cd MultiWatt 15 pins
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -7.80034 1.524 1.524 0 0.3048 N V 21 N "U***"
+T1 0 -5.4991 1.524 1.524 0 0.3048 N V 21 N "Multiwatt15"
+DS 8.89 5.08 8.89 -2.2 0.3048 21
+DS 7.62 0 7.62 -2.2 0.3048 21
+DS -5.08 0 -5.08 -2.2 0.3048 21
+DS -3.81 5.18 -3.81 -2.1 0.3048 21
+DS 10.1 -4.55 10.1 0.45 0.3048 21
+DS -10.1 -4.55 -10.1 0.45 0.3048 21
+DS -7.62 0 -7.62 -2.2 0.3048 21
+DS -2.54 0 -2.54 -2.2 0.3048 21
+DS 0 0 0 -2.2 0.3048 21
+DS 2.54 0 2.54 -2.2 0.3048 21
+DS 5.08 0 5.08 -2.2 0.3048 21
+DS 6.35 5.08 6.35 -2.2 0.3048 21
+DS 3.81 5.08 3.81 -2.2 0.3048 21
+DS 1.27 5.08 1.27 -2.2 0.3048 21
+DS -1.27 5.08 -1.27 -2.2 0.3048 21
+DS -6.35 5.08 -6.35 -2.2 0.3048 21
+DS -8.89 5.08 -8.89 -2.2 0.3048 21
+DS 1.9 -4.55 1.9 -3 0.3048 21
+DS -1.9 -4.55 -1.9 -3 0.3048 21
+DS -10.1 -3 10.1 -3 0.3048 21
+DS -10.1 -4.55 10.1 -4.55 0.3048 21
+DS -10.1 0.45 10.1 0.45 0.3048 21
+$PAD
+Sh "1" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 5.08
+$EndPAD
+$PAD
+Sh "2" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "3" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 5.08
+$EndPAD
+$PAD
+Sh "4" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "5" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 5.08
+$EndPAD
+$PAD
+Sh "6" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "7" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 5.08
+$EndPAD
+$PAD
+Sh "8" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "9" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 5.08
+$EndPAD
+$PAD
+Sh "10" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "11" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 5.08
+$EndPAD
+$PAD
+Sh "12" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "13" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 5.08
+$EndPAD
+$PAD
+Sh "14" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "15" O 1.6 2.4 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 5.08
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/to/multiwatt15.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Multiwatt15
 $MODULE Pentawatt
 Po 0 0 0 15 516D90D3 00000000 ~~
 Li Pentawatt

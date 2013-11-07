@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  03/04/2013 16.04.31
+PCBNEW-LibModule-V1  sab 28 set 2013 13:32:05 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -560,7 +560,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE Cree_ML-E
 $MODULE Cree_MT
-Po 0 0 0 15 4FCF3029 00000000 ~~
+Po 0 0 0 15 5246BE2C 00000000 ~~
 Li Cree_MT
 Cd Cree MT
 Sc 0
@@ -581,10 +581,10 @@ DS -3.556 -3.00228 -4.15544 -3.00228 0.254 21
 $PAD
 Sh "2" R 0.94996 8.89508 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00808000
 Ne 0 ""
 Po 3.97256 0
-.SolderMask 0.0508
+.SolderMask 0.05
 $EndPAD
 $PAD
 Sh "1" R 0.94996 8.89508 0 0 0
@@ -592,7 +592,7 @@ Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
 Po -3.97256 0
-.SolderMask 0.0508
+.SolderMask 0.05
 $EndPAD
 $PAD
 Sh "3" R 5.99948 8.89508 0 0 0
@@ -600,12 +600,12 @@ Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
 Po 0 0
-.SolderMask 0.0508
+.SolderMask 0.05
 $EndPAD
 $PAD
 Sh "3" R 1.905 3.175 0 0 0
 Dr 0 0 0
-At SMD N 00088000
+At SMD N 00880000
 Ne 0 ""
 Po -1.48844 2.44348
 .SolderPaste -0.0508
@@ -613,42 +613,44 @@ $EndPAD
 $PAD
 Sh "3" R 1.905 3.175 0 0 0
 Dr 0 0 0
-At SMD N 00088000
+At SMD N 00880000
 Ne 0 ""
 Po -1.48844 -2.44348
 $EndPAD
 $PAD
 Sh "3" R 1.905 3.175 0 0 0
 Dr 0 0 0
-At SMD N 00088000
+At SMD N 00880000
 Ne 0 ""
 Po 1.48844 -2.44348
 $EndPAD
 $PAD
 Sh "3" R 1.905 3.175 0 0 0
 Dr 0 0 0
-At SMD N 00088000
+At SMD N 00880000
 Ne 0 ""
 Po 1.48844 2.44348
 $EndPAD
 $PAD
 Sh "2" R 0.889 6.1976 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po 3.97256 0
-.SolderPaste -0.0508
+.SolderMask 0.05
+.SolderPaste -0.05
 $EndPAD
 $PAD
 Sh "1" R 0.889 6.1976 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po -3.97256 0
-.SolderPaste -0.0508
+.SolderMask 0.05
+.SolderPaste -0.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_mt.wrl"
+Na "walter\\smd_leds\\cree_mt.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1045,11 +1047,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE Cree_XP
 $MODULE Cree_XR
-Po 0 0 0 15 4FA9190B 00000000 ~~
+Po 0 0 0 15 5246BC95 00000000 ~~
 Li Cree_XR
 Cd Cree XR
 Sc 0
-AR 
+AR Cree_XR
 Op 0 0 0
 T0 0 -4.39928 1.00076 1.00076 0 0.20066 N V 21 N "LD?"
 T1 0 4.59994 1.00076 1.00076 0 0.20066 N V 21 N "Cree_XR"
@@ -1064,7 +1066,7 @@ DS -3.69824 0 -4.09956 0 0.14986 21
 $PAD
 Sh "2" R 0.29718 4.99618 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po 3.8608 0
 .SolderMask 0.0508
@@ -1073,7 +1075,7 @@ $EndPAD
 $PAD
 Sh "1" R 0.29718 4.99618 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po -3.8608 0
 .SolderMask 0.0508
@@ -1082,7 +1084,7 @@ $EndPAD
 $PAD
 Sh "3" R 1.3716 1.84658 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po -0.6858 0.92456
 .SolderMask 0.0508
@@ -1091,7 +1093,7 @@ $EndPAD
 $PAD
 Sh "3" R 1.3716 1.84658 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po -0.6858 -0.92456
 .SolderMask 0.0508
@@ -1100,7 +1102,7 @@ $EndPAD
 $PAD
 Sh "3" R 1.3716 1.84658 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po 0.6858 -0.92456
 .SolderMask 0.0508
@@ -1109,11 +1111,32 @@ $EndPAD
 $PAD
 Sh "3" R 1.3716 1.84658 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po 0.6858 0.92456
 .SolderMask 0.0508
 .SolderPaste -0.0508
+$EndPAD
+$PAD
+Sh "3" R 5.7 7 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 7 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po -3.9 0
+$EndPAD
+$PAD
+Sh "2" R 0.8 7 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po 3.9 0
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_leds/cree_xr.wrl"
@@ -1843,7 +1866,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE Luxeon_C
 $MODULE Luxeon_M
-Po 0 0 0 15 4FB3594C 00000000 ~~
+Po 0 0 0 15 5246BCD4 00000000 ~~
 Li Luxeon_M
 Cd Philips Lumileds Luxeon M
 Sc 0
@@ -1865,7 +1888,7 @@ DS -3.49758 3.49758 -3.49758 -3.49758 0.254 21
 $PAD
 Sh "1" R 0.5461 3.52806 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po 1.60274 0
 .SolderMask 0.0508
@@ -1874,7 +1897,7 @@ $EndPAD
 $PAD
 Sh "2" R 0.5461 3.52806 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po -1.60274 0
 .SolderMask 0.0508
@@ -1883,7 +1906,7 @@ $EndPAD
 $PAD
 Sh "3" R 2.25806 3.52806 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880000
 Ne 0 ""
 Po 0 0
 .SolderMask 0.0508
@@ -1939,7 +1962,7 @@ Ne 0 ""
 Po 0 3.31978
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/luxeon_m.wrl"
+Na "walter\\smd_leds\\luxeon_m.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3014,11 +3037,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE Seoul_P5-II
 $MODULE Seoul_Z7
-Po 0 0 0 15 4FAB6C98 00000000 ~~
+Po 0 0 0 15 5246BD24 00000000 ~~
 Li Seoul_Z7
 Cd Seoul Z7
 Sc 0
-AR 
+AR Seoul_Z7
 Op 0 0 0
 At SMD
 T0 0 -4.20116 0.99822 0.99822 0 0.14986 N V 21 N "LD?"
@@ -3037,15 +3060,6 @@ Ne 0 ""
 Po 3.70078 0.7747
 .SolderMask 0.04826
 .SolderPaste -0.04826
-$EndPAD
-$PAD
-Sh "9" R 4.58978 6.67766 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 0 0
-.SolderMask 0.0508
-.SolderPaste -0.0508
 $EndPAD
 $PAD
 Sh "1" R 1.2573 1.05918 0 0 0
@@ -3109,6 +3123,49 @@ Ne 0 ""
 Po -3.70078 -2.3495
 .SolderMask 0.04826
 .SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "9" R 2.3 3.35 0 0 0
+Dr 0 0 0
+At SMD N 00880000
+Ne 0 ""
+Po 1.15 -1.675
+.SolderMask 0.05
+.SolderPaste -0.15
+$EndPAD
+$PAD
+Sh "9" R 2.3 3.35 0 0 0
+Dr 0 0 0
+At SMD N 00880000
+Ne 0 ""
+Po -1.15 -1.675
+.SolderMask 0.05
+.SolderPaste -0.15
+$EndPAD
+$PAD
+Sh "9" R 2.3 3.35 0 0 0
+Dr 0 0 0
+At SMD N 00880000
+Ne 0 ""
+Po -1.15 1.675
+.SolderMask 0.05
+.SolderPaste -0.15
+$EndPAD
+$PAD
+Sh "9" R 2.3 3.35 0 0 0
+Dr 0 0 0
+At SMD N 00880000
+Ne 0 ""
+Po 1.15 1.675
+.SolderMask 0.05
+.SolderPaste -0.15
+$EndPAD
+$PAD
+Sh "9" R 4.6 6.7 0 0 0
+Dr 0 0 0
+At SMD N 00008000
+Ne 0 ""
+Po 0 0
 $EndPAD
 $SHAPE3D
 Na "../libKiCad/3d/smd_leds/seoul_z7.wrl"

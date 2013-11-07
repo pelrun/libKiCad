@@ -1,4 +1,10 @@
-EESchema-DOCLIB  Version 2.0  Date: ven 28 giu 2013 22:43:02 CEST
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT90USB82_162
+D 8-Bit AVR Microcontroller with 8/16KB ISP Flash and USB Controller
+K AT90USB82 AT90USB162
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Atmel/ATMEL_AT90USBx.pdf
+$ENDCMP
 #
 $CMP ATMEGA164_324_644_1284P-DIP
 D 8-Bit AVR Microcontroller with 16/32/64/128KB In-System Programmable Flash
@@ -388,6 +394,18 @@ $CMP STM32F40XZX
 D ARM Cortex-M4 32b MCU+FPU, 210DMIPS, up to 1MB Flash/192+4KB RAM, USB OTG HS/FS, Ethernet, 17 TIMs, 3 ADCs, 15 comm. interfaces & camera
 K STM32F40x
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F405-407.pdf
+$ENDCMP
+#
+$CMP uPD70433-G
+D V55PI 16bit microprocessor
+K uPD70433
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NEC_uPD70433.pdf
+$ENDCMP
+#
+$CMP uPD70433-R
+D V55PI 16bit microprocessor
+K uPD70433
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NEC_uPD70433.pdf
 $ENDCMP
 #
 #End Doc Library

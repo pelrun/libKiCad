@@ -1,8 +1,10 @@
-PCBNEW-LibModule-V1  dom 21 apr 2013 13:55:39 CEST
+PCBNEW-LibModule-V1  sab 12 ott 2013 21:10:31 CEST
 # encoding utf-8
 Units mm
 $INDEX
 DB_15F-VGA
+conn_hdd_15-24-4441
+conn_hdd_15-24-4449
 conn_usb_A
 conn_usb_A-vert
 conn_usb_A-vert2
@@ -205,6 +207,173 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE DB_15F-VGA
+$MODULE conn_hdd_15-24-4441
+Po 0 0 0 15 52599725 00000000 ~~
+Li conn_hdd_15-24-4441
+Cd 5.08mm Disk drive power connector, 90°, Molex P/N 15-24-4441
+Sc 0
+AR 
+Op 0 0 0
+T0 0 8.89 1.524 1.524 0 0.3048 N V 21 N "conn_hdd_15-24-4441"
+T1 0 -8.636 1.524 1.524 0 0.3048 N V 21 N "JP***"
+DS 8.4 -5.7 6.9 -5.7 0.3 21
+DS -9.9 -5.7 -11.7 -5.7 0.3 21
+DS -6.9 -5.7 -8.4 -5.7 0.3 21
+DS -4.8 -5.7 -5.4 -5.7 0.3 21
+DS -1.8 -5.7 -3.3 -5.7 0.3 21
+DS 0.3 -5.7 -0.3 -5.7 0.3 21
+DS 3.3 -5.7 1.8 -5.7 0.3 21
+DS 5.4 -5.7 4.8 -5.7 0.3 21
+DS 11.7 -5.7 9.9 -5.7 0.3 21
+DS -8.4 -6.7 -9.4 -6.7 0.3 21
+DS -9.4 -6.7 -9.9 -5.7 0.3 21
+DS -6.9 -6.7 -5.9 -6.7 0.3 21
+DS -5.9 -6.7 -5.4 -5.7 0.3 21
+DS -3.3 -6.7 -4.3 -6.7 0.3 21
+DS -4.3 -6.7 -4.8 -5.7 0.3 21
+DS -1.8 -6.7 -0.8 -6.7 0.3 21
+DS -0.8 -6.7 -0.3 -5.7 0.3 21
+DS 1.8 -6.7 0.8 -6.7 0.3 21
+DS 0.8 -6.7 0.3 -5.7 0.3 21
+DS 3.3 -6.7 4.3 -6.7 0.3 21
+DS 4.3 -6.7 4.8 -5.7 0.3 21
+DS 6.9 -6.7 5.9 -6.7 0.3 21
+DS 5.9 -6.7 5.4 -5.7 0.3 21
+DS 8.4 -6.7 9.4 -6.7 0.3 21
+DS 9.4 -6.7 9.9 -5.7 0.3 21
+DS 3.3 -5.7 3.3 -6.7 0.3 21
+DS -1.8 -5.7 -1.8 -6.7 0.3 21
+DS -6.9 -5.7 -6.9 -6.7 0.3 21
+DS 6.9 -5.7 6.9 -6.7 0.3 21
+DS 1.8 -5.7 1.8 -6.7 0.3 21
+DS -3.3 -5.7 -3.3 -6.7 0.3 21
+DS -8.4 -5.7 -8.4 -6.7 0.3 21
+DS 8.4 -5.7 8.4 -6.7 0.3 21
+DS -10.7 -1.3 10.7 -1.3 0.3 21
+DS 10.7 -1.3 10.7 6.7 0.3 21
+DS -10.7 -1.3 -10.7 6.7 0.3 21
+DS -11.7 6.7 11.7 6.7 0.3 21
+DS -11.7 -5.7 -11.7 6.7 0.3 21
+DS 11.7 -5.7 11.7 6.7 0.3 21
+$PAD
+Sh "" C 4 4 0 0 0
+Dr 4 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.08 4.14
+$EndPAD
+$PAD
+Sh "1" C 2.6 2.6 0 0 0
+Dr 1.52 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -7.62 -6.02
+$EndPAD
+$PAD
+Sh "2" C 2.6 2.6 0 0 0
+Dr 1.52 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -2.54 -6.02
+$EndPAD
+$PAD
+Sh "3" C 2.6 2.6 0 0 0
+Dr 1.52 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 2.54 -6.02
+$EndPAD
+$PAD
+Sh "4" C 2.6 2.6 0 0 0
+Dr 1.52 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 7.62 -6.02
+$EndPAD
+$PAD
+Sh "" C 2.54 2.54 0 0 0
+Dr 2.54 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 10.16 -3.48
+$EndPAD
+$PAD
+Sh "" C 4 4 0 0 0
+Dr 4 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.08 4.14
+$EndPAD
+$PAD
+Sh "" C 2.54 2.54 0 0 0
+Dr 2.54 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -10.16 -3.48
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/conn_pc/hdd_power_15-24-4441.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE conn_hdd_15-24-4441
+$MODULE conn_hdd_15-24-4449
+Po 0 0 0 15 52599E9A 00000000 ~~
+Li conn_hdd_15-24-4449
+Cd 5.08mm Disk drive power connector, Molex P/N 15-24-4449
+Sc 0
+AR 
+Op 0 0 0
+T0 0 5.6 1.524 1.524 0 0.3048 N V 21 N "conn_hdd_15-24-4449"
+T1 0 -5.4 1.524 1.524 0 0.3048 N V 21 N "JP***"
+DS 9 3.2 10.7 1.5 0.3 21
+DS -9 3.2 -10.7 1.5 0.3 21
+DS -9 3.2 9 3.2 0.3 21
+DS -10.7 -3.2 10.7 -3.2 0.3 21
+DS 9.5 4.2 11.7 2 0.3 21
+DS -9.5 4.2 -11.7 2 0.3 21
+DS -9.5 4.2 9.5 4.2 0.3 21
+DS 10.7 -3.2 10.7 1.5 0.3 21
+DS -10.7 -3.2 -10.7 1.5 0.3 21
+DS -11.7 -4.2 11.7 -4.2 0.3 21
+DS -11.7 -4.2 -11.7 2 0.3 21
+DS 11.7 -4.2 11.7 2 0.3 21
+$PAD
+Sh "1" C 2.9 2.9 0 0 0
+Dr 1.8 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "2" C 2.9 2.9 0 0 0
+Dr 1.8 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "3" C 2.9 2.9 0 0 0
+Dr 1.8 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "4" C 2.9 2.9 0 0 0
+Dr 1.8 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/conn_pc/hdd_power_15-24-4449.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE conn_hdd_15-24-4449
 $MODULE conn_usb_A
 Po 0 0 0 15 4F0880F2 00000000 ~~
 Li conn_usb_A
@@ -1003,11 +1172,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE conn_usb_B_mini_smd
 $MODULE dvi
-Po 0 0 0 15 4F088161 00000000 ~~
+Po 0 0 0 15 52599852 00000000 ~~
 Li dvi
 Cd DVI connector, Tyco P/N 1-1734147-1
 Sc 0
-AR 
+AR dvi
 Op 0 0 0
 T0 0 6.10108 1.524 1.524 0 0.3048 N V 21 N "DVI"
 T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "JP***"
@@ -1256,14 +1425,14 @@ $EndPAD
 $PAD
 Sh "" C 1.99898 1.99898 0 0 0
 Dr 1.99898 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -9.525 -0.00254
 $EndPAD
 $PAD
 Sh "" C 1.99898 1.99898 0 0 0
 Dr 1.99898 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 9.525 -0.00254
 $EndPAD
@@ -1275,11 +1444,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE dvi
 $MODULE pci-x_conn-x1
-Po 0 0 0 15 4ECA4D7F 00000000 ~~
+Po 0 0 0 15 52599810 00000000 ~~
 Li pci-x_conn-x1
 Cd PCI-X 1x card edge connector, FCI P/N 10018783-10x00x
 Sc 0
-AR 
+AR pci-x_conn-x1
 Op 0 0 0
 T0 0 -5.99948 1.524 1.524 0 0.3048 N V 21 N "JP***"
 T1 0 7.00024 1.524 1.524 0 0.3048 N V 21 N "pci-x_conn-x1"
@@ -1310,14 +1479,14 @@ DS 12.49934 -3.70078 -12.49934 -3.70078 0.3048 21
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 2.14884 0
 $EndPAD
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 11.30046 0
 $EndPAD
@@ -1581,7 +1750,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE pci-x_conn-x1
 $MODULE pci-x_conn-x16
-Po 0 0 0 15 4ECA4DE1 00000000 ~~
+Po 0 0 0 15 525997E2 00000000 ~~
 Li pci-x_conn-x16
 Cd PCI-X 16x card edge connector, FCI P/N 10018783-10x03x
 Sc 0
@@ -1636,14 +1805,14 @@ DS -12.49934 -3.70078 -12.49934 3.70078 0.3048 21
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 2.14884 0
 $EndPAD
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 75.30084 0
 $EndPAD
@@ -2803,7 +2972,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE pci-x_conn-x16
 $MODULE pci-x_conn-x4
-Po 0 0 0 15 4ECA4DA1 00000000 ~~
+Po 0 0 0 15 525997FF 00000000 ~~
 Li pci-x_conn-x4
 Cd PCI-X 4x card edge connector, FCI P/N 10018783-10x01x
 Sc 0
@@ -2841,14 +3010,14 @@ DS 26.49982 3.70078 26.49982 -3.70078 0.3048 21
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 2.14884 0
 $EndPAD
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 25.30094 0
 $EndPAD
@@ -3308,7 +3477,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE pci-x_conn-x4
 $MODULE pci-x_conn-x8
-Po 0 0 0 15 4ECA4DC3 00000000 ~~
+Po 0 0 0 15 525997F0 00000000 ~~
 Li pci-x_conn-x8
 Cd PCI-X 8x card edge connector, FCI P/N 10018783-10x02x
 Sc 0
@@ -3352,14 +3521,14 @@ DS 43.50004 3.70078 43.50004 -3.70078 0.3048 21
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 2.14884 0
 $EndPAD
 $PAD
 Sh "" C 2.4003 2.4003 0 0 0
 Dr 2.4003 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 42.30116 0
 $EndPAD
@@ -6679,7 +6848,7 @@ Po 38.49878 0.59944
 $EndPAD
 $EndMODULE pci-x_edge-x8
 $MODULE pci_conn
-Po 0 0 0 15 4ECB8DA8 00000000 ~~
+Po 0 0 0 15 52599831 00000000 ~~
 Li pci_conn
 Cd PCI card edge connector, Molex P/N 48200-60xx
 Sc 0
@@ -6702,7 +6871,7 @@ DS 42.45102 -4.45008 -42.45102 -4.45008 0.3048 21
 $PAD
 Sh "" C 2.4511 2.4511 0 0 0
 Dr 2.4511 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -24.13 0
 $EndPAD
@@ -6723,7 +6892,7 @@ $EndPAD
 $PAD
 Sh "" C 2.4511 2.4511 0 0 0
 Dr 2.4511 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 40.64 0
 $EndPAD
@@ -7863,11 +8032,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE rj45-led
 $MODULE rj45-noshield
-Po 0 0 0 15 4EAD5CB9 00000000 ~~
+Po 0 0 0 15 525997A1 00000000 ~~
 Li rj45-noshield
 Cd RJ45, unshielded
 Sc 0
-AR 
+AR rj45-noshield
 Op 0 0 0
 T0 0 6.858 1.524 1.524 0 0.3048 N V 21 N "RJ45-noshield"
 T1 0 -7.874 1.524 1.524 0 0.3048 N V 21 N "JP***"
@@ -7942,14 +8111,14 @@ $EndPAD
 $PAD
 Sh "" C 3.2512 3.2512 0 0 0
 Dr 3.2512 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -6.33984 0.05588
 $EndPAD
 $PAD
 Sh "" C 3.2512 3.2512 0 0 0
 Dr 3.2512 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 6.33984 0.05588
 $EndPAD
@@ -7961,11 +8130,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE rj45-noshield
 $MODULE rj45-shield
-Po 0 0 0 15 4F088186 00000000 ~~
+Po 0 0 0 15 525997B9 00000000 ~~
 Li rj45-shield
 Cd RJ45, shielded
 Sc 0
-AR 
+AR rj45-shield
 Op 0 0 0
 T0 0 6.858 1.524 1.524 0 0.3048 N V 21 N "RJ45-shield"
 T1 0 -7.874 1.524 1.524 0 0.3048 N V 21 N "JP***"
@@ -8054,14 +8223,14 @@ $EndPAD
 $PAD
 Sh "" C 3.2512 3.2512 0 0 0
 Dr 3.2512 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -6.33984 0.05588
 $EndPAD
 $PAD
 Sh "" C 3.2512 3.2512 0 0 0
 Dr 3.2512 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 6.33984 0.05588
 $EndPAD
@@ -8073,11 +8242,11 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE rj45-shield
 $MODULE rj45-tyco-2-406549-7
-Po 0 0 0 15 4F088193 00000000 ~~
+Po 0 0 0 15 525997CF 00000000 ~~
 Li rj45-tyco-2-406549-7
 Cd RJ45 + led indicators, Tyco P/N 2-406549-7
 Sc 0
-AR 
+AR rj45-led
 Op 0 0 0
 T0 0 9.779 1.524 1.524 0 0.3048 N V 21 N "rj45-tyco-2-406549-7"
 T1 0 -9.398 1.524 1.524 0 0.3048 N V 21 N "JP***"
@@ -8222,14 +8391,14 @@ $EndPAD
 $PAD
 Sh "" C 3.2512 3.2512 0 0 0
 Dr 3.2512 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -6.33984 2.59588
 $EndPAD
 $PAD
 Sh "" C 3.2512 3.2512 0 0 0
 Dr 3.2512 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 6.33984 2.59588
 $EndPAD
@@ -8269,13 +8438,13 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE rj45-tyco-2-406549-7
 $MODULE rj45-tyco-5-6605758-4
-Po 0 0 0 15 4F0881B2 00000000 ~~
+Po 0 0 0 15 5259978D 00000000 ~~
 Li rj45-tyco-5-6605758-4
 Cd RJ45 + led indicators, Tyco P/N 5-6605758-4
 Sc 0
-AR 
+AR rj45-led-5-6605758-4
 Op 0 0 0
-T0 0 12.446 1.524 1.524 0 0.3048 N V 21 N "rj45-tyco-5-6605758-4"
+T0 0 12.446 1.524 1.524 0 0.3048 N V 21 N "rj45-led-5-6605758-4"
 T1 0 -11.938 1.524 1.524 0 0.3048 N V 21 N "JP***"
 DS 6.35 11.176 6.35 10.795 0.381 21
 DS 6.35 11.176 8.001 11.176 0.381 21
@@ -8389,14 +8558,14 @@ $EndPAD
 $PAD
 Sh "" C 3.2004 3.2004 0 0 0
 Dr 3.2004 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -5.715 0
 $EndPAD
 $PAD
 Sh "" C 3.2004 3.2004 0 0 0
 Dr 3.2004 0 0
-At STD N 0000FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 5.715 0
 $EndPAD
