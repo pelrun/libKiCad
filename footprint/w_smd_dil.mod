@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 11 mag 2013 23:35:32 CEST
+PCBNEW-LibModule-V1  mer 06 nov 2013 23:28:00 CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -10,6 +10,7 @@ msoic-8
 msoic-8_powerpad
 msop-12
 msop-16
+multipowerso-30
 pdso-8
 powerso-20
 psop-24
@@ -1065,6 +1066,262 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE msop-16
+$MODULE multipowerso-30
+Po 0 0 0 15 527AC26C 00000000 ~~
+Li multipowerso-30
+Cd MultiPowerSO-30
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -10.8 0.7493 0.7493 0 0.14986 N V 21 N "MultiPowerSO-30"
+T1 0 10.7 0.7493 0.7493 0 0.14986 N V 21 N "U***"
+DC -7.3 6.7 -6.8 6.7 0.254 21
+DS -8.6 -7.4 -8 -8 0.254 21
+DS 8 -8 8.6 -7.4 0.254 21
+DS 8 8 8.6 7.4 0.254 21
+DS -8.6 -7.4 -8.6 7.4 0.254 21
+DS -8 8 8 8 0.254 21
+DS -8.6 7.4 -8 8 0.254 21
+DS -8 -8 8 -8 0.254 21
+DS 8.6 -7.4 8.6 7.4 0.254 21
+$PAD
+Sh "1" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 9.1
+$EndPAD
+$PAD
+Sh "2" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 9.1
+$EndPAD
+$PAD
+Sh "3" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 9.1
+$EndPAD
+$PAD
+Sh "4" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4 9.1
+$EndPAD
+$PAD
+Sh "5" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 9.1
+$EndPAD
+$PAD
+Sh "6" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 9.1
+$EndPAD
+$PAD
+Sh "7" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 9.1
+$EndPAD
+$PAD
+Sh "8" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 9.1
+$EndPAD
+$PAD
+Sh "33" R 6.23 5.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.165 -3.05
+$EndPAD
+$PAD
+Sh "10" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 9.1
+$EndPAD
+$PAD
+Sh "9" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 9.1
+$EndPAD
+$PAD
+Sh "11" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 9.1
+$EndPAD
+$PAD
+Sh "12" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4 9.1
+$EndPAD
+$PAD
+Sh "13" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 9.1
+$EndPAD
+$PAD
+Sh "14" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 9.1
+$EndPAD
+$PAD
+Sh "15" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 9.1
+$EndPAD
+$PAD
+Sh "16" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 -9.1
+$EndPAD
+$PAD
+Sh "17" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -9.1
+$EndPAD
+$PAD
+Sh "18" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -9.1
+$EndPAD
+$PAD
+Sh "19" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4 -9.1
+$EndPAD
+$PAD
+Sh "20" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -9.1
+$EndPAD
+$PAD
+Sh "32" R 6.23 5.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.165 -3.05
+$EndPAD
+$PAD
+Sh "31" R 10.3 5.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 3.05
+$EndPAD
+$PAD
+Sh "21" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -9.1
+$EndPAD
+$PAD
+Sh "22" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -9.1
+$EndPAD
+$PAD
+Sh "23" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -9.1
+$EndPAD
+$PAD
+Sh "24" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -9.1
+$EndPAD
+$PAD
+Sh "25" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -9.1
+$EndPAD
+$PAD
+Sh "26" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -9.1
+$EndPAD
+$PAD
+Sh "27" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4 -9.1
+$EndPAD
+$PAD
+Sh "28" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 -9.1
+$EndPAD
+$PAD
+Sh "29" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -9.1
+$EndPAD
+$PAD
+Sh "30" R 0.67 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 -9.1
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_dil/multipowerso-30.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE multipowerso-30
 $MODULE pdso-8
 Po 0 0 0 15 5186385C 00000000 ~~
 Li pdso-8

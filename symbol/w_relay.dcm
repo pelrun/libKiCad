@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: lun 22 lug 2013 21:07:09 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP FOTEK_SSR
 D Fotek SSR series solid state relay
@@ -49,6 +49,16 @@ $CMP RELAY_40.61
 D 40.61 16A Form C Relay
 K relay 40.61
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettromeccanici/Relais/FINDER_40.x1.pdf
+$ENDCMP
+#
+$CMP RELAY_9001
+D Coto 9001 series relay
+K relay 9001
+$ENDCMP
+#
+$CMP RELAY_9002
+D Coto 9002 series relay
+K relay 9002
 $ENDCMP
 #
 $CMP RELAY_DK1A

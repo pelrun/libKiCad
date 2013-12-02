@@ -376,6 +376,11 @@ $CMP ULN2803
 D Darlington Transistor array
 $ENDCMP
 #
+$CMP VNH5019A-E
+D Automotive fully integrated H-bridge motor driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_VNH5019A-E.pdf
+$ENDCMP
+#
 $CMP VS1003-B
 D Low power single chip synthesizer with effects
 K SAM2195

@@ -180,6 +180,24 @@ K LPC1769
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NXP_LPC1769-68-67-66-65-64-63.pdf
 $ENDCMP
 #
+$CMP MCF5223x-BGA121
+D Freescale ColdFire MCF52235 MCU, MAPBGA121 package
+K MCF5223
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Freescale/FREE_MCF5223x.pdf
+$ENDCMP
+#
+$CMP MCF5223x-LQFP112
+D Freescale ColdFire MCF52235 MCU, LQFP112 package
+K MCF5223
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Freescale/FREE_MCF5223x.pdf
+$ENDCMP
+#
+$CMP MCF5223x-LQFP80
+D Freescale ColdFire MCF52235 MCU, LQFP80 package
+K MCF5223
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Freescale/FREE_MCF5223x.pdf
+$ENDCMP
+#
 $CMP MCP120G-TO
 D Microcontroller Supervisory circuit with Open Drain output, TO92 package with G bondout
 K MCP120
@@ -396,13 +414,13 @@ K STM32F40x
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F405-407.pdf
 $ENDCMP
 #
-$CMP uPD70433-G
+$CMP UPD70433-G
 D V55PI 16bit microprocessor
 K uPD70433
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NEC_uPD70433.pdf
 $ENDCMP
 #
-$CMP uPD70433-R
+$CMP UPD70433-R
 D V55PI 16bit microprocessor
 K uPD70433
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NEC_uPD70433.pdf
