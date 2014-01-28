@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: sab 22 giu 2013 10:57:01 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP BALUN_2450BM15A0002
 D Balun filter for TI CC253x, CC254x, CC257x, CC853x, CC852x
@@ -120,6 +120,11 @@ $ENDCMP
 #
 $CMP SW_PUSH
 D Push Button
+K Switch
+$ENDCMP
+#
+$CMP SW_SP3T
+D Switch SP3T
 K Switch
 $ENDCMP
 #

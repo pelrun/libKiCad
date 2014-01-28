@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 22 giu 2013 13:36:42 CEST
+PCBNEW-LibModule-V1  dom 12 gen 2014 19:55:33 CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -10,6 +10,8 @@ inductor_smd_4.8x2.8mm
 inductor_smd_5.8x2.8mm
 inductor_smd_8x5mm
 inductor_smd_do3316p
+inductor_smd_pm2120
+inductor_smd_ser2900
 $EndINDEX
 $MODULE inductor_smd_0402
 Po 0 0 0 15 50CC79BA 00000000 ~~
@@ -311,4 +313,99 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE inductor_smd_do3316p
+$MODULE inductor_smd_pm2120
+Po 0 0 0 15 52D27F64 00000000 ~~
+Li inductor_smd_pm2120
+Cd Inductor SMD, Bourns PM2120 series
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -14.6 1.524 1.524 0 0.3048 N V 21 N "inductor_smd_pm2120"
+T1 0 14.3 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DC 0 0 4.8 0 0.381 21
+DC 0 0 11.5 0 0.381 21
+DS 15.5 -6.5 12.7 -6.5 0.381 21
+DS 15.5 6.5 12.7 6.5 0.381 21
+DS -15.5 6.5 -12.7 6.5 0.381 21
+DS -15.5 -6.5 -12.7 -6.5 0.381 21
+DS 15.5 -6.5 15.5 6.5 0.381 21
+DS -15.5 -6.5 -15.5 6.5 0.381 21
+DS -6.5 -12.7 -12.7 -6.5 0.381 21
+DS 12.7 -6.5 6.5 -12.7 0.381 21
+DS 6.5 12.7 12.7 6.5 0.381 21
+DS -12.7 6.5 -6.5 12.7 0.381 21
+DS 12.7 -6.5 12.7 6.5 0.381 21
+DS -12.7 -6.5 -12.7 6.5 0.381 21
+DS -6.5 -12.7 6.5 -12.7 0.381 21
+DS -6.5 12.7 6.5 12.7 0.381 21
+$PAD
+Sh "1" R 5.1 17.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "2" R 5.1 17.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14 0
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_inductors/inductor_pm2120.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE inductor_smd_pm2120
+$MODULE inductor_smd_ser2900
+Po 0 0 0 15 52D2E512 00000000 ~~
+Li inductor_smd_ser2900
+Cd Inductor SMD, Coilcraft SER2900 series
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -12.6 1.524 1.524 0 0.3048 N V 21 N "inductor_smd_ser2900"
+T1 0 18.9 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 3.3 9.9 3.3 16.8 0.381 21
+DS 3.3 16.8 7.1 16.8 0.381 21
+DS 7.1 16.8 7.1 8.7 0.381 21
+DS -3.3 9.9 -3.3 16.8 0.381 21
+DS -3.3 16.8 -7.1 16.8 0.381 21
+DS -7.1 16.8 -7.1 8.7 0.381 21
+DC 0 0 11.2 0 0.381 21
+DC 0 0 6.3 0 0.381 21
+DS 14 9.9 14 -9.9 0.381 21
+DS -14 -9.9 -14 9.9 0.381 21
+DS -14 9.9 14 9.9 0.381 21
+DS -14 -9.9 14 -9.9 0.381 21
+$PAD
+Sh "1" R 5.33 5.59 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 14.224
+$EndPAD
+$PAD
+Sh "2" R 5.33 5.59 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 14.224
+$EndPAD
+$PAD
+Sh "" R 5.33 5.59 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -7.7216
+$EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/smd_inductors/inductor_ser2900.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE inductor_smd_ser2900
 $EndLIBRARY

@@ -180,19 +180,19 @@ K LPC1769
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/NXP_LPC1769-68-67-66-65-64-63.pdf
 $ENDCMP
 #
-$CMP MCF5223x-BGA121
+$CMP MCF5223X-BGA121
 D Freescale ColdFire MCF52235 MCU, MAPBGA121 package
 K MCF5223
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Freescale/FREE_MCF5223x.pdf
 $ENDCMP
 #
-$CMP MCF5223x-LQFP112
+$CMP MCF5223X-LQFP112
 D Freescale ColdFire MCF52235 MCU, LQFP112 package
 K MCF5223
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Freescale/FREE_MCF5223x.pdf
 $ENDCMP
 #
-$CMP MCF5223x-LQFP80
+$CMP MCF5223X-LQFP80
 D Freescale ColdFire MCF52235 MCU, LQFP80 package
 K MCF5223
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Freescale/FREE_MCF5223x.pdf
@@ -364,6 +364,30 @@ $CMP PIC18F66J60
 D FLASH-Based 8-Bit CMOS Microcontroller with Ethernet
 K 18F66J60,18F66J65,18F67J60
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC18F66-67-86-87_J_60-65.pdf
+$ENDCMP
+#
+$CMP PIC24FJXXXGB106-MR
+D 16-Bit Flash Microcontroller with USB On-The-Go (OTG)
+K PIC24FJ
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_PIC24FJ256GB110.pdf
+$ENDCMP
+#
+$CMP PIC24FJXXXGB106-PT
+D 16-Bit Flash Microcontroller with USB On-The-Go (OTG)
+K PIC24FJ
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_PIC24FJ256GB110.pdf
+$ENDCMP
+#
+$CMP PIC24FJXXXGB108-PT
+D 16-Bit Flash Microcontroller with USB On-The-Go (OTG)
+K PIC24FJ
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_PIC24FJ256GB110.pdf
+$ENDCMP
+#
+$CMP PIC24FJXXXGB110-Px
+D 16-Bit Flash Microcontroller with USB On-The-Go (OTG)
+K PIC24FJ
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_PIC24FJ256GB110.pdf
 $ENDCMP
 #
 $CMP STM32F102CX

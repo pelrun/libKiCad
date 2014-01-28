@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: mer 23 gen 2013 20:57:34 CET
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 6N138
 D Single channel, High Speed Optocouplers
@@ -12,9 +12,17 @@ $CMP AC_OPTO
 D AC Input Optocoupler
 $ENDCMP
 #
-$CMP acda02
+$CMP ACDA02
 D dual 7segments display, Kingbright ACDA02
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/LED/KBT_ACDA02.pdf
+$ENDCMP
+#
+$CMP CMD-5571x00
+D Dot matrix display, common cathode, US Electronics CMD-5571x00
+$ENDCMP
+#
+$CMP CMD-5572x00
+D Dot matrix display, common anode, US Electronics CMD-5572x00
 $ENDCMP
 #
 $CMP CPC1117N
