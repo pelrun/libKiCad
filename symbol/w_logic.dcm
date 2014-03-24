@@ -112,7 +112,7 @@ $ENDCMP
 #
 $CMP 74HC244
 D Octal buffer/line driver, 3-state
-F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/NXP_74HC244_74HCT244.pdf
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Buffer/NXP_74HC244_74HCT244.pdf
 $ENDCMP
 #
 $CMP 74HC245
@@ -167,6 +167,16 @@ $ENDCMP
 $CMP M5450
 D 34 bit LED display driver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/ST_M5450_M5451.pdf
+$ENDCMP
+#
+$CMP MAX7219
+D 7-segments, 8 digits LED display driver
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/MAX_MAX7219-7221.pdf
+$ENDCMP
+#
+$CMP MAX7221
+D 7-segments, 8 digits LED display driver
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/MAX_MAX7219-7221.pdf
 $ENDCMP
 #
 #End Doc Library
