@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 20 ott 2013 20:45:16 CEST
+PCBNEW-LibModule-V1  sab 12 apr 2014 10:24:59 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -1273,6 +1273,12 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 0 -5
 $EndPAD
+$SHAPE3D
+Na "../libKiCad/3d/capacitors/cp_22x20mm.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE CP_22x20mm
 $MODULE CP_22x25mm
 Po 0 0 0 15 5263F5AD 00000000 ~~
