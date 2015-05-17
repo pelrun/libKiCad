@@ -19,30 +19,30 @@ mors_17p
 mors_18p
 mors_19p
 mors_20p
-mstbva_2,5/12-g-5,08
-mstbva_2,5/11-g-5,08
-mstbva_2,5/10-g-5,08
-mstbva_2,5/9-g-5,08
-mstbva_2,5/8-g-5,08
-mstbva_2,5/7-g-5,08
-mstbva_2,5/6-g-5,08
-mstbva_2,5/5-g-5,08
-mstbva_2,5/4-g-5,08
-mstbva_2,5/3-g-5,08
-mstbva_2,5/2-g-5,08
-mstba_2,5/2-g-5,08
-mstba_2,5/3-g-5,08
-mstba_2,5/4-g-5,08
-mstba_2,5/5-g-5,08
-mstba_2,5/6-g-5,08
-mstba_2,5/7-g-5,08
-mstba_2,5/8-g-5,08
-mstba_2,5/9-g-5,08
-mstba_2,5/10-g-5,08
-mstba_2,5/11-g-5,08
-mstba_2,5/12-g-5,08
+mstbva_2,5-12-g-5,08
+mstbva_2,5-11-g-5,08
+mstbva_2,5-10-g-5,08
+mstbva_2,5-9-g-5,08
+mstbva_2,5-8-g-5,08
+mstbva_2,5-7-g-5,08
+mstbva_2,5-6-g-5,08
+mstbva_2,5-5-g-5,08
+mstbva_2,5-4-g-5,08
+mstbva_2,5-3-g-5,08
+mstbva_2,5-2-g-5,08
+mstba_2,5-2-g-5,08
+mstba_2,5-3-g-5,08
+mstba_2,5-4-g-5,08
+mstba_2,5-5-g-5,08
+mstba_2,5-6-g-5,08
+mstba_2,5-7-g-5,08
+mstba_2,5-8-g-5,08
+mstba_2,5-9-g-5,08
+mstba_2,5-10-g-5,08
+mstba_2,5-11-g-5,08
+mstba_2,5-12-g-5,08
 $EndINDEX
-$MODULE mstbva_2,5/3-g-5,08
+$MODULE mstbva_2,5-3-g-5,08
 Po 0 0 0 15 4A8695FF 00000000 ~~
 Li mstbva_2,5/3-g-5,08
 Cd Terminal block 3 pins, Phoenix MSTBVA 2,5/3-G-5,08
@@ -89,8 +89,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/3-g-5,08
-$MODULE mstbva_2,5/2-g-5,08
+$EndMODULE  mstbva_2,5-3-g-5,08
+$MODULE mstbva_2,5-2-g-5,08
 Po 0 0 0 15 4A869612 00000000 ~~
 Li mstbva_2,5/2-g-5,08
 Cd Terminal block 2 pins, Phoenix MSTBVA 2,5/2-G-5,08
@@ -129,8 +129,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/2-g-5,08
-$MODULE mstbva_2,5/4-g-5,08
+$EndMODULE  mstbva_2,5-2-g-5,08
+$MODULE mstbva_2,5-4-g-5,08
 Po 0 0 0 15 4A86962C 00000000 ~~
 Li mstbva_2,5/4-g-5,08
 Cd Terminal block 4 pins, Phoenix MSTBVA 2,5/4-G-5,08
@@ -185,8 +185,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/4-g-5,08
-$MODULE mstbva_2,5/5-g-5,08
+$EndMODULE  mstbva_2,5-4-g-5,08
+$MODULE mstbva_2,5-5-g-5,08
 Po 0 0 0 15 4A869648 00000000 ~~
 Li mstbva_2,5/5-g-5,08
 Cd Terminal block 5 pins, Phoenix MSTBVA 2,5/5-G-5,08
@@ -249,8 +249,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/5-g-5,08
-$MODULE mstbva_2,5/6-g-5,08
+$EndMODULE  mstbva_2,5-5-g-5,08
+$MODULE mstbva_2,5-6-g-5,08
 Po 0 0 0 15 4A869662 00000000 ~~
 Li mstbva_2,5/6-g-5,08
 Cd Terminal block 6 pins, Phoenix MSTBVA 2,5/6-G-5,08
@@ -321,8 +321,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/6-g-5,08
-$MODULE mstbva_2,5/7-g-5,08
+$EndMODULE  mstbva_2,5-6-g-5,08
+$MODULE mstbva_2,5-7-g-5,08
 Po 0 0 0 15 4A86968B 00000000 ~~
 Li mstbva_2,5/7-g-5,08
 Cd Terminal block 7 pins, Phoenix MSTBVA 2,5/7-G-5,08
@@ -401,8 +401,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/7-g-5,08
-$MODULE mstbva_2,5/8-g-5,08
+$EndMODULE  mstbva_2,5-7-g-5,08
+$MODULE mstbva_2,5-8-g-5,08
 Po 0 0 0 15 4A8696A1 00000000 ~~
 Li mstbva_2,5/8-g-5,08
 Cd Terminal block 8 pins, Phoenix MSTBVA 2,5/8-G-5,08
@@ -489,8 +489,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/8-g-5,08
-$MODULE mstbva_2,5/9-g-5,08
+$EndMODULE  mstbva_2,5-8-g-5,08
+$MODULE mstbva_2,5-9-g-5,08
 Po 0 0 0 15 4A8696B9 00000000 ~~
 Li mstbva_2,5/9-g-5,08
 Cd Terminal block 9 pins, Phoenix MSTBVA 2,5/9-G-5,08
@@ -585,8 +585,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/9-g-5,08
-$MODULE mstbva_2,5/10-g-5,08
+$EndMODULE  mstbva_2,5-9-g-5,08
+$MODULE mstbva_2,5-10-g-5,08
 Po 0 0 0 15 4A86975F 00000000 ~~
 Li mstbva_2,5/10-g-5,08
 Cd Terminal block 10 pins, Phoenix MSTBVA 2,5/10-G-5,08
@@ -689,8 +689,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/10-g-5,08
-$MODULE mstbva_2,5/11-g-5,08
+$EndMODULE  mstbva_2,5-10-g-5,08
+$MODULE mstbva_2,5-11-g-5,08
 Po 0 0 0 15 4A8697C7 00000000 ~~
 Li mstbva_2,5/11-g-5,08
 Cd Terminal block 11 pins, Phoenix MSTBVA 2,5/11-G-5,08
@@ -801,8 +801,8 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/11-g-5,08
-$MODULE mstbva_2,5/12-g-5,08
+$EndMODULE  mstbva_2,5-11-g-5,08
+$MODULE mstbva_2,5-12-g-5,08
 Po 0 0 0 15 4A869839 00000000 ~~
 Li mstbva_2,5/12-g-5,08
 Cd Terminal block 12 pins, Phoenix MSTBVA 2,5/12-G-5,08
@@ -921,7 +921,7 @@ Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
-$EndMODULE  mstbva_2,5/12-g-5,08
+$EndMODULE  mstbva_2,5-12-g-5,08
 $MODULE mors_20p
 Po 0 0 0 15 4B90D86F 00000000 ~~
 Li mors_20p
