@@ -69,7 +69,7 @@ Ne 0 ""
 Po -2.25044 3.2512
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/pcb_push.wrl"
+Na "${LIBKICAD}/3d/switch/pcb_push.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -122,7 +122,7 @@ Ne 0 ""
 Po -3.81 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/pcb_push2.wrl"
+Na "${LIBKICAD}/3d/switch/pcb_push2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -169,7 +169,7 @@ Ne 0 ""
 Po 0 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_1-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_1-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -450,7 +450,7 @@ Ne 0 ""
 Po -11.43 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_10-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_10-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -783,7 +783,7 @@ Ne 0 ""
 Po -11.43 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_12-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_12-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -856,7 +856,7 @@ Ne 0 ""
 Po 1.27 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_2-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_2-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -955,7 +955,7 @@ Ne 0 ""
 Po -2.54 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_3-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_3-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1080,7 +1080,7 @@ Ne 0 ""
 Po -3.81 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_4-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_4-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1231,7 +1231,7 @@ Ne 0 ""
 Po -5.08 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_5-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_5-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1408,7 +1408,7 @@ Ne 0 ""
 Po -6.35 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_6-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_6-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1611,7 +1611,7 @@ Ne 0 ""
 Po -7.62 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_7-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_7-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1840,7 +1840,7 @@ Ne 0 ""
 Po -8.89 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_8-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_8-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2095,7 +2095,7 @@ Ne 0 ""
 Po -10.16 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/dip_9-300.wrl"
+Na "${LIBKICAD}/3d/switch/dip_9-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2150,7 +2150,7 @@ Ne 0 ""
 Po -3.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/pcb_push_xiejia_pb-11d01.wrl"
+Na "${LIBKICAD}/3d/switch/pcb_push_xiejia_pb-11d01.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2212,7 +2212,7 @@ Ne 0 ""
 Po -3.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/pcb_push_xiejia_pb-11d03.wrl"
+Na "${LIBKICAD}/3d/switch/pcb_push_xiejia_pb-11d03.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2281,7 +2281,7 @@ Ne 0 ""
 Po -3.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/pcb_push_xiejia_pb-11d14.wrl"
+Na "${LIBKICAD}/3d/switch/pcb_push_xiejia_pb-11d14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2327,7 +2327,7 @@ Ne 0 ""
 Po 3.59918 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/smd_push.wrl"
+Na "${LIBKICAD}/3d/switch/smd_push.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2400,7 +2400,7 @@ Ne 0 ""
 Po 2.99974 -1.84912
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/smd_push2.wrl"
+Na "${LIBKICAD}/3d/switch/smd_push2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2455,7 +2455,7 @@ Ne 0 ""
 Po -3.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/smd_push_xiejia_pb-11d06.wrl"
+Na "${LIBKICAD}/3d/switch/smd_push_xiejia_pb-11d06.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2511,7 +2511,7 @@ Ne 0 ""
 Po 4.699 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/switch_100sp5.wrl"
+Na "${LIBKICAD}/3d/switch/switch_100sp5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2579,7 +2579,7 @@ Ne 0 ""
 Po 6.59638 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/switch_mfp116dg-ra.wrl"
+Na "${LIBKICAD}/3d/switch/switch_mfp116dg-ra.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2634,7 +2634,7 @@ Ne 0 ""
 Po 2.49936 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/switch/switch_mmp122-r.wrl"
+Na "${LIBKICAD}/3d/switch/switch_mmp122-r.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

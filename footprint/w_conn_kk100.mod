@@ -66,7 +66,7 @@ Ne 0 ""
 Po 500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2021.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2021.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -119,7 +119,7 @@ Ne 0 ""
 Po 0 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2031.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2031.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -179,7 +179,7 @@ Ne 0 ""
 Po -500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2041.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2041.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -246,7 +246,7 @@ Ne 0 ""
 Po -1000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2051.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2051.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -324,7 +324,7 @@ Ne 0 ""
 Po -1500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2061.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2061.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -409,7 +409,7 @@ Ne 0 ""
 Po -2000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2071.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2071.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -501,7 +501,7 @@ Ne 0 ""
 Po -2500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2081.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2081.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -600,7 +600,7 @@ Ne 0 ""
 Po -3000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2091.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2091.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -706,7 +706,7 @@ Ne 0 ""
 Po -3500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2101.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2101.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -823,7 +823,7 @@ Ne 0 ""
 Po -4000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2111.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2111.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -947,7 +947,7 @@ Ne 0 ""
 Po -4500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2121.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2121.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1078,7 +1078,7 @@ Ne 0 ""
 Po -5000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2131.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2131.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1216,7 +1216,7 @@ Ne 0 ""
 Po -5500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2141.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2141.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1361,7 +1361,7 @@ Ne 0 ""
 Po -6000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2151.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2151.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1513,7 +1513,7 @@ Ne 0 ""
 Po -6500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2161.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2161.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1672,7 +1672,7 @@ Ne 0 ""
 Po -7000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2171.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2171.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1838,7 +1838,7 @@ Ne 0 ""
 Po -7500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2181.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2181.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2011,7 +2011,7 @@ Ne 0 ""
 Po -8000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2191.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2191.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2191,7 +2191,7 @@ Ne 0 ""
 Po -8500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2201.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2201.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2378,7 +2378,7 @@ Ne 0 ""
 Po -9000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2211.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2211.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2572,7 +2572,7 @@ Ne 0 ""
 Po -9500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2221.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2221.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2773,7 +2773,7 @@ Ne 0 ""
 Po -10000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2231.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2231.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2981,7 +2981,7 @@ Ne 0 ""
 Po -10500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2241.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2241.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3196,7 +3196,7 @@ Ne 0 ""
 Po -11000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2251.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2251.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3418,7 +3418,7 @@ Ne 0 ""
 Po -11500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2261.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2261.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3647,7 +3647,7 @@ Ne 0 ""
 Po -12000 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2271.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2271.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3883,7 +3883,7 @@ Ne 0 ""
 Po -12500 -30
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_kk100/22-23-2281.wrl"
+Na "${LIBKICAD}/3d/conn_kk100/22-23-2281.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

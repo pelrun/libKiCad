@@ -47,7 +47,7 @@ Ne 0 ""
 Po 0.47752 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_0402.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_0402.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -83,7 +83,7 @@ Ne 0 ""
 Po 0.63754 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_0603.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_0603.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -119,7 +119,7 @@ Ne 0 ""
 Po 0.889 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_0805.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_0805.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -155,7 +155,7 @@ Ne 0 ""
 Po 1.143 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_1008.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_1008.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -193,7 +193,7 @@ Ne 0 ""
 Po 0 1.74752
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_4.8x2.8mm.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_4.8x2.8mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -236,7 +236,7 @@ Ne 0 ""
 Po 0 2.04978
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_5.8x2.8mm.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_5.8x2.8mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -276,7 +276,7 @@ Ne 0 ""
 Po 0 3
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_6.5x4.8mm.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_6.5x4.8mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -310,7 +310,7 @@ Ne 0 ""
 Po 2.49936 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_8x5mm.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_8x5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -351,7 +351,7 @@ Ne 0 ""
 Po 5.145 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_smd_do3316p.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_smd_do3316p.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -397,7 +397,7 @@ Ne 0 ""
 Po 14 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_pm2120.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_pm2120.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -446,7 +446,7 @@ Ne 0 ""
 Po 0 -7.7216
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/inductor_ser2900.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/inductor_ser2900.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -522,7 +522,7 @@ Ne 0 ""
 Po 3.75 -6.605
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/transf_smd_ep10-8.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/transf_smd_ep10-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -612,7 +612,7 @@ Ne 0 ""
 Po 5 -7.88
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/transf_smd_ep13-10.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/transf_smd_ep13-10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -688,7 +688,7 @@ Ne 0 ""
 Po 3.75 -5.715
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_inductors/transf_smd_ep7-8.wrl"
+Na "${LIBKICAD}/3d/smd_inductors/transf_smd_ep7-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

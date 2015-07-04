@@ -969,7 +969,7 @@ Ne 0 ""
 Po 16.51 -8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pga/cpga132.wrl"
+Na "${LIBKICAD}/3d/pga/cpga132.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

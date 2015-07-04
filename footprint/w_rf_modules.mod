@@ -410,7 +410,7 @@ Ne 0 ""
 Po -18.95 10
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/8devices_carambola2.wrl"
+Na "${LIBKICAD}/3d/rf_modules/8devices_carambola2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -695,7 +695,7 @@ Ne 0 ""
 Po 6.49986 -5.99948
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/itead_hc-05.wrl"
+Na "${LIBKICAD}/3d/rf_modules/itead_hc-05.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -793,7 +793,7 @@ Ne 0 ""
 Po 5.4991 -4.0005
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/qm-5767.wrl"
+Na "${LIBKICAD}/3d/rf_modules/qm-5767.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -922,7 +922,7 @@ Po -5.4991 -5.00126
 .LocalClearance 0.19812
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/rfm12b-d.wrl"
+Na "${LIBKICAD}/3d/rf_modules/rfm12b-d.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1055,7 +1055,7 @@ Ne 0 ""
 Po 8.001 -5.99948
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/rfm12b-s.wrl"
+Na "${LIBKICAD}/3d/rf_modules/rfm12b-s.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1201,7 +1201,7 @@ Ne 0 ""
 Po -7.76 6
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/rfm22b-d.wrl"
+Na "${LIBKICAD}/3d/rf_modules/rfm22b-d.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1351,7 +1351,7 @@ Ne 0 ""
 Po 8 -7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/rfm22b-s.wrl"
+Na "${LIBKICAD}/3d/rf_modules/rfm22b-s.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1585,7 +1585,7 @@ Ne 0 ""
 Po 3.91 -6.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/anaren_a1101rxxa.wrl"
+Na "${LIBKICAD}/3d/rf_modules/anaren_a1101rxxa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1815,7 +1815,7 @@ Ne 0 ""
 Po 3.91 -4.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/anaren_a1101rxxc.wrl"
+Na "${LIBKICAD}/3d/rf_modules/anaren_a1101rxxc.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2035,7 +2035,7 @@ Ne 0 ""
 Po 3.91 -4.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/anaren_a2500r24a.wrl"
+Na "${LIBKICAD}/3d/rf_modules/anaren_a2500r24a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2297,7 +2297,7 @@ Ne 0 ""
 Po 5.1 -3.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/anaren_a8520e24a91.wrl"
+Na "${LIBKICAD}/3d/rf_modules/anaren_a8520e24a91.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2492,7 +2492,7 @@ Ne 0 ""
 Po -3.95 1.8
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/panasonic_pan131x.wrl"
+Na "${LIBKICAD}/3d/rf_modules/panasonic_pan131x.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2715,7 +2715,7 @@ Ne 0 ""
 Po 0 -4.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/panasonic_pan132x.wrl"
+Na "${LIBKICAD}/3d/rf_modules/panasonic_pan132x.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3082,7 +3082,7 @@ Ne 0 ""
 Po -1.3 -17.4
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/roving_rn-131.wrl"
+Na "${LIBKICAD}/3d/rf_modules/roving_rn-131.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3380,7 +3380,7 @@ Ne 0 ""
 Po 0.6 -10
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/roving_rn-42-n.wrl"
+Na "${LIBKICAD}/3d/rf_modules/roving_rn-42-n.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3743,7 +3743,7 @@ Ne 0 ""
 Po -9.8 -12.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/telit_gl865.wrl"
+Na "${LIBKICAD}/3d/rf_modules/telit_gl865.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4045,7 +4045,7 @@ Ne 0 ""
 Po 0 -9.3
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/rf_modules/roving_rn-42.wrl"
+Na "${LIBKICAD}/3d/rf_modules/roving_rn-42.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

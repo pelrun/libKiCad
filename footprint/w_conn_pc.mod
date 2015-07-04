@@ -202,7 +202,7 @@ Ne 0 ""
 Po -4.84886 -1.47066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/db_15-vga.wrl"
+Na "${LIBKICAD}/3d/conn_pc/db_15-vga.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -313,7 +313,7 @@ Ne 0 ""
 Po -10.16 -3.48
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/hdd_power_15-24-4441.wrl"
+Na "${LIBKICAD}/3d/conn_pc/hdd_power_15-24-4441.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -369,7 +369,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/hdd_power_15-24-4449.wrl"
+Na "${LIBKICAD}/3d/conn_pc/hdd_power_15-24-4449.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -439,7 +439,7 @@ Ne 0 ""
 Po 3.50012 -5.98932
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_A.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -519,7 +519,7 @@ Ne 0 ""
 Po -2.72034 -2.30124
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_A_vert.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_A_vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -589,7 +589,7 @@ Ne 0 ""
 Po -0.76454 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_A_vert2.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_A_vert2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -705,7 +705,7 @@ Ne 0 ""
 Po 6.57098 -7.96544
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_Ax2.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_Ax2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -774,7 +774,7 @@ Ne 0 ""
 Po 6.0198 -2.286
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_B.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_B.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -855,7 +855,7 @@ Ne 0 ""
 Po 0 -5.61086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_B_vert.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_B_vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -956,7 +956,7 @@ Ne 0 ""
 Po 1.30048 -2.65938
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_B_micro_smd.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_B_micro_smd.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1057,7 +1057,7 @@ Ne 0 ""
 Po -1.89992 -2.14884
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_B_micro_smd-2.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_B_micro_smd-2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1166,7 +1166,7 @@ Ne 0 ""
 Po 4.42976 1.8796
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/usb_B_mini_smd.wrl"
+Na "${LIBKICAD}/3d/conn_pc/usb_B_mini_smd.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1438,7 +1438,7 @@ Ne 0 ""
 Po 9.525 -0.00254
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/dvi.wrl"
+Na "${LIBKICAD}/3d/conn_pc/dvi.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1744,7 +1744,7 @@ Ne 0 ""
 Po 0.50038 1.24968
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/pci-x_conn-x1.wrl"
+Na "${LIBKICAD}/3d/conn_pc/pci-x_conn-x1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2966,7 +2966,7 @@ Ne 0 ""
 Po 73.49998 -3.2512
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/pci-x_conn-x16.wrl"
+Na "${LIBKICAD}/3d/conn_pc/pci-x_conn-x16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3471,7 +3471,7 @@ Ne 0 ""
 Po 23.50008 -3.2512
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/pci-x_conn-x4.wrl"
+Na "${LIBKICAD}/3d/conn_pc/pci-x_conn-x4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4220,7 +4220,7 @@ Ne 0 ""
 Po 40.5003 -1.24968
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/pci-x_conn-x8.wrl"
+Na "${LIBKICAD}/3d/conn_pc/pci-x_conn-x8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7724,7 +7724,7 @@ Ne 0 ""
 Po -38.735 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/pci_conn.wrl"
+Na "${LIBKICAD}/3d/conn_pc/pci_conn.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8026,7 +8026,7 @@ Ne 0 ""
 Po 6.86054 -6.54304
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-led.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-led.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8124,7 +8124,7 @@ Ne 0 ""
 Po 6.33984 0.05588
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-noshield.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-noshield.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8236,7 +8236,7 @@ Ne 0 ""
 Po 6.33984 0.05588
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-shield.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-shield.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8432,7 +8432,7 @@ Ne 0 ""
 Po 6.86054 -6.54304
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-led.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-led.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8599,7 +8599,7 @@ Ne 0 ""
 Po -6.7818 2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-led-5-6605758-4.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-led-5-6605758-4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8739,7 +8739,7 @@ Ne 0 ""
 Po -3.785 3.38
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-led-rb1-125bag1a.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-led-rb1-125bag1a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8920,7 +8920,7 @@ Ne 0 ""
 Po 0.635 -6.35
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pc/rj45-wurth-7499211122a.wrl"
+Na "${LIBKICAD}/3d/conn_pc/rj45-wurth-7499211122a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

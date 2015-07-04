@@ -82,7 +82,7 @@ Ne 0 ""
 Po -1.905 -6.35
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/6p4c.wrl"
+Na "${LIBKICAD}/3d/conn_misc/6p4c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -165,7 +165,7 @@ Ne 0 ""
 Po -3.175 -6.35
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/6p6c.wrl"
+Na "${LIBKICAD}/3d/conn_misc/6p6c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -262,7 +262,7 @@ Ne 0 ""
 Po -4.445 -6.35
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/8p8c.wrl"
+Na "${LIBKICAD}/3d/conn_misc/8p8c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -566,7 +566,7 @@ Ne 0 ""
 Po 33.02 -8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/arduino_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/arduino_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1276,7 +1276,7 @@ Ne 0 ""
 Po 16.51 -8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/arduino_mega_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/arduino_mega_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1523,7 +1523,7 @@ Ne 0 ""
 Po -17.78 -7.62
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/arduino_nano_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/arduino_nano_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1601,7 +1601,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/arduino_pin_socket_8.wrl"
+Na "${LIBKICAD}/3d/conn_misc/arduino_pin_socket_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1643,7 +1643,7 @@ Ne 0 ""
 Po 0 -6.25094
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/dc_socket.wrl"
+Na "${LIBKICAD}/3d/conn_misc/dc_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1790,7 +1790,7 @@ Ne 0 ""
 Po 5 -2.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/dc_socket.wrl"
+Na "${LIBKICAD}/3d/conn_misc/dc_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1944,7 +1944,7 @@ Po 6.2103 -7.47522
 .LocalClearance 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/microsd_socket.wrl"
+Na "${LIBKICAD}/3d/conn_misc/microsd_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2027,7 +2027,7 @@ Ne 0 ""
 Po -3.175 -8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/molex_6p6c.wrl"
+Na "${LIBKICAD}/3d/conn_misc/molex_6p6c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2174,7 +2174,7 @@ Ne 0 ""
 Po -12.10056 9.82472
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/sd_socket.wrl"
+Na "${LIBKICAD}/3d/conn_misc/sd_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2669,7 +2669,7 @@ Ne 0 ""
 Po -40.64 -19.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/stm32f0_discovery_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/stm32f0_discovery_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3454,7 +3454,7 @@ Ne 0 ""
 Po 21.03 -26.67
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/stm32f3_discovery_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/stm32f3_discovery_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4221,7 +4221,7 @@ Ne 0 ""
 Po 45.16 -26.67
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/stm32f4_discovery_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/stm32f4_discovery_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4688,7 +4688,7 @@ Ne 0 ""
 Po -35.85 6.35
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_misc/stm32vl_discovery_header.wrl"
+Na "${LIBKICAD}/3d/conn_misc/stm32vl_discovery_header.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

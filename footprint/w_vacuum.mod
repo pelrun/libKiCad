@@ -83,7 +83,7 @@ Ne 0 ""
 Po 2227 2227
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/vacuum/socket_gzc7-y.wrl"
+Na "${LIBKICAD}/3d/vacuum/socket_gzc7-y.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -192,7 +192,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/vacuum/socket_gzc9-b.wrl"
+Na "${LIBKICAD}/3d/vacuum/socket_gzc9-b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -274,7 +274,7 @@ Ne 0 ""
 Po 2227 2227
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/vacuum/tube_gzc7-y.wrl"
+Na "${LIBKICAD}/3d/vacuum/tube_gzc7-y.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -383,7 +383,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/vacuum/tube_gzc9-b.wrl"
+Na "${LIBKICAD}/3d/vacuum/tube_gzc9-b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

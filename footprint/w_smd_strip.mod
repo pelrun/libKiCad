@@ -273,7 +273,7 @@ Ne 0 ""
 Po 1.27 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP04.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP04.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -343,7 +343,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP04_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP04_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -420,7 +420,7 @@ Ne 0 ""
 Po 0 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP06.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP06.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -511,7 +511,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP06_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP06_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -602,7 +602,7 @@ Ne 0 ""
 Po -1.27 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP08.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP08.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -707,7 +707,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP08_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP08_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -812,7 +812,7 @@ Ne 0 ""
 Po 5.08 2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP10.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -931,7 +931,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP10_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP10_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1050,7 +1050,7 @@ Ne 0 ""
 Po 6.35 2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP12.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1183,7 +1183,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP12_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP12_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1316,7 +1316,7 @@ Ne 0 ""
 Po 5.08 2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP14.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1463,7 +1463,7 @@ Ne 0 ""
 Po 6.35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP14_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP14_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1610,7 +1610,7 @@ Ne 0 ""
 Po 8.89 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP16.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1771,7 +1771,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP16_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP16_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1932,7 +1932,7 @@ Ne 0 ""
 Po 10.16 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP18.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2107,7 +2107,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP18_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP18_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2282,7 +2282,7 @@ Ne 0 ""
 Po 8.89 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP20.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2471,7 +2471,7 @@ Ne 0 ""
 Po 10.16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP20_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP20_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2660,7 +2660,7 @@ Ne 0 ""
 Po 7.62 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP22.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP22.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2863,7 +2863,7 @@ Ne 0 ""
 Po 11.43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP22_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP22_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3066,7 +3066,7 @@ Ne 0 ""
 Po 6.35 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP24.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3283,7 +3283,7 @@ Ne 0 ""
 Po 12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP24_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP24_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3500,7 +3500,7 @@ Ne 0 ""
 Po 5.08 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP26.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP26.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3731,7 +3731,7 @@ Ne 0 ""
 Po 13.97 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP26_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP26_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3962,7 +3962,7 @@ Ne 0 ""
 Po 16.51 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP28.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4207,7 +4207,7 @@ Ne 0 ""
 Po 15.24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP28_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP28_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4452,7 +4452,7 @@ Ne 0 ""
 Po 17.78 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP30.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP30.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4711,7 +4711,7 @@ Ne 0 ""
 Po 16.51 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP30_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP30_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4970,7 +4970,7 @@ Ne 0 ""
 Po 16.51 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP32.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP32.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5243,7 +5243,7 @@ Ne 0 ""
 Po 17.78 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP32_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP32_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5516,7 +5516,7 @@ Ne 0 ""
 Po 15.24 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP34.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP34.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5803,7 +5803,7 @@ Ne 0 ""
 Po 19.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP34_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP34_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6090,7 +6090,7 @@ Ne 0 ""
 Po 21.59 2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP36.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP36.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6391,7 +6391,7 @@ Ne 0 ""
 Po 20.32 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP36_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP36_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6692,7 +6692,7 @@ Ne 0 ""
 Po 20.32 2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP38.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP38.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7007,7 +7007,7 @@ Ne 0 ""
 Po 21.59 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP38_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP38_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7322,7 +7322,7 @@ Ne 0 ""
 Po 24.13 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP40.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP40.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7651,7 +7651,7 @@ Ne 0 ""
 Po 22.86 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP40_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP40_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7980,7 +7980,7 @@ Ne 0 ""
 Po 25.4 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP42.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP42.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8323,7 +8323,7 @@ Ne 0 ""
 Po 24.13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP42_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP42_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8666,7 +8666,7 @@ Ne 0 ""
 Po 24.13 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP44.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9023,7 +9023,7 @@ Ne 0 ""
 Po 25.4 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP44_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP44_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9380,7 +9380,7 @@ Ne 0 ""
 Po 22.86 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP46.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP46.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9751,7 +9751,7 @@ Ne 0 ""
 Po 26.67 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP46_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP46_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10122,7 +10122,7 @@ Ne 0 ""
 Po 21.59 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP48.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10507,7 +10507,7 @@ Ne 0 ""
 Po 27.94 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP48_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP48_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10892,7 +10892,7 @@ Ne 0 ""
 Po 20.32 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP50.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP50.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11291,7 +11291,7 @@ Ne 0 ""
 Po 29.21 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP50_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP50_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11690,7 +11690,7 @@ Ne 0 ""
 Po 19.05 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP52.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP52.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12103,7 +12103,7 @@ Ne 0 ""
 Po 30.48 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP52_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP52_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12516,7 +12516,7 @@ Ne 0 ""
 Po 17.78 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP54.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12943,7 +12943,7 @@ Ne 0 ""
 Po 31.75 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP54_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP54_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13370,7 +13370,7 @@ Ne 0 ""
 Po 16.51 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP56.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP56.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13811,7 +13811,7 @@ Ne 0 ""
 Po 33.02 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP56_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP56_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14252,7 +14252,7 @@ Ne 0 ""
 Po 15.24 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP58.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP58.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14707,7 +14707,7 @@ Ne 0 ""
 Po 34.29 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP58_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP58_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15162,7 +15162,7 @@ Ne 0 ""
 Po 13.97 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP60.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP60.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15631,7 +15631,7 @@ Ne 0 ""
 Po 35.56 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP60_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP60_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16100,7 +16100,7 @@ Ne 0 ""
 Po 12.7 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP62.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP62.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16583,7 +16583,7 @@ Ne 0 ""
 Po 36.83 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP62_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP62_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17066,7 +17066,7 @@ Ne 0 ""
 Po 11.43 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP64.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP64.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17563,7 +17563,7 @@ Ne 0 ""
 Po 38.1 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP64_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP64_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -18060,7 +18060,7 @@ Ne 0 ""
 Po 10.16 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP66.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP66.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -18571,7 +18571,7 @@ Ne 0 ""
 Po 39.37 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP66_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP66_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19082,7 +19082,7 @@ Ne 0 ""
 Po 8.89 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP68.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP68.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19607,7 +19607,7 @@ Ne 0 ""
 Po 40.64 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP68_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP68_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -20132,7 +20132,7 @@ Ne 0 ""
 Po 7.62 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP70.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP70.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -20671,7 +20671,7 @@ Ne 0 ""
 Po 41.91 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP70_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP70_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21210,7 +21210,7 @@ Ne 0 ""
 Po 6.35 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP72.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP72.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21763,7 +21763,7 @@ Ne 0 ""
 Po 43.18 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP72_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP72_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22316,7 +22316,7 @@ Ne 0 ""
 Po 5.08 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP74_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP74_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22883,7 +22883,7 @@ Ne 0 ""
 Po 44.45 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP74_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP74_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -23450,7 +23450,7 @@ Ne 0 ""
 Po 3.81 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP76.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP76.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24031,7 +24031,7 @@ Ne 0 ""
 Po 45.72 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP76_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP76_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24612,7 +24612,7 @@ Ne 0 ""
 Po 2.54 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP78.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP78.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25207,7 +25207,7 @@ Ne 0 ""
 Po 46.99 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP78_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP78_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25802,7 +25802,7 @@ Ne 0 ""
 Po 1.27 -2.725
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP80.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP80.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26411,7 +26411,7 @@ Ne 0 ""
 Po 48.26 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HP80_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HP80_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26461,7 +26461,7 @@ Ne 0 ""
 Po 1.27 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY02A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY02A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26518,7 +26518,7 @@ Ne 0 ""
 Po -2.54 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY03A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY03A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26582,7 +26582,7 @@ Ne 0 ""
 Po -3.81 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY04A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY04A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26653,7 +26653,7 @@ Ne 0 ""
 Po -5.08 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY05A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY05A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26731,7 +26731,7 @@ Ne 0 ""
 Po -6.35 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY06A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY06A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26816,7 +26816,7 @@ Ne 0 ""
 Po -7.62 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY07A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY07A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26908,7 +26908,7 @@ Ne 0 ""
 Po -8.89 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY08A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY08A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27007,7 +27007,7 @@ Ne 0 ""
 Po 10.16 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY09A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY09A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27113,7 +27113,7 @@ Ne 0 ""
 Po 11.43 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY10A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY10A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27226,7 +27226,7 @@ Ne 0 ""
 Po 12.7 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY11A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY11A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27346,7 +27346,7 @@ Ne 0 ""
 Po 13.97 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY12A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY12A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27473,7 +27473,7 @@ Ne 0 ""
 Po 15.24 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY13A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY13A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27607,7 +27607,7 @@ Ne 0 ""
 Po 16.51 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY14A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY14A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27748,7 +27748,7 @@ Ne 0 ""
 Po 17.78 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY15A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY15A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27896,7 +27896,7 @@ Ne 0 ""
 Po 19.05 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY16A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY16A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28051,7 +28051,7 @@ Ne 0 ""
 Po 20.32 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY17A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY17A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28213,7 +28213,7 @@ Ne 0 ""
 Po 21.59 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY18A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY18A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28382,7 +28382,7 @@ Ne 0 ""
 Po -22.86 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY19A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY19A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28558,7 +28558,7 @@ Ne 0 ""
 Po -24.13 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY20A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY20A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28741,7 +28741,7 @@ Ne 0 ""
 Po -25.4 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY21A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY21A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28931,7 +28931,7 @@ Ne 0 ""
 Po -26.67 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY22A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY22A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29128,7 +29128,7 @@ Ne 0 ""
 Po -27.94 1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY23A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY23A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29332,7 +29332,7 @@ Ne 0 ""
 Po -29.21 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY24A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY24A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29543,7 +29543,7 @@ Ne 0 ""
 Po -27.94 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY25A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY25A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29761,7 +29761,7 @@ Ne 0 ""
 Po -26.67 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY26A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY26A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29986,7 +29986,7 @@ Ne 0 ""
 Po -25.4 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY27A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY27A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30218,7 +30218,7 @@ Ne 0 ""
 Po -24.13 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY28A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY28A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30457,7 +30457,7 @@ Ne 0 ""
 Po -22.86 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY29A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY29A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30703,7 +30703,7 @@ Ne 0 ""
 Po -21.59 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY30A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY30A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30956,7 +30956,7 @@ Ne 0 ""
 Po -20.32 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY31A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY31A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31216,7 +31216,7 @@ Ne 0 ""
 Po -19.05 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY32A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY32A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31483,7 +31483,7 @@ Ne 0 ""
 Po -17.78 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY33A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY33A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31757,7 +31757,7 @@ Ne 0 ""
 Po -16.51 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY34A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY34A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32038,7 +32038,7 @@ Ne 0 ""
 Po -15.24 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY35A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY35A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32326,7 +32326,7 @@ Ne 0 ""
 Po -13.97 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY36A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY36A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32621,7 +32621,7 @@ Ne 0 ""
 Po -12.7 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY37A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY37A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32923,7 +32923,7 @@ Ne 0 ""
 Po -11.43 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY38A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY38A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33232,7 +33232,7 @@ Ne 0 ""
 Po -10.16 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY39A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY39A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33548,7 +33548,7 @@ Ne 0 ""
 Po -8.89 -1.525
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB02-HY40A.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB02-HY40A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33610,7 +33610,7 @@ Ne 0 ""
 Po 0.79756 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_06.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_06.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33686,7 +33686,7 @@ Ne 0 ""
 Po 0.39878 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_06_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_06_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33762,7 +33762,7 @@ Ne 0 ""
 Po 0.39878 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_08.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_08.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33852,7 +33852,7 @@ Ne 0 ""
 Po 0.79756 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_08_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_08_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33942,7 +33942,7 @@ Ne 0 ""
 Po 1.6002 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_10.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -34662,13 +34662,13 @@ Ne 0 ""
 Po 2.79908 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_100_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_100_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_100.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_100.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35402,7 +35402,7 @@ Ne 0 ""
 Po 2.79908 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_100_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_100_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35506,7 +35506,7 @@ Ne 0 ""
 Po 1.6002 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_10_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_10_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35610,7 +35610,7 @@ Ne 0 ""
 Po 1.99898 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_12.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35728,7 +35728,7 @@ Ne 0 ""
 Po 1.99898 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_12_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_12_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35846,7 +35846,7 @@ Ne 0 ""
 Po 2.4003 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_14.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35978,7 +35978,7 @@ Ne 0 ""
 Po 2.4003 -1.73482
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_14_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_14_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36110,7 +36110,7 @@ Ne 0 ""
 Po 2.80416 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_16.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36256,7 +36256,7 @@ Ne 0 ""
 Po 2.39776 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_16_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_16_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36402,7 +36402,7 @@ Ne 0 ""
 Po 3.2004 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_18.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36562,7 +36562,7 @@ Ne 0 ""
 Po 2.79908 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_18_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_18_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36722,7 +36722,7 @@ Ne 0 ""
 Po 3.60172 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_20.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36896,7 +36896,7 @@ Ne 0 ""
 Po 3.2004 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_20_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_20_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37070,7 +37070,7 @@ Ne 0 ""
 Po 3.2004 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_22.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_22.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37258,7 +37258,7 @@ Ne 0 ""
 Po 3.59918 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_22_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_22_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37446,7 +37446,7 @@ Ne 0 ""
 Po 4.40182 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_24.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37648,7 +37648,7 @@ Ne 0 ""
 Po 4.0005 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_24_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_24_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37850,7 +37850,7 @@ Ne 0 ""
 Po 4.80314 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_26.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_26.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38066,7 +38066,7 @@ Ne 0 ""
 Po 4.40182 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_26_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_26_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38282,7 +38282,7 @@ Ne 0 ""
 Po 5.20192 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_28.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38512,7 +38512,7 @@ Ne 0 ""
 Po 4.8006 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_28_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_28_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38742,7 +38742,7 @@ Ne 0 ""
 Po 5.60832 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_30.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_30.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38986,7 +38986,7 @@ Ne 0 ""
 Po 5.20192 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_30_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_30_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39230,7 +39230,7 @@ Ne 0 ""
 Po 6.0071 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_32.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_32.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39488,7 +39488,7 @@ Ne 0 ""
 Po 5.6007 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_32_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_32_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39746,7 +39746,7 @@ Ne 0 ""
 Po 6.40334 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_34.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_34.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40018,7 +40018,7 @@ Ne 0 ""
 Po 6.00202 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_34_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_34_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40290,7 +40290,7 @@ Ne 0 ""
 Po 6.00202 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_36.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_36.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40576,7 +40576,7 @@ Ne 0 ""
 Po 6.4008 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_36_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_36_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40862,7 +40862,7 @@ Ne 0 ""
 Po 7.20598 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_38.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_38.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41162,7 +41162,7 @@ Ne 0 ""
 Po 6.79958 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_38_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_38_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41462,7 +41462,7 @@ Ne 0 ""
 Po 7.6073 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_40.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_40.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41776,7 +41776,7 @@ Ne 0 ""
 Po 7.2009 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_40_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_40_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42090,7 +42090,7 @@ Ne 0 ""
 Po 8.00862 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_42.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_42.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42418,7 +42418,7 @@ Ne 0 ""
 Po 7.60222 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_42_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_42_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42746,7 +42746,7 @@ Ne 0 ""
 Po 7.60984 1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_44.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43088,7 +43088,7 @@ Ne 0 ""
 Po 8.00354 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_44_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_44_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43430,7 +43430,7 @@ Ne 0 ""
 Po 8.79856 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_46.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_46.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43786,7 +43786,7 @@ Ne 0 ""
 Po 8.40232 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_46_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_46_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -44142,7 +44142,7 @@ Ne 0 ""
 Po 9.19988 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_48.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -44512,7 +44512,7 @@ Ne 0 ""
 Po 8.80364 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_48_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_48_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -44882,7 +44882,7 @@ Ne 0 ""
 Po 9.59866 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_50.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_50.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45266,7 +45266,7 @@ Ne 0 ""
 Po 9.20496 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_50_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_50_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45650,7 +45650,7 @@ Ne 0 ""
 Po 9.19734 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_52.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_52.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46048,7 +46048,7 @@ Ne 0 ""
 Po 9.60374 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_52_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_52_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46446,7 +46446,7 @@ Ne 0 ""
 Po 10.39622 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_54.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46858,7 +46858,7 @@ Ne 0 ""
 Po 10.39622 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_54_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_54_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47270,7 +47270,7 @@ Ne 0 ""
 Po 10.795 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_56.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_56.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47696,7 +47696,7 @@ Ne 0 ""
 Po 10.795 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_56_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_56_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48122,7 +48122,7 @@ Ne 0 ""
 Po 11.19886 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_58.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_58.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48562,7 +48562,7 @@ Ne 0 ""
 Po 11.19886 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_58_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_58_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49002,7 +49002,7 @@ Ne 0 ""
 Po 10.80008 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_60.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_60.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49456,7 +49456,7 @@ Ne 0 ""
 Po 10.80008 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_60_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_60_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49910,7 +49910,7 @@ Ne 0 ""
 Po 10.4013 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_62.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_62.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -50378,7 +50378,7 @@ Ne 0 ""
 Po 10.4013 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_62_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_62_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -50846,7 +50846,7 @@ Ne 0 ""
 Po 10.00252 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_64.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_64.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -51328,7 +51328,7 @@ Ne 0 ""
 Po 10.00252 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_64_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_64_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -51810,7 +51810,7 @@ Ne 0 ""
 Po 9.6012 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_66.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_66.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -52306,7 +52306,7 @@ Ne 0 ""
 Po 9.6012 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_66_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_66_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -52802,7 +52802,7 @@ Ne 0 ""
 Po 9.19988 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_68.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_68.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -53312,7 +53312,7 @@ Ne 0 ""
 Po 9.19988 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_68_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_68_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -53822,7 +53822,7 @@ Ne 0 ""
 Po 8.79856 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_70.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_70.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -54346,7 +54346,7 @@ Ne 0 ""
 Po 8.79856 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_70_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_70_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -54870,7 +54870,7 @@ Ne 0 ""
 Po 8.39978 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_72.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_72.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55408,7 +55408,7 @@ Ne 0 ""
 Po 8.39978 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_72_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_72_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55946,7 +55946,7 @@ Ne 0 ""
 Po 7.99846 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_74.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_74.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -56498,7 +56498,7 @@ Ne 0 ""
 Po 7.99846 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_74_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_74_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -57050,7 +57050,7 @@ Ne 0 ""
 Po 7.59714 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_76.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_76.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -57616,7 +57616,7 @@ Ne 0 ""
 Po 7.59714 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_76_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_76_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -58182,7 +58182,7 @@ Ne 0 ""
 Po 7.19836 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_78.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_78.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -58762,7 +58762,7 @@ Ne 0 ""
 Po 7.19836 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_78_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_78_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -59342,7 +59342,7 @@ Ne 0 ""
 Po 6.79958 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_80.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_80.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -59936,7 +59936,7 @@ Ne 0 ""
 Po 6.79958 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_80_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_80_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -60530,7 +60530,7 @@ Ne 0 ""
 Po 6.4008 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_82.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_82.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -61138,7 +61138,7 @@ Ne 0 ""
 Po 6.4008 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_82_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_82_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -61746,7 +61746,7 @@ Ne 0 ""
 Po 6.00202 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_84.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_84.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -62368,7 +62368,7 @@ Ne 0 ""
 Po 6.00202 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_84_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_84_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -62990,7 +62990,7 @@ Ne 0 ""
 Po 5.6007 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_86.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_86.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -63626,7 +63626,7 @@ Ne 0 ""
 Po 5.6007 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_86_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_86_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -64262,7 +64262,7 @@ Ne 0 ""
 Po 5.20192 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_88.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_88.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -64912,7 +64912,7 @@ Ne 0 ""
 Po 5.20192 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_88_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_88_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -65562,7 +65562,7 @@ Ne 0 ""
 Po 4.80314 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_90.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -66226,7 +66226,7 @@ Ne 0 ""
 Po 4.80314 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_90_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_90_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -66890,7 +66890,7 @@ Ne 0 ""
 Po 4.40182 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_92.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_92.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -67568,7 +67568,7 @@ Ne 0 ""
 Po 4.40182 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_92_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_92_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -68246,7 +68246,7 @@ Ne 0 ""
 Po 4.0005 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_94.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_94.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -68938,7 +68938,7 @@ Ne 0 ""
 Po 4.0005 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_94_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_94_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -69630,7 +69630,7 @@ Ne 0 ""
 Po 3.60172 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_96.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_96.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -70336,7 +70336,7 @@ Ne 0 ""
 Po 3.60172 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_96_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_96_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -71042,7 +71042,7 @@ Ne 0 ""
 Po 3.2004 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_98_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_98_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -71762,7 +71762,7 @@ Ne 0 ""
 Po 3.2004 -1.73228
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_strip/BB080_98_peg.wrl"
+Na "${LIBKICAD}/3d/smd_strip/BB080_98_peg.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

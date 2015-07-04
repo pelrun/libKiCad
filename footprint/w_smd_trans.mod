@@ -71,7 +71,7 @@ Ne 0 ""
 Po 0 -3.1242
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/d-pak.wrl"
+Na "${LIBKICAD}/3d/smd_trans/d-pak.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -160,7 +160,7 @@ Ne 0 ""
 Po 1.27 3.0988
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/d-pak-5.wrl"
+Na "${LIBKICAD}/3d/smd_trans/d-pak-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -210,7 +210,7 @@ Ne 0 ""
 Po 0 -5.00126
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/d2-pak.wrl"
+Na "${LIBKICAD}/3d/smd_trans/d2-pak.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -310,7 +310,7 @@ Ne 0 ""
 Po 3.81 6.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/d2-pak-7.wrl"
+Na "${LIBKICAD}/3d/smd_trans/d2-pak-7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -360,7 +360,7 @@ Ne 0 ""
 Po 0.9144 1.905
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/powermite3.wrl"
+Na "${LIBKICAD}/3d/smd_trans/powermite3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -426,7 +426,7 @@ Ne 0 ""
 Po 1.27 4.25
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/ppak.wrl"
+Na "${LIBKICAD}/3d/smd_trans/ppak.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -470,7 +470,7 @@ Ne 0 ""
 Po 0 -1.016
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sc70.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sc70.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -537,7 +537,7 @@ Po -0.66 -1.016
 .LocalClearance 0.14
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sc70-5.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sc70-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -613,7 +613,7 @@ Po 0 -1.016
 .LocalClearance 0.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sc70-6.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sc70-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -667,7 +667,7 @@ Ne 0 ""
 Po -0.9525 -1.05664
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot143b.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot143b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -721,7 +721,7 @@ Ne 0 ""
 Po -0.9525 -1.05664
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot143r.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot143r.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -781,7 +781,7 @@ Ne 0 ""
 Po 0 -2.99974
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot223.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot223.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -825,7 +825,7 @@ Ne 0 ""
 Po 0.9525 1.05664
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot23.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot23.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -887,7 +887,7 @@ Ne 0 ""
 Po -0.9525 -1.05664
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot23-5.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot23-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -957,7 +957,7 @@ Ne 0 ""
 Po 0 -1.05664
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot23-6.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot23-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1056,7 +1056,7 @@ Po -0.975 -1.2
 .LocalClearance 0.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot23-8.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot23-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1100,7 +1100,7 @@ Ne 0 ""
 Po 0.65024 1.00076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot323.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot323.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1167,7 +1167,7 @@ Po -0.65 -1
 .LocalClearance 0.14
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot323-5.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot323-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1243,7 +1243,7 @@ Po -0.65 -1
 .LocalClearance 0.14
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot323-6.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot323-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1293,7 +1293,7 @@ Ne 0 ""
 Po 0 -5.5499
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot404.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot404.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1343,7 +1343,7 @@ Ne 0 ""
 Po 0 -3.44932
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot428.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot428.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1403,7 +1403,7 @@ Ne 0 ""
 Po 0 -0.7493
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/sot89.wrl"
+Na "${LIBKICAD}/3d/smd_trans/sot89.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1465,7 +1465,7 @@ Ne 0 ""
 Po 0 5.6
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/to263.wrl"
+Na "${LIBKICAD}/3d/smd_trans/to263.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1541,7 +1541,7 @@ Po 0 -1.3
 .LocalClearance 0.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_trans/tsot-6.wrl"
+Na "${LIBKICAD}/3d/smd_trans/tsot-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

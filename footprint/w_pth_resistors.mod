@@ -86,7 +86,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r12x5.2.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r12x5.2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -119,7 +119,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r12x5.2vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r12x5.2vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -156,7 +156,7 @@ Ne 0 ""
 Po 10.16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r13.5x6.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r13.5x6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -189,7 +189,7 @@ Ne 0 ""
 Po 5.715 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r13.5x6vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r13.5x6vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -226,7 +226,7 @@ Ne 0 ""
 Po 11.01344 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r15.5x6.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r15.5x6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -259,7 +259,7 @@ Ne 0 ""
 Po 5.715 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r15.5x6vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r15.5x6vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -296,7 +296,7 @@ Ne 0 ""
 Po 14.605 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r22x8.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r22x8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -329,7 +329,7 @@ Ne 0 ""
 Po 8.255 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r22x8vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r22x8vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -366,7 +366,7 @@ Ne 0 ""
 Po 15.875 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r25x8.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r25x8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -399,7 +399,7 @@ Ne 0 ""
 Po 8.255 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r25x8vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r25x8vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -436,7 +436,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc03.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc03.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -473,7 +473,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc05.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc05.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -511,7 +511,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc07.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc07.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -603,7 +603,7 @@ Ne 0 ""
 Po 11.43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_10.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -702,7 +702,7 @@ Ne 0 ""
 Po 12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_11.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -808,7 +808,7 @@ Ne 0 ""
 Po 13.97 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_12.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -921,7 +921,7 @@ Ne 0 ""
 Po 15.24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_13.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1041,7 +1041,7 @@ Ne 0 ""
 Po 16.51 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_14.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1091,7 +1091,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_4.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1148,7 +1148,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_5.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1212,7 +1212,7 @@ Ne 0 ""
 Po 6.35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_6.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1283,7 +1283,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_7.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1361,7 +1361,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_8.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1446,7 +1446,7 @@ Ne 0 ""
 Po 10.16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/r-sil_9.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/r-sil_9.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1478,7 +1478,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc03vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc03vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1510,7 +1510,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc05vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc05vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1542,7 +1542,7 @@ Ne 0 ""
 Po 1.905 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc07vert.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc07vert.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1578,7 +1578,7 @@ Ne 0 ""
 Po -2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/rc_vert_26x14x10.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/rc_vert_26x14x10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1641,7 +1641,7 @@ Ne 0 ""
 Po 4.8 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_alps-rk09k1130ah1.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_alps-rk09k1130ah1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1725,7 +1725,7 @@ Ne 0 ""
 Po -3 11
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_alps-rk12l12c0-f15-c0.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_alps-rk12l12c0-f15-c0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1809,7 +1809,7 @@ Ne 0 ""
 Po -3 11
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_alps-rk12l12c0-f20-c0.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_alps-rk12l12c0-f20-c0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1893,7 +1893,7 @@ Ne 0 ""
 Po -3 11
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_alps-rk12l12c0-f25-c0.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_alps-rk12l12c0-f25-c0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1977,7 +1977,7 @@ Ne 0 ""
 Po -3 11
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_alps-rk12l12c0-f30-c0.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_alps-rk12l12c0-f30-c0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2026,7 +2026,7 @@ Ne 0 ""
 Po -1.27 6.223
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3005.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3005.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2075,7 +2075,7 @@ Ne 0 ""
 Po -1.27 6.223
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3006p.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3006p.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2124,7 +2124,7 @@ Ne 0 ""
 Po -2.54 6.223
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3006w.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3006w.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2173,7 +2173,7 @@ Ne 0 ""
 Po -1.27 8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3006y.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3006y.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2222,7 +2222,7 @@ Ne 0 ""
 Po -1.27 6.223
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3009p.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3009p.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2271,7 +2271,7 @@ Ne 0 ""
 Po -1.27 8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3009y.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3009y.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2315,7 +2315,7 @@ Ne 0 ""
 Po 0 2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_bourns_3250w.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_bourns_3250w.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2359,7 +2359,7 @@ Ne 0 ""
 Po -1.24968 2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_diplohm_p91.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_diplohm_p91.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2404,7 +2404,7 @@ Ne 0 ""
 Po 0 2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_diplohm_p92.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_diplohm_p92.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2448,7 +2448,7 @@ Ne 0 ""
 Po 0 2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_diplohm_p94.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_diplohm_p94.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2493,7 +2493,7 @@ Ne 0 ""
 Po -1.24968 2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_diplohm_p95.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_diplohm_p95.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2538,7 +2538,7 @@ Ne 0 ""
 Po 0 2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_diplohm_p97.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_diplohm_p97.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2582,7 +2582,7 @@ Ne 0 ""
 Po -2.49936 -2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_ecp_ca9-h2,5.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_ecp_ca9-h2,5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2642,7 +2642,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_ecp_ca9-v10.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_ecp_ca9-v10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2686,7 +2686,7 @@ Ne 0 ""
 Po -4.99872 -2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_piher_pt15-h05.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_piher_pt15-h05.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2739,7 +2739,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_piher_pt15-v02.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_piher_pt15-v02.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2783,7 +2783,7 @@ Ne 0 ""
 Po -2.49936 -1.24968
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_piher_pt6-xh.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_piher_pt6-xh.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2834,7 +2834,7 @@ Ne 0 ""
 Po -2.49936 -2.49936
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_piher_pt6-xv.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_piher_pt6-xv.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2878,7 +2878,7 @@ Ne 0 ""
 Po 0 2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_resistors/trimmer_vishay_64w.wrl"
+Na "${LIBKICAD}/3d/pth_resistors/trimmer_vishay_64w.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

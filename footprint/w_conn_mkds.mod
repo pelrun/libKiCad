@@ -124,7 +124,7 @@ Ne 0 ""
 Po -17.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-10.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -245,7 +245,7 @@ Ne 0 ""
 Po -20 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-11.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -375,7 +375,7 @@ Ne 0 ""
 Po -22.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-12.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -514,7 +514,7 @@ Ne 0 ""
 Po -25 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-13.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -662,7 +662,7 @@ Ne 0 ""
 Po -27.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-14.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -819,7 +819,7 @@ Ne 0 ""
 Po -30 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-15.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -985,7 +985,7 @@ Ne 0 ""
 Po -32.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-16.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1025,7 +1025,7 @@ Ne 0 ""
 Po 2.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-2.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1074,7 +1074,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-3.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1132,7 +1132,7 @@ Ne 0 ""
 Po -2.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-4.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1199,7 +1199,7 @@ Ne 0 ""
 Po -5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-5.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1275,7 +1275,7 @@ Ne 0 ""
 Po -7.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-6.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1360,7 +1360,7 @@ Ne 0 ""
 Po -10 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-7.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1454,7 +1454,7 @@ Ne 0 ""
 Po -12.5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-8.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1557,7 +1557,7 @@ Ne 0 ""
 Po -15 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mkds/mkds_1,5-9.wrl"
+Na "${LIBKICAD}/3d/conn_mkds/mkds_1,5-9.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

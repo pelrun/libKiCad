@@ -72,7 +72,7 @@ Ne 0 ""
 Po 2.9464 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/mbs.wrl"
+Na "${LIBKICAD}/3d/smd_diode/mbs.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -134,7 +134,7 @@ Ne 0 ""
 Po 4.45008 -2.55016
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/sdip04a.wrl"
+Na "${LIBKICAD}/3d/smd_diode/sdip04a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -174,7 +174,7 @@ Ne 0 ""
 Po -2.00914 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/do214aa.wrl"
+Na "${LIBKICAD}/3d/smd_diode/do214aa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -215,7 +215,7 @@ Ne 0 ""
 Po -3.39852 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/do214ab.wrl"
+Na "${LIBKICAD}/3d/smd_diode/do214ab.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -254,7 +254,7 @@ Ne 0 ""
 Po -1.72974 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/do214ac.wrl"
+Na "${LIBKICAD}/3d/smd_diode/do214ac.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -293,7 +293,7 @@ Ne 0 ""
 Po -1.45034 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/do219ab.wrl"
+Na "${LIBKICAD}/3d/smd_diode/do219ab.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -331,7 +331,7 @@ Ne 0 ""
 Po 2.62382 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/melf.wrl"
+Na "${LIBKICAD}/3d/smd_diode/melf.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -368,7 +368,7 @@ Ne 0 ""
 Po 1.00076 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/micromelf.wrl"
+Na "${LIBKICAD}/3d/smd_diode/micromelf.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -404,7 +404,7 @@ Ne 0 ""
 Po -1.67386 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/sod123.wrl"
+Na "${LIBKICAD}/3d/smd_diode/sod123.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -442,7 +442,7 @@ Ne 0 ""
 Po -1.09982 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/sod323.wrl"
+Na "${LIBKICAD}/3d/smd_diode/sod323.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -479,7 +479,7 @@ Ne 0 ""
 Po -0.8509 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/sod523.wrl"
+Na "${LIBKICAD}/3d/smd_diode/sod523.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -516,7 +516,7 @@ Ne 0 ""
 Po 1.84912 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/sod80c.wrl"
+Na "${LIBKICAD}/3d/smd_diode/sod80c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -553,7 +553,7 @@ Ne 0 ""
 Po 1.84912 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_diode/sod87.wrl"
+Na "${LIBKICAD}/3d/smd_diode/sod87.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

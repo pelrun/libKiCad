@@ -172,7 +172,7 @@ Ne 0 ""
 Po 3543 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b10b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b10b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -313,7 +313,7 @@ Ne 0 ""
 Po 3937 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b11b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b11b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -464,7 +464,7 @@ Ne 0 ""
 Po 4331 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b12b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b12b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -625,7 +625,7 @@ Ne 0 ""
 Po 4724 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b13b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b13b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -796,7 +796,7 @@ Ne 0 ""
 Po 5118 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b14b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b14b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -977,7 +977,7 @@ Ne 0 ""
 Po 5512 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b15b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b15b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1168,7 +1168,7 @@ Ne 0 ""
 Po 5906 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b16b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b16b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1219,7 +1219,7 @@ Ne 0 ""
 Po 394 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b2b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b2b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1280,7 +1280,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b3b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b3b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1351,7 +1351,7 @@ Ne 0 ""
 Po 1181 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b4b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b4b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1432,7 +1432,7 @@ Ne 0 ""
 Po 1575 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b5b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b5b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1523,7 +1523,7 @@ Ne 0 ""
 Po 1969 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b6b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b6b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1624,7 +1624,7 @@ Ne 0 ""
 Po 2362 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b7b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b7b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1735,7 +1735,7 @@ Ne 0 ""
 Po 2756 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b8b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b8b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1856,7 +1856,7 @@ Ne 0 ""
 Po 3150 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/b9b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/b9b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1966,7 +1966,7 @@ Ne 0 ""
 Po 3543 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s10b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s10b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2085,7 +2085,7 @@ Ne 0 ""
 Po 3543 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s10b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s10b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2202,7 +2202,7 @@ Ne 0 ""
 Po 3937 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s11b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s11b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2328,7 +2328,7 @@ Ne 0 ""
 Po 3937 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s11b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s11b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2452,7 +2452,7 @@ Ne 0 ""
 Po 4331 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s12b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s12b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2585,7 +2585,7 @@ Ne 0 ""
 Po 4331 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s12b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s12b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2716,7 +2716,7 @@ Ne 0 ""
 Po 4724 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s13b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s13b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2856,7 +2856,7 @@ Ne 0 ""
 Po 4724 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s13b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s13b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2994,7 +2994,7 @@ Ne 0 ""
 Po 5118 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s14b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s14b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3141,7 +3141,7 @@ Ne 0 ""
 Po 5118 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s14b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s14b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3286,7 +3286,7 @@ Ne 0 ""
 Po 5512 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s15b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s15b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3440,7 +3440,7 @@ Ne 0 ""
 Po 5512 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s15b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s15b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3592,7 +3592,7 @@ Ne 0 ""
 Po 5906 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s16b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s16b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3646,7 +3646,7 @@ Ne 0 ""
 Po 394 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s2b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s2b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3710,7 +3710,7 @@ Ne 0 ""
 Po 1318 2263
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s2b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s2b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3771,7 +3771,7 @@ Ne 0 ""
 Po 787 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s3b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s3b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3841,7 +3841,7 @@ Ne 0 ""
 Po 787 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s3b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s3b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3909,7 +3909,7 @@ Ne 0 ""
 Po 1181 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s4b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s4b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3986,7 +3986,7 @@ Ne 0 ""
 Po 1181 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s4b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s4b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4061,7 +4061,7 @@ Ne 0 ""
 Po 1575 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s5b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s5b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4145,7 +4145,7 @@ Ne 0 ""
 Po 1575 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s5b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s5b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4227,7 +4227,7 @@ Ne 0 ""
 Po 1969 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s6b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s6b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4318,7 +4318,7 @@ Ne 0 ""
 Po 1969 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s6b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s6b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4407,7 +4407,7 @@ Ne 0 ""
 Po 2362 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s7b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s7b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4505,7 +4505,7 @@ Ne 0 ""
 Po 2362 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s7b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s7b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4601,7 +4601,7 @@ Ne 0 ""
 Po 2756 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s8b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s8b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4706,7 +4706,7 @@ Ne 0 ""
 Po 2756 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s8b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s8b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4809,7 +4809,7 @@ Ne 0 ""
 Po 3150 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s9b-ph-kl.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s9b-ph-kl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4921,7 +4921,7 @@ Ne 0 ""
 Po 3150 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_jst-ph/s9b-ph-sm4-tb.wrl"
+Na "${LIBKICAD}/3d/conn_jst-ph/s9b-ph-sm4-tb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

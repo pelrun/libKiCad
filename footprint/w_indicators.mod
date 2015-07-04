@@ -122,7 +122,7 @@ Ne 0 ""
 Po 2.54 -5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/7segdisp.wrl"
+Na "${LIBKICAD}/3d/indicators/7segdisp.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -221,7 +221,7 @@ Ne 0 ""
 Po 2.6416 -4.0132
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/7segdisp_hdsp.wrl"
+Na "${LIBKICAD}/3d/indicators/7segdisp_hdsp.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -399,7 +399,7 @@ Ne 0 ""
 Po -6.47954 -5.00126
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/7segdisp_acda02.wrl"
+Na "${LIBKICAD}/3d/indicators/7segdisp_acda02.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -499,7 +499,7 @@ Ne 0 ""
 Po -5.08 -7.62
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/7segdisp_sa05.wrl"
+Na "${LIBKICAD}/3d/indicators/7segdisp_sa05.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -657,7 +657,7 @@ Ne 0 ""
 Po -10.16 -66
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/7segdisp_sa50.wrl"
+Na "${LIBKICAD}/3d/indicators/7segdisp_sa50.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -757,7 +757,7 @@ Ne 0 ""
 Po -5.08 -7.62
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/7segdisp_sa52.wrl"
+Na "${LIBKICAD}/3d/indicators/7segdisp_sa52.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1005,7 +1005,7 @@ Ne 0 ""
 Po -7.62 -19.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/dotdisp_cmd557xx00.wrl"
+Na "${LIBKICAD}/3d/indicators/dotdisp_cmd557xx00.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1177,7 +1177,7 @@ Ne 0 ""
 Po 6.1 -15.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/lcd_16x2.wrl"
+Na "${LIBKICAD}/3d/indicators/lcd_16x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1349,7 +1349,7 @@ Ne 0 ""
 Po -0.9 -27.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/lcd_20x4.wrl"
+Na "${LIBKICAD}/3d/indicators/lcd_20x4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1549,7 +1549,7 @@ Ne 0 ""
 Po -29.99994 32.4993
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/lcd_g-128x64.wrl"
+Na "${LIBKICAD}/3d/indicators/lcd_g-128x64.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1586,7 +1586,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_10mm_clear.wrl"
+Na "${LIBKICAD}/3d/indicators/led_10mm_clear.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1623,7 +1623,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_10mm_green.wrl"
+Na "${LIBKICAD}/3d/indicators/led_10mm_green.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1660,7 +1660,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_10mm_red.wrl"
+Na "${LIBKICAD}/3d/indicators/led_10mm_red.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1697,7 +1697,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_10mm_yellow.wrl"
+Na "${LIBKICAD}/3d/indicators/led_10mm_yellow.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1735,7 +1735,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_3mm_clear.wrl"
+Na "${LIBKICAD}/3d/indicators/led_3mm_clear.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1773,7 +1773,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_3mm_green.wrl"
+Na "${LIBKICAD}/3d/indicators/led_3mm_green.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1811,7 +1811,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_3mm_red.wrl"
+Na "${LIBKICAD}/3d/indicators/led_3mm_red.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1849,7 +1849,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_3mm_yellow.wrl"
+Na "${LIBKICAD}/3d/indicators/led_3mm_yellow.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1886,7 +1886,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_5mm_clear.wrl"
+Na "${LIBKICAD}/3d/indicators/led_5mm_clear.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1923,7 +1923,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_5mm_green.wrl"
+Na "${LIBKICAD}/3d/indicators/led_5mm_green.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1960,7 +1960,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_5mm_red.wrl"
+Na "${LIBKICAD}/3d/indicators/led_5mm_red.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1997,7 +1997,7 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/led_5mm_yellow.wrl"
+Na "${LIBKICAD}/3d/indicators/led_5mm_yellow.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2169,7 +2169,7 @@ Ne 0 ""
 Po 6.1 15.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/indicators/lcd_16x2_nmtc-s16205dfyhsay.wrl"
+Na "${LIBKICAD}/3d/indicators/lcd_16x2_nmtc-s16205dfyhsay.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

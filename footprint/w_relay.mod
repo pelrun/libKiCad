@@ -110,7 +110,7 @@ Ne 0 ""
 Po 2.1 -1.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_34.51.wrl"
+Na "${LIBKICAD}/3d/relay/relay_34.51.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -182,7 +182,7 @@ Ne 0 ""
 Po 2.1 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_34.51.7.wrl"
+Na "${LIBKICAD}/3d/relay/relay_34.51.7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -256,7 +256,7 @@ Ne 0 ""
 Po -12.9 -1.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_34.81.wrl"
+Na "${LIBKICAD}/3d/relay/relay_34.81.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -324,7 +324,7 @@ Ne 0 ""
 Po -11.5 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.31.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.31.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -399,7 +399,7 @@ Ne 0 ""
 Po -4.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.31_socket.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.31_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -467,7 +467,7 @@ Ne 0 ""
 Po -11.5 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.51.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.51.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -563,7 +563,7 @@ Ne 0 ""
 Po 8.5 3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.51_socket.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.51_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -658,7 +658,7 @@ Ne 0 ""
 Po 13.5 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.52.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.52.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -760,7 +760,7 @@ Ne 0 ""
 Po -4.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.52_socket.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.52_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -856,7 +856,7 @@ Ne 0 ""
 Po 13.5 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.52.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.52.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -959,7 +959,7 @@ Ne 0 ""
 Po -4.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_40.52_socket.wrl"
+Na "${LIBKICAD}/3d/relay/relay_40.52_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1020,7 +1020,7 @@ Ne 0 ""
 Po -7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_9001.wrl"
+Na "${LIBKICAD}/3d/relay/relay_9001.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1115,7 +1115,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_9002.wrl"
+Na "${LIBKICAD}/3d/relay/relay_9002.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1177,7 +1177,7 @@ Ne 0 ""
 Po 8.89 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_DK1a.wrl"
+Na "${LIBKICAD}/3d/relay/relay_DK1a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1256,7 +1256,7 @@ Ne 0 ""
 Po 6.35 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_DK1a-L2.wrl"
+Na "${LIBKICAD}/3d/relay/relay_DK1a-L2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1336,7 +1336,7 @@ Ne 0 ""
 Po -8.89 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_DK1a1b.wrl"
+Na "${LIBKICAD}/3d/relay/relay_DK1a1b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1433,7 +1433,7 @@ Ne 0 ""
 Po 6.35 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_DK1a1b-L2.wrl"
+Na "${LIBKICAD}/3d/relay/relay_DK1a1b-L2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1513,7 +1513,7 @@ Ne 0 ""
 Po -8.89 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_DK1a1b.wrl"
+Na "${LIBKICAD}/3d/relay/relay_DK1a1b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1610,7 +1610,7 @@ Ne 0 ""
 Po 6.35 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_DK1a1b-L2.wrl"
+Na "${LIBKICAD}/3d/relay/relay_DK1a1b-L2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1677,7 +1677,7 @@ Ne 0 ""
 Po -8.89 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_PE.wrl"
+Na "${LIBKICAD}/3d/relay/relay_PE.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1774,7 +1774,7 @@ Ne 0 ""
 Po -12.14882 -3.74904
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_RT1.wrl"
+Na "${LIBKICAD}/3d/relay/relay_RT1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1832,7 +1832,7 @@ Ne 0 ""
 Po 3.81 -7.62
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_SJ-1M.wrl"
+Na "${LIBKICAD}/3d/relay/relay_SJ-1M.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1884,7 +1884,7 @@ Ne 0 ""
 Po -14.00048 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_SSR-P03.wrl"
+Na "${LIBKICAD}/3d/relay/relay_SSR-P03.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1986,7 +1986,7 @@ Ne 0 ""
 Po 23.99792 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_SSR-xxDA.wrl"
+Na "${LIBKICAD}/3d/relay/relay_SSR-xxDA.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2067,7 +2067,7 @@ Ne 0 ""
 Po 2.54 -5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_SY.wrl"
+Na "${LIBKICAD}/3d/relay/relay_SY.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2165,7 +2165,7 @@ Ne 0 ""
 Po -8.89 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_V23042.wrl"
+Na "${LIBKICAD}/3d/relay/relay_V23042.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2287,7 +2287,7 @@ Ne 0 ""
 Po -6.35 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_V23042-B2.wrl"
+Na "${LIBKICAD}/3d/relay/relay_V23042-B2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2362,7 +2362,7 @@ Ne 0 ""
 Po 3.81 -6.49986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_V23101-D0.wrl"
+Na "${LIBKICAD}/3d/relay/relay_V23101-D0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2428,7 +2428,7 @@ Ne 0 ""
 Po 3.81 -6.49986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_V23101-D1.wrl"
+Na "${LIBKICAD}/3d/relay/relay_V23101-D1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2533,7 +2533,7 @@ Ne 0 ""
 Po -3.81 -2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_GQ-PTH.wrl"
+Na "${LIBKICAD}/3d/relay/relay_GQ-PTH.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2638,7 +2638,7 @@ Ne 0 ""
 Po -3.81 -3.36804
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_GQ-SMD-A.wrl"
+Na "${LIBKICAD}/3d/relay/relay_GQ-SMD-A.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2743,7 +2743,7 @@ Ne 0 ""
 Po -3.81 -3.06832
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_GQ-SMD-S.wrl"
+Na "${LIBKICAD}/3d/relay/relay_GQ-SMD-S.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2841,7 +2841,7 @@ Ne 0 ""
 Po 3.81 -8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_HB.wrl"
+Na "${LIBKICAD}/3d/relay/relay_HB.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2905,7 +2905,7 @@ Ne 0 ""
 Po 0 -8.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_HJR-3FF_H.wrl"
+Na "${LIBKICAD}/3d/relay/relay_HJR-3FF_H.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2977,7 +2977,7 @@ Ne 0 ""
 Po 0 -8.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_HJR-3FF_Z.wrl"
+Na "${LIBKICAD}/3d/relay/relay_HJR-3FF_Z.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3045,7 +3045,7 @@ Ne 0 ""
 Po -12.4 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_JS-K.wrl"
+Na "${LIBKICAD}/3d/relay/relay_JS-K.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3117,7 +3117,7 @@ Ne 0 ""
 Po 4.51866 9.14146
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_T9AS1x1.wrl"
+Na "${LIBKICAD}/3d/relay/relay_T9AS1x1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3189,7 +3189,7 @@ Ne 0 ""
 Po 4.51866 9.14146
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_T9AS2x1.wrl"
+Na "${LIBKICAD}/3d/relay/relay_T9AS2x1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3269,7 +3269,7 @@ Ne 0 ""
 Po 4.51866 9.14146
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/relay/relay_T9AS5x1.wrl"
+Na "${LIBKICAD}/3d/relay/relay_T9AS5x1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

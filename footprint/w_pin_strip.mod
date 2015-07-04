@@ -487,7 +487,7 @@ Ne 0 ""
 Po 22.86 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_19.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_19.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -642,7 +642,7 @@ Ne 0 ""
 Po 22.86 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_19.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_19.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -670,7 +670,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_1.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -762,7 +762,7 @@ Ne 0 ""
 Po 11.43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_10.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -925,7 +925,7 @@ Ne 0 ""
 Po 11.43 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_10x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_10x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1088,7 +1088,7 @@ Ne 0 ""
 Po -8.89 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_10x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_10x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1187,7 +1187,7 @@ Ne 0 ""
 Po 12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_11.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1364,7 +1364,7 @@ Ne 0 ""
 Po 12.7 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_11x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_11x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1541,7 +1541,7 @@ Ne 0 ""
 Po -10.16 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_11x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_11x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1647,7 +1647,7 @@ Ne 0 ""
 Po 13.97 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_12.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1838,7 +1838,7 @@ Ne 0 ""
 Po 13.97 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_12x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_12x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2029,7 +2029,7 @@ Ne 0 ""
 Po -11.43 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_12x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_12x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2142,7 +2142,7 @@ Ne 0 ""
 Po 15.24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_13.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2347,7 +2347,7 @@ Ne 0 ""
 Po 15.24 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_13x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_13x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2552,7 +2552,7 @@ Ne 0 ""
 Po -12.7 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_13x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_13x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2672,7 +2672,7 @@ Ne 0 ""
 Po 16.51 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_14.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2891,7 +2891,7 @@ Ne 0 ""
 Po 16.51 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_14x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_14x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3110,7 +3110,7 @@ Ne 0 ""
 Po -13.97 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_14x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_14x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3237,7 +3237,7 @@ Ne 0 ""
 Po 17.78 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_15.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3470,7 +3470,7 @@ Ne 0 ""
 Po 17.78 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_15x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_15x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3703,7 +3703,7 @@ Ne 0 ""
 Po -15.24 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_15x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_15x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3837,7 +3837,7 @@ Ne 0 ""
 Po 19.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_16.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4084,7 +4084,7 @@ Ne 0 ""
 Po 19.05 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_16x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_16x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4331,7 +4331,7 @@ Ne 0 ""
 Po -16.51 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_16x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_16x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4472,7 +4472,7 @@ Ne 0 ""
 Po 20.32 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_17.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_17.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4733,7 +4733,7 @@ Ne 0 ""
 Po 20.32 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_17x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_17x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4994,7 +4994,7 @@ Ne 0 ""
 Po -17.78 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_17x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_17x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5142,7 +5142,7 @@ Ne 0 ""
 Po 21.59 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_18.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5417,7 +5417,7 @@ Ne 0 ""
 Po 21.59 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_18x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_18x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5692,7 +5692,7 @@ Ne 0 ""
 Po -19.05 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_18x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_18x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5981,7 +5981,7 @@ Ne 0 ""
 Po 22.86 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_19x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_19x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6270,7 +6270,7 @@ Ne 0 ""
 Po -20.32 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_19x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_19x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6308,7 +6308,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6470,7 +6470,7 @@ Ne 0 ""
 Po 24.13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_20.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6773,7 +6773,7 @@ Ne 0 ""
 Po 24.13 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_20x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_20x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7076,7 +7076,7 @@ Ne 0 ""
 Po -21.59 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_20x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_20x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7104,7 +7104,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_1.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7196,7 +7196,7 @@ Ne 0 ""
 Po 9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_10.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7359,7 +7359,7 @@ Ne 0 ""
 Po 9 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_10x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_10x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7458,7 +7458,7 @@ Ne 0 ""
 Po 10 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_11.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7635,7 +7635,7 @@ Ne 0 ""
 Po 10 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_11x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_11x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7741,7 +7741,7 @@ Ne 0 ""
 Po 11 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_12.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7932,7 +7932,7 @@ Ne 0 ""
 Po 11 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_12x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_12x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8045,7 +8045,7 @@ Ne 0 ""
 Po 12 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_13.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8250,7 +8250,7 @@ Ne 0 ""
 Po 12 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_13x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_13x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8370,7 +8370,7 @@ Ne 0 ""
 Po 13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_14.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8589,7 +8589,7 @@ Ne 0 ""
 Po 13 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_14x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_14x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8716,7 +8716,7 @@ Ne 0 ""
 Po 14 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_15.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8949,7 +8949,7 @@ Ne 0 ""
 Po 14 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_15x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_15x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9083,7 +9083,7 @@ Ne 0 ""
 Po 15 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_16.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9330,7 +9330,7 @@ Ne 0 ""
 Po 15 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_16x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_16x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9471,7 +9471,7 @@ Ne 0 ""
 Po 16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_17.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_17.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9732,7 +9732,7 @@ Ne 0 ""
 Po 16 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_17x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_17x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9880,7 +9880,7 @@ Ne 0 ""
 Po 17 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_18.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10155,7 +10155,7 @@ Ne 0 ""
 Po 17 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_18x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_18x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10310,7 +10310,7 @@ Ne 0 ""
 Po 18 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_19.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_19.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10599,7 +10599,7 @@ Ne 0 ""
 Po 18 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_19x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_19x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10635,7 +10635,7 @@ Ne 0 ""
 Po 1 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10797,7 +10797,7 @@ Ne 0 ""
 Po 19 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_20.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11100,7 +11100,7 @@ Ne 0 ""
 Po 19 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_20x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_20x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11269,7 +11269,7 @@ Ne 0 ""
 Po 20 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_21.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_21.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11586,7 +11586,7 @@ Ne 0 ""
 Po 20 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_21x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_21x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11762,7 +11762,7 @@ Ne 0 ""
 Po 21 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_22.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_22.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12093,7 +12093,7 @@ Ne 0 ""
 Po 21 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_22x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_22x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12276,7 +12276,7 @@ Ne 0 ""
 Po 22 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_23.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_23.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12621,7 +12621,7 @@ Ne 0 ""
 Po 22 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_23x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_23x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12811,7 +12811,7 @@ Ne 0 ""
 Po 23 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_24.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13170,7 +13170,7 @@ Ne 0 ""
 Po 23 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_24x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_24x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13367,7 +13367,7 @@ Ne 0 ""
 Po 24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_25.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_25.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13740,7 +13740,7 @@ Ne 0 ""
 Po 24 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_25x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_25x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13944,7 +13944,7 @@ Ne 0 ""
 Po 25 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_26.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_26.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14331,7 +14331,7 @@ Ne 0 ""
 Po 25 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_26x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_26x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14542,7 +14542,7 @@ Ne 0 ""
 Po 26 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_27.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_27.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14943,7 +14943,7 @@ Ne 0 ""
 Po 26 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_27x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_27x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15161,7 +15161,7 @@ Ne 0 ""
 Po 27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_28.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15576,7 +15576,7 @@ Ne 0 ""
 Po 27 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_28x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_28x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15801,7 +15801,7 @@ Ne 0 ""
 Po 28 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_29.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_29.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16230,7 +16230,7 @@ Ne 0 ""
 Po 28 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_29x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_29x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16281,7 +16281,7 @@ Ne 0 ""
 Po 1 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_2x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_2x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16324,7 +16324,7 @@ Ne 0 ""
 Po 2 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_3.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16556,7 +16556,7 @@ Ne 0 ""
 Po 29 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_30.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_30.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16999,7 +16999,7 @@ Ne 0 ""
 Po 29 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_30x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_30x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17238,7 +17238,7 @@ Ne 0 ""
 Po 30 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_31.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_31.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17695,7 +17695,7 @@ Ne 0 ""
 Po 30 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_31x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_31x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17941,7 +17941,7 @@ Ne 0 ""
 Po 31 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_32.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_32.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -18412,7 +18412,7 @@ Ne 0 ""
 Po 31 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_32x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_32x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -18665,7 +18665,7 @@ Ne 0 ""
 Po 32 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_33.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_33.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19150,7 +19150,7 @@ Ne 0 ""
 Po 32 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_33x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_33x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19410,7 +19410,7 @@ Ne 0 ""
 Po 33 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_34.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_34.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19909,7 +19909,7 @@ Ne 0 ""
 Po 33 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_34x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_34x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -20176,7 +20176,7 @@ Ne 0 ""
 Po 34 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_35.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_35.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -20689,7 +20689,7 @@ Ne 0 ""
 Po 34 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_35x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_35x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -20963,7 +20963,7 @@ Ne 0 ""
 Po 35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_36.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_36.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21490,7 +21490,7 @@ Ne 0 ""
 Po 35 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_36x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_36x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21771,7 +21771,7 @@ Ne 0 ""
 Po 36 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_37.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_37.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22312,7 +22312,7 @@ Ne 0 ""
 Po 36 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_37x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_37x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22600,7 +22600,7 @@ Ne 0 ""
 Po 37 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_38.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_38.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -23155,7 +23155,7 @@ Ne 0 ""
 Po 37 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_38x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_38x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -23450,7 +23450,7 @@ Ne 0 ""
 Po 38 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_39.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_39.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24019,7 +24019,7 @@ Ne 0 ""
 Po 38 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_39x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_39x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24084,7 +24084,7 @@ Ne 0 ""
 Po 2 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_3x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_3x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24134,7 +24134,7 @@ Ne 0 ""
 Po 3 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_4.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24436,7 +24436,7 @@ Ne 0 ""
 Po 39 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_40.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_40.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25019,7 +25019,7 @@ Ne 0 ""
 Po 39 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_40x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_40x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25328,7 +25328,7 @@ Ne 0 ""
 Po 40 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_41.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_41.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25925,7 +25925,7 @@ Ne 0 ""
 Po 40 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_41x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_41x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26241,7 +26241,7 @@ Ne 0 ""
 Po 41 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_42.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_42.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26852,7 +26852,7 @@ Ne 0 ""
 Po 41 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_42x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_42x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27175,7 +27175,7 @@ Ne 0 ""
 Po 42 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_43.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_43.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27800,7 +27800,7 @@ Ne 0 ""
 Po 42 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_43x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_43x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28130,7 +28130,7 @@ Ne 0 ""
 Po 43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_44.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28769,7 +28769,7 @@ Ne 0 ""
 Po 43 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_44x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_44x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29106,7 +29106,7 @@ Ne 0 ""
 Po 44 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_45.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_45.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29759,7 +29759,7 @@ Ne 0 ""
 Po 44 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_45x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_45x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30103,7 +30103,7 @@ Ne 0 ""
 Po 45 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_46.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_46.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30770,7 +30770,7 @@ Ne 0 ""
 Po 45 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_46x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_46x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31121,7 +31121,7 @@ Ne 0 ""
 Po 46 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_47.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_47.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31802,7 +31802,7 @@ Ne 0 ""
 Po 46 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_47x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_47x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32160,7 +32160,7 @@ Ne 0 ""
 Po 47 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_48.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32855,7 +32855,7 @@ Ne 0 ""
 Po 47 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_48x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_48x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33220,7 +33220,7 @@ Ne 0 ""
 Po 48 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_49.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_49.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33929,7 +33929,7 @@ Ne 0 ""
 Po 48 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_49x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_49x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -34008,7 +34008,7 @@ Ne 0 ""
 Po 3 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_4x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_4x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -34065,7 +34065,7 @@ Ne 0 ""
 Po 4 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_5.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -34437,7 +34437,7 @@ Ne 0 ""
 Po 49 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_50.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_50.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35160,7 +35160,7 @@ Ne 0 ""
 Po 49 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_50x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_50x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35253,7 +35253,7 @@ Ne 0 ""
 Po 4 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_5x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_5x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35317,7 +35317,7 @@ Ne 0 ""
 Po 5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_6.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35424,7 +35424,7 @@ Ne 0 ""
 Po 5 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_6x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_6x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35495,7 +35495,7 @@ Ne 0 ""
 Po 6 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_7.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35616,7 +35616,7 @@ Ne 0 ""
 Po 6 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_7x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_7x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35694,7 +35694,7 @@ Ne 0 ""
 Po 7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_8.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35829,7 +35829,7 @@ Ne 0 ""
 Po 7 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_8x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_8x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -35914,7 +35914,7 @@ Ne 0 ""
 Po 8 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_9.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_9.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36063,7 +36063,7 @@ Ne 0 ""
 Po 8 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2mm_9x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2mm_9x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36114,7 +36114,7 @@ Ne 0 ""
 Po 1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36165,7 +36165,7 @@ Ne 0 ""
 Po 1.27 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_2x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_2x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36208,7 +36208,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_3.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36273,7 +36273,7 @@ Ne 0 ""
 Po 2.54 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_3x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_3x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36338,7 +36338,7 @@ Ne 0 ""
 Po 0 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_3x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_3x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36388,7 +36388,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_4.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36467,7 +36467,7 @@ Ne 0 ""
 Po 3.81 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_4x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_4x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36546,7 +36546,7 @@ Ne 0 ""
 Po -1.27 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_4x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_4x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36603,7 +36603,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_5.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36696,7 +36696,7 @@ Ne 0 ""
 Po 5.08 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_5x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_5x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36789,7 +36789,7 @@ Ne 0 ""
 Po -2.54 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_5x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_5x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36853,7 +36853,7 @@ Ne 0 ""
 Po 6.35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_6.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -36960,7 +36960,7 @@ Ne 0 ""
 Po 6.35 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_6x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_6x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37067,7 +37067,7 @@ Ne 0 ""
 Po -3.81 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_6x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_6x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37138,7 +37138,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_7.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37259,7 +37259,7 @@ Ne 0 ""
 Po 7.62 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_7x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_7x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37380,7 +37380,7 @@ Ne 0 ""
 Po -5.08 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_7x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_7x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37458,7 +37458,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_8.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37593,7 +37593,7 @@ Ne 0 ""
 Po 8.89 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_8x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_8x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37728,7 +37728,7 @@ Ne 0 ""
 Po -6.35 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_8x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_8x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37813,7 +37813,7 @@ Ne 0 ""
 Po 10.16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_9.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_9.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -37962,7 +37962,7 @@ Ne 0 ""
 Po 10.16 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_9x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_9x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38111,7 +38111,7 @@ Ne 0 ""
 Po -7.62 -6.185
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_socket_9x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_socket_9x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38139,7 +38139,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_1.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38170,7 +38170,7 @@ Ne 0 ""
 Po 0 0.03048
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_1-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_1-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38262,7 +38262,7 @@ Ne 0 ""
 Po 11.43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_10.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38366,7 +38366,7 @@ Ne 0 ""
 Po 11.43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_10-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_10-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38529,7 +38529,7 @@ Ne 0 ""
 Po 11.43 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_10x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_10x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38705,7 +38705,7 @@ Ne 0 ""
 Po 11.43 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_10x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_10x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38804,7 +38804,7 @@ Ne 0 ""
 Po 12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_11.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -38916,7 +38916,7 @@ Ne 0 ""
 Po 12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_11-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_11-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39093,7 +39093,7 @@ Ne 0 ""
 Po 12.7 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_11x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_11x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39282,7 +39282,7 @@ Ne 0 ""
 Po 10.16 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_11x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_11x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39388,7 +39388,7 @@ Ne 0 ""
 Po 13.97 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_12.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39508,7 +39508,7 @@ Ne 0 ""
 Po 13.97 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_12-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_12-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39699,7 +39699,7 @@ Ne 0 ""
 Po 13.97 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_12x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_12x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -39903,7 +39903,7 @@ Ne 0 ""
 Po 8.89 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_12x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_12x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40016,7 +40016,7 @@ Ne 0 ""
 Po 15.24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_13.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40144,7 +40144,7 @@ Ne 0 ""
 Po 15.24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_13-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_13-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40349,7 +40349,7 @@ Ne 0 ""
 Po 15.24 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_13x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_13x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40568,7 +40568,7 @@ Ne 0 ""
 Po 7.62 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_13x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_13x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40688,7 +40688,7 @@ Ne 0 ""
 Po 16.51 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_14.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -40824,7 +40824,7 @@ Ne 0 ""
 Po 16.51 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_14-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_14-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41043,7 +41043,7 @@ Ne 0 ""
 Po 16.51 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_14x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_14x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41277,7 +41277,7 @@ Ne 0 ""
 Po 6.35 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_14x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_14x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41404,7 +41404,7 @@ Ne 0 ""
 Po 17.78 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_15.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41548,7 +41548,7 @@ Ne 0 ""
 Po 17.78 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_15-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_15-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -41781,7 +41781,7 @@ Ne 0 ""
 Po 17.78 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_15x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_15x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42030,7 +42030,7 @@ Ne 0 ""
 Po 5.08 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_15x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_15x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42164,7 +42164,7 @@ Ne 0 ""
 Po 19.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_16.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42316,7 +42316,7 @@ Ne 0 ""
 Po 19.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_16-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_16-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42563,7 +42563,7 @@ Ne 0 ""
 Po 19.05 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_16x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_16x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42827,7 +42827,7 @@ Ne 0 ""
 Po 3.81 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_16x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_16x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -42968,7 +42968,7 @@ Ne 0 ""
 Po 20.32 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_17.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_17.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43128,7 +43128,7 @@ Ne 0 ""
 Po 20.32 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_17-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_17-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43389,7 +43389,7 @@ Ne 0 ""
 Po 20.32 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_17x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_17x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43668,7 +43668,7 @@ Ne 0 ""
 Po 2.54 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_17x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_17x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43816,7 +43816,7 @@ Ne 0 ""
 Po 21.59 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_18.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -43984,7 +43984,7 @@ Ne 0 ""
 Po 21.59 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_18-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_18-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -44259,7 +44259,7 @@ Ne 0 ""
 Po 21.59 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_18x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_18x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -44553,7 +44553,7 @@ Ne 0 ""
 Po 1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_18x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_18x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -44729,7 +44729,7 @@ Ne 0 ""
 Po 22.86 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_19-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_19-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45018,7 +45018,7 @@ Ne 0 ""
 Po 22.86 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_19x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_19x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45327,7 +45327,7 @@ Ne 0 ""
 Po 0 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_19x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_19x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45365,7 +45365,7 @@ Ne 0 ""
 Po 0 -1.30048
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_1x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_1x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45403,7 +45403,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45443,7 +45443,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45605,7 +45605,7 @@ Ne 0 ""
 Po 24.13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_20.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -45789,7 +45789,7 @@ Ne 0 ""
 Po 24.13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_20-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_20-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46092,7 +46092,7 @@ Ne 0 ""
 Po 24.13 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_20x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_20x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46416,7 +46416,7 @@ Ne 0 ""
 Po -1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_20x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_20x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46444,7 +46444,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_1.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46536,7 +46536,7 @@ Ne 0 ""
 Po 9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_10.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46699,7 +46699,7 @@ Ne 0 ""
 Po 9 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_10x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_10x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46798,7 +46798,7 @@ Ne 0 ""
 Po 10 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_11.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -46975,7 +46975,7 @@ Ne 0 ""
 Po 10 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_11x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_11x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47081,7 +47081,7 @@ Ne 0 ""
 Po 11 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_12.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47272,7 +47272,7 @@ Ne 0 ""
 Po 11 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_12x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_12x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47385,7 +47385,7 @@ Ne 0 ""
 Po 12 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_13.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47590,7 +47590,7 @@ Ne 0 ""
 Po 12 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_13x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_13x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47710,7 +47710,7 @@ Ne 0 ""
 Po 13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_14.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -47929,7 +47929,7 @@ Ne 0 ""
 Po 13 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_14x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_14x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48056,7 +48056,7 @@ Ne 0 ""
 Po 14 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_15.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48289,7 +48289,7 @@ Ne 0 ""
 Po 14 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_15x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_15x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48423,7 +48423,7 @@ Ne 0 ""
 Po 15 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_16.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48670,7 +48670,7 @@ Ne 0 ""
 Po 15 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_16x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_16x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -48811,7 +48811,7 @@ Ne 0 ""
 Po 16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_17.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_17.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49072,7 +49072,7 @@ Ne 0 ""
 Po 16 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_17x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_17x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49220,7 +49220,7 @@ Ne 0 ""
 Po 17 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_18.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49495,7 +49495,7 @@ Ne 0 ""
 Po 17 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_18x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_18x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49650,7 +49650,7 @@ Ne 0 ""
 Po 18 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_19.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_19.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49939,7 +49939,7 @@ Ne 0 ""
 Po 18 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_19x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_19x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -49975,7 +49975,7 @@ Ne 0 ""
 Po 1 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -50137,7 +50137,7 @@ Ne 0 ""
 Po 19 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_20.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -50440,7 +50440,7 @@ Ne 0 ""
 Po 19 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_20x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_20x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -50609,7 +50609,7 @@ Ne 0 ""
 Po 20 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_21.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_21.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -50926,7 +50926,7 @@ Ne 0 ""
 Po 20 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_21x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_21x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -51102,7 +51102,7 @@ Ne 0 ""
 Po 21 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_22.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_22.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -51433,7 +51433,7 @@ Ne 0 ""
 Po 21 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_22x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_22x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -51616,7 +51616,7 @@ Ne 0 ""
 Po 22 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_23.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_23.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -51961,7 +51961,7 @@ Ne 0 ""
 Po 22 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_23x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_23x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -52151,7 +52151,7 @@ Ne 0 ""
 Po 23 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_24.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -52510,7 +52510,7 @@ Ne 0 ""
 Po 23 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_24x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_24x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -52707,7 +52707,7 @@ Ne 0 ""
 Po 24 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_25.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_25.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -53080,7 +53080,7 @@ Ne 0 ""
 Po 24 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_25x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_25x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -53284,7 +53284,7 @@ Ne 0 ""
 Po 25 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_26.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_26.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -53671,7 +53671,7 @@ Ne 0 ""
 Po 25 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_26x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_26x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -53882,7 +53882,7 @@ Ne 0 ""
 Po 26 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_27.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_27.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -54283,7 +54283,7 @@ Ne 0 ""
 Po 26 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_27x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_27x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -54501,7 +54501,7 @@ Ne 0 ""
 Po 27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_28.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -54916,7 +54916,7 @@ Ne 0 ""
 Po 27 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_28x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_28x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55141,7 +55141,7 @@ Ne 0 ""
 Po 28 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_29.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_29.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55570,7 +55570,7 @@ Ne 0 ""
 Po 28 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_29x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_29x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55621,7 +55621,7 @@ Ne 0 ""
 Po 1 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_2x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_2x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55664,7 +55664,7 @@ Ne 0 ""
 Po 2 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_3.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -55896,7 +55896,7 @@ Ne 0 ""
 Po 29 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_30.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_30.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -56339,7 +56339,7 @@ Ne 0 ""
 Po 29 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_30x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_30x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -56578,7 +56578,7 @@ Ne 0 ""
 Po 30 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_31.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_31.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -57035,7 +57035,7 @@ Ne 0 ""
 Po 30 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_31x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_31x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -57281,7 +57281,7 @@ Ne 0 ""
 Po 31 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_32.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_32.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -57752,7 +57752,7 @@ Ne 0 ""
 Po 31 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_32x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_32x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -58005,7 +58005,7 @@ Ne 0 ""
 Po 32 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_33.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_33.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -58490,7 +58490,7 @@ Ne 0 ""
 Po 32 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_33x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_33x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -58750,7 +58750,7 @@ Ne 0 ""
 Po 33 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_34.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_34.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -59249,7 +59249,7 @@ Ne 0 ""
 Po 33 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_34x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_34x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -59516,7 +59516,7 @@ Ne 0 ""
 Po 34 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_35.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_35.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -60029,7 +60029,7 @@ Ne 0 ""
 Po 34 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_35x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_35x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -60303,7 +60303,7 @@ Ne 0 ""
 Po 35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_36.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_36.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -60830,7 +60830,7 @@ Ne 0 ""
 Po 35 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_36x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_36x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -61111,7 +61111,7 @@ Ne 0 ""
 Po 36 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_37.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_37.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -61652,7 +61652,7 @@ Ne 0 ""
 Po 36 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_37x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_37x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -61940,7 +61940,7 @@ Ne 0 ""
 Po 37 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_38.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_38.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -62495,7 +62495,7 @@ Ne 0 ""
 Po 37 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_38x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_38x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -62790,7 +62790,7 @@ Ne 0 ""
 Po 38 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_39.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_39.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -63359,7 +63359,7 @@ Ne 0 ""
 Po 38 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_39x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_39x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -63424,7 +63424,7 @@ Ne 0 ""
 Po 2 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_3x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_3x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -63474,7 +63474,7 @@ Ne 0 ""
 Po 3 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_4.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -63776,7 +63776,7 @@ Ne 0 ""
 Po 39 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_40.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_40.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -64359,7 +64359,7 @@ Ne 0 ""
 Po 39 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_40x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_40x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -64668,7 +64668,7 @@ Ne 0 ""
 Po 40 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_41.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_41.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -65265,7 +65265,7 @@ Ne 0 ""
 Po 40 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_41x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_41x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -65581,7 +65581,7 @@ Ne 0 ""
 Po 41 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_42.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_42.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -66192,7 +66192,7 @@ Ne 0 ""
 Po 41 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_42x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_42x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -66515,7 +66515,7 @@ Ne 0 ""
 Po 42 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_43.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_43.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -67140,7 +67140,7 @@ Ne 0 ""
 Po 42 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_43x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_43x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -67470,7 +67470,7 @@ Ne 0 ""
 Po 43 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_44.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -68109,7 +68109,7 @@ Ne 0 ""
 Po 43 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_44x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_44x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -68446,7 +68446,7 @@ Ne 0 ""
 Po 44 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_45.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_45.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -69099,7 +69099,7 @@ Ne 0 ""
 Po 44 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_45x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_45x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -69443,7 +69443,7 @@ Ne 0 ""
 Po 45 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_46.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_46.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -70110,7 +70110,7 @@ Ne 0 ""
 Po 45 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_46x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_46x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -70461,7 +70461,7 @@ Ne 0 ""
 Po 46 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_47.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_47.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -71142,7 +71142,7 @@ Ne 0 ""
 Po 46 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_47x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_47x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -71500,7 +71500,7 @@ Ne 0 ""
 Po 47 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_48.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -72195,7 +72195,7 @@ Ne 0 ""
 Po 47 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_48x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_48x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -72560,7 +72560,7 @@ Ne 0 ""
 Po 48 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_49.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_49.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -73269,7 +73269,7 @@ Ne 0 ""
 Po 48 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_49x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_49x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -73348,7 +73348,7 @@ Ne 0 ""
 Po 3 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_4x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_4x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -73405,7 +73405,7 @@ Ne 0 ""
 Po 4 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_5.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -73777,7 +73777,7 @@ Ne 0 ""
 Po 49 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_50.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_50.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -74500,7 +74500,7 @@ Ne 0 ""
 Po 49 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_50x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_50x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -74593,7 +74593,7 @@ Ne 0 ""
 Po 4 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_5x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_5x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -74657,7 +74657,7 @@ Ne 0 ""
 Po 5 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_6.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -74764,7 +74764,7 @@ Ne 0 ""
 Po 5 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_6x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_6x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -74835,7 +74835,7 @@ Ne 0 ""
 Po 6 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_7.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -74956,7 +74956,7 @@ Ne 0 ""
 Po 6 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_7x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_7x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75034,7 +75034,7 @@ Ne 0 ""
 Po 7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_8.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75169,7 +75169,7 @@ Ne 0 ""
 Po 7 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_8x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_8x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75254,7 +75254,7 @@ Ne 0 ""
 Po 8 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_9.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_9.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75403,7 +75403,7 @@ Ne 0 ""
 Po 8 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2mm_9x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2mm_9x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75454,7 +75454,7 @@ Ne 0 ""
 Po 1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75508,7 +75508,7 @@ Ne 0 ""
 Po 1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_2x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_2x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75551,7 +75551,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_3.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75599,7 +75599,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_3-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_3-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75664,7 +75664,7 @@ Ne 0 ""
 Po 2.54 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_3x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_3x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75733,7 +75733,7 @@ Ne 0 ""
 Po 2.54 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_3x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_3x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75783,7 +75783,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_4.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75839,7 +75839,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_4-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_4-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -75918,7 +75918,7 @@ Ne 0 ""
 Po 3.81 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_4x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_4x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76002,7 +76002,7 @@ Ne 0 ""
 Po 3.81 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_4x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_4x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76059,7 +76059,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_5.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76123,7 +76123,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_5-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_5-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76216,7 +76216,7 @@ Ne 0 ""
 Po 5.08 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_5x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_5x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76315,7 +76315,7 @@ Ne 0 ""
 Po 5.08 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_5x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_5x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76379,7 +76379,7 @@ Ne 0 ""
 Po 6.35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_6.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76451,7 +76451,7 @@ Ne 0 ""
 Po 6.35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_6-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_6-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76558,7 +76558,7 @@ Ne 0 ""
 Po 6.35 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_6x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_6x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76672,7 +76672,7 @@ Ne 0 ""
 Po 6.35 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_6x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_6x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76743,7 +76743,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_7.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76823,7 +76823,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_7-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_7-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -76944,7 +76944,7 @@ Ne 0 ""
 Po 7.62 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_7x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_7x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77075,7 +77075,7 @@ Ne 0 ""
 Po 7.62 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_7x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_7x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77153,7 +77153,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_8.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77241,7 +77241,7 @@ Ne 0 ""
 Po 8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_8-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_8-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77376,7 +77376,7 @@ Ne 0 ""
 Po 8.89 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_8x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_8x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77522,7 +77522,7 @@ Ne 0 ""
 Po 8.89 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_8x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_8x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77607,7 +77607,7 @@ Ne 0 ""
 Po 10.16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_9.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_9.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77703,7 +77703,7 @@ Ne 0 ""
 Po 10.16 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_9-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_9-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -77852,7 +77852,7 @@ Ne 0 ""
 Po 10.16 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_9x2.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_9x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -78013,7 +78013,7 @@ Ne 0 ""
 Po 10.16 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pin_strip/pin_strip_9x2-90.wrl"
+Na "${LIBKICAD}/3d/pin_strip/pin_strip_9x2-90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

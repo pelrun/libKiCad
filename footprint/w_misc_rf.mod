@@ -52,7 +52,7 @@ Ne 0 ""
 Po -0.9652 -0.9652
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_rf/antenna_47948.wrl"
+Na "${LIBKICAD}/3d/misc_rf/antenna_47948.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -107,7 +107,7 @@ Ne 0 ""
 Po -11.85 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_rf/antenna_flavus.wrl"
+Na "${LIBKICAD}/3d/misc_rf/antenna_flavus.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -163,7 +163,7 @@ Ne 0 ""
 Po 5.05 -1.15
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_rf/antenna_rufa_a5839.wrl"
+Na "${LIBKICAD}/3d/misc_rf/antenna_rufa_a5839.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -219,7 +219,7 @@ Ne 0 ""
 Po 5.05 -1.15
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_rf/antenna_rufa_a5887.wrl"
+Na "${LIBKICAD}/3d/misc_rf/antenna_rufa_a5887.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -295,7 +295,7 @@ Po 0.6477 0.89916
 .SolderMask -0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_rf/balun_2450bm15.wrl"
+Na "${LIBKICAD}/3d/misc_rf/balun_2450bm15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

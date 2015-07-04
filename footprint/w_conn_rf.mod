@@ -67,7 +67,7 @@ Ne 0 ""
 Po -5.08 -7.3
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/bnc_90_1-1337543-0.wrl"
+Na "${LIBKICAD}/3d/conn_rf/bnc_90_1-1337543-0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -131,7 +131,7 @@ Ne 0 ""
 Po -5.08 5.08
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/bnc_straight_1-1337541-0.wrl"
+Na "${LIBKICAD}/3d/conn_rf/bnc_straight_1-1337541-0.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -184,7 +184,7 @@ Po 0 1.525
 .SolderPaste -0.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/coaxial_u.fl-r-smt-1.wrl"
+Na "${LIBKICAD}/3d/conn_rf/coaxial_u.fl-r-smt-1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -241,7 +241,7 @@ Ne 0 ""
 Po 2.54 2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/lemo_epb00250ntn.wrl"
+Na "${LIBKICAD}/3d/conn_rf/lemo_epb00250ntn.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -315,7 +315,7 @@ Ne 0 ""
 Po 2.54 -1.7018
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/sma_90_r300.124.403.wrl"
+Na "${LIBKICAD}/3d/conn_rf/sma_90_r300.124.403.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -373,7 +373,7 @@ Ne 0 ""
 Po 2.375 2.375
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/sma_smd_73251-135x.wrl"
+Na "${LIBKICAD}/3d/conn_rf/sma_smd_73251-135x.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -431,7 +431,7 @@ Ne 0 ""
 Po 2.54 2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_rf/sma_straight_32k101-400l5.wrl"
+Na "${LIBKICAD}/3d/conn_rf/sma_straight_32k101-400l5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

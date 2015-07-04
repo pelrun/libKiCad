@@ -136,7 +136,7 @@ Ne 0 ""
 Po 2.54 3.683
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn-6_clock.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn-6_clock.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -240,7 +240,7 @@ Po 0 0
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn-s-8.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn-s-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -363,7 +363,7 @@ Po 0 0.595
 .SolderPaste -0.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn10_3x3.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn10_3x3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -492,7 +492,7 @@ Po 1.12268 -1.39954
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn12.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -617,7 +617,7 @@ Po -1.14046 -0.30988
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn5_so-8fl.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn5_so-8fl.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -705,7 +705,7 @@ Po 0 0
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn6-3x3.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn6-3x3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -802,7 +802,7 @@ Po 0 0
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn8.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -897,7 +897,7 @@ Po 0 0
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/dfn8-2x3.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/dfn8-2x3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1007,7 +1007,7 @@ Po 0 0
 .LocalClearance 0.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/hvson8.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/hvson8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1461,7 +1461,7 @@ Po -3.40868 2.74828
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/lfcsp-48.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/lfcsp-48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1565,7 +1565,7 @@ Po 0 0.8001
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/lfcsp-uq-10_13x16.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/lfcsp-uq-10_13x16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1671,7 +1671,7 @@ Po -1.00076 0.24638
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/lfcsp-uq-10_20x20.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/lfcsp-uq-10_20x20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1806,7 +1806,7 @@ Po -1.3716 0.50038
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/lfcsp-vq-12.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/lfcsp-vq-12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1929,7 +1929,7 @@ Po 0 0.5969
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/lfcsp-wd-10_30x30.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/lfcsp-wd-10_30x30.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2160,7 +2160,7 @@ Po -1.725 1.25
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/lga-24.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/lga-24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2264,7 +2264,7 @@ Po -0.86106 0
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/pqfp-10.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/pqfp-10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2436,7 +2436,7 @@ Po 0.50038 -0.50038
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/s-pvqfn-n14.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/s-pvqfn-n14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2642,7 +2642,7 @@ Po 0 0.50038
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/r-pvqfn-n16.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/r-pvqfn-n16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2880,7 +2880,7 @@ Po -1.75006 -1.69926
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/r-pvqfn-n20.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/r-pvqfn-n20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3216,7 +3216,7 @@ Po -2.70002 0.24892
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/r-pvqfn-n24.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/r-pvqfn-n24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3535,7 +3535,7 @@ Po -2.47396 1.74752
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/s-pvqfn-n32.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/s-pvqfn-n32.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3963,7 +3963,7 @@ Po 1.4986 1.4986
 .SolderPaste -0.14986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/s-pvqfn-n40.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/s-pvqfn-n40.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4455,7 +4455,7 @@ Po -3.47218 2.74828
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/s-pvqfn-n48.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/s-pvqfn-n48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4649,7 +4649,7 @@ Po 2.25 1.2
 .SolderMask 0.07
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/qfn-16.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/qfn-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4877,7 +4877,7 @@ Po 1.00076 1.96596
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/qfn-20.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/qfn-20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5137,7 +5137,7 @@ Po -1.86 1.25
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/qfn-24.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/qfn-24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5430,7 +5430,7 @@ Po 1.95072 2.84988
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/qfn-28.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/qfn-28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5848,7 +5848,7 @@ Po -4.0005 3.2512
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/qfn-44.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/qfn-44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6424,7 +6424,7 @@ Po -4.44754 -3.74904
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/qfn-64.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/qfn-64.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6528,7 +6528,7 @@ Po -0.525 -0.3335
 .LocalClearance 0.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/r-px2son-n8.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/r-px2son-n8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6947,7 +6947,7 @@ Po -3.3 2.5
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/r-qfn044-d.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/r-qfn044-d.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7053,7 +7053,7 @@ Po -0.75 -0.3
 .LocalClearance 0.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/sot883-1.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/sot883-1.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7140,7 +7140,7 @@ Po -0.75 -1.125
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/sot996-2.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/sot996-2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7235,7 +7235,7 @@ Po 0 0
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/tdfn8.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/tdfn8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7339,7 +7339,7 @@ Po 0 0
 .SolderPaste -0.09906
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_qfn/wson.wrl"
+Na "${LIBKICAD}/3d/smd_qfn/wson.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

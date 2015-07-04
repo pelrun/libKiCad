@@ -58,7 +58,7 @@ Ne 0 ""
 Po -0.54864 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0402.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0402.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -94,7 +94,7 @@ Ne 0 ""
 Po -0.75184 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -130,7 +130,7 @@ Ne 0 ""
 Po -0.9525 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0805.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0805.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -166,7 +166,7 @@ Ne 0 ""
 Po -1.397 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_1206.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_1206.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -202,7 +202,7 @@ Ne 0 ""
 Po -1.397 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_1210.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_1210.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -238,7 +238,7 @@ Ne 0 ""
 Po -2.5781 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_2010.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_2010.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -274,7 +274,7 @@ Ne 0 ""
 Po -3.1877 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_2512.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_2512.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -333,7 +333,7 @@ Ne 0 ""
 Po -0.762 -0.39878
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_cat16-2.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_cat16-2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -430,7 +430,7 @@ Ne 0 ""
 Po -0.762 1.19888
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_cat16-4.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_cat16-4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -603,7 +603,7 @@ Ne 0 ""
 Po -0.762 -1.99898
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_cat16-8.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_cat16-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -647,7 +647,7 @@ Ne 0 ""
 Po 1.15 -2.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bi_23b.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bi_23b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -692,7 +692,7 @@ Ne 0 ""
 Po 1.15062 -2.60096
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3214g.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3214g.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -737,7 +737,7 @@ Ne 0 ""
 Po 1.15062 -1.99898
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3214j.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3214j.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -783,7 +783,7 @@ Ne 0 ""
 Po 1.24968 -1.45034
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3214w.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3214w.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -829,7 +829,7 @@ Ne 0 ""
 Po 1.24968 -2.55016
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3214x.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3214x.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -891,7 +891,7 @@ Ne 0 ""
 Po 1.39954 -2.19964
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3223g.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3223g.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -953,7 +953,7 @@ Ne 0 ""
 Po 1.39954 -1.99898
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3223j.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3223j.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1000,7 +1000,7 @@ Ne 0 ""
 Po 1.39954 -1.21412
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_bourns_3223w.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_bourns_3223w.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1053,7 +1053,7 @@ Ne 0 ""
 Po 1.24968 -2.4003
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_diplohm_s11.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_diplohm_s11.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1106,7 +1106,7 @@ Ne 0 ""
 Po 1.24968 -2.4003
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_diplohm_s13.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_diplohm_s13.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1165,7 +1165,7 @@ Ne 0 ""
 Po 0.65024 1.30048
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_murata_pva2a.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_murata_pva2a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1214,7 +1214,7 @@ Ne 0 ""
 Po 0.50038 0.70104
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_murata_pvf2.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_murata_pvf2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1273,7 +1273,7 @@ Ne 0 ""
 Po 0.65024 1.19888
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_murata_pvz2a.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_murata_pvz2a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1340,7 +1340,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_murata_pvz2k.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_murata_pvz2k.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1407,7 +1407,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/trim_murata_pvz2r.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/trim_murata_pvz2r.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

@@ -195,7 +195,7 @@ Ne 0 ""
 Po -5.6261 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-10p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-10p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -341,7 +341,7 @@ Ne 0 ""
 Po -4.37388 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-10p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-10p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -532,7 +532,7 @@ Ne 0 ""
 Po 6.67512 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-10p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-10p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -671,7 +671,7 @@ Ne 0 ""
 Po -6.25094 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-11p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-11p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -828,7 +828,7 @@ Ne 0 ""
 Po -6.25094 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-11p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-11p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1030,7 +1030,7 @@ Ne 0 ""
 Po 7.29996 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-11p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-11p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1179,7 +1179,7 @@ Ne 0 ""
 Po -6.87578 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-12p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-12p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1347,7 +1347,7 @@ Ne 0 ""
 Po -6.87578 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-12p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-12p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1560,7 +1560,7 @@ Ne 0 ""
 Po 7.9248 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-12p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-12p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1739,7 +1739,7 @@ Ne 0 ""
 Po -7.50062 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-13p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-13p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1929,7 +1929,7 @@ Ne 0 ""
 Po -8.12546 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-14p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-14p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2164,7 +2164,7 @@ Ne 0 ""
 Po 9.17448 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-14p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-14p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2343,7 +2343,7 @@ Ne 0 ""
 Po -8.7503 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-15p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-15p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2544,7 +2544,7 @@ Ne 0 ""
 Po -8.7503 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-15p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-15p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2790,7 +2790,7 @@ Ne 0 ""
 Po 9.79932 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-15p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-15p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2839,7 +2839,7 @@ Ne 0 ""
 Po -0.62484 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-2p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-2p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2894,7 +2894,7 @@ Ne 0 ""
 Po -0.6223 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-2p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-2p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2997,7 +2997,7 @@ Ne 0 ""
 Po -1.67386 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-2p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-2p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3056,7 +3056,7 @@ Ne 0 ""
 Po -1.24968 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-3p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-3p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3125,7 +3125,7 @@ Ne 0 ""
 Po -1.24968 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-3p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-3p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3239,7 +3239,7 @@ Ne 0 ""
 Po -2.30124 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-3p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-3p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3308,7 +3308,7 @@ Ne 0 ""
 Po -1.87452 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-4p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-4p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3388,7 +3388,7 @@ Ne 0 ""
 Po -1.87452 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-4p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-4p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3513,7 +3513,7 @@ Ne 0 ""
 Po 2.92608 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-4p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-4p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3592,7 +3592,7 @@ Ne 0 ""
 Po -2.49936 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-5p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-5p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3683,7 +3683,7 @@ Ne 0 ""
 Po -2.49936 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-5p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-5p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3819,7 +3819,7 @@ Ne 0 ""
 Po 3.55092 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-5p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-5p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3908,7 +3908,7 @@ Ne 0 ""
 Po -1.87452 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-6p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-6p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4010,7 +4010,7 @@ Ne 0 ""
 Po -3.1242 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-6p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-6p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4157,7 +4157,7 @@ Ne 0 ""
 Po 4.17576 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-6p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-6p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4256,7 +4256,7 @@ Ne 0 ""
 Po -3.74904 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-7p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-7p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4369,7 +4369,7 @@ Ne 0 ""
 Po -3.74904 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-7p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-7p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4527,7 +4527,7 @@ Ne 0 ""
 Po 4.8006 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-7p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-7p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4636,7 +4636,7 @@ Ne 0 ""
 Po -4.37388 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-8p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-8p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4760,7 +4760,7 @@ Ne 0 ""
 Po -4.37388 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-8p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-8p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4929,7 +4929,7 @@ Ne 0 ""
 Po 5.42544 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-8p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-8p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5048,7 +5048,7 @@ Ne 0 ""
 Po -5.00126 -1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-9p-125ds.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-9p-125ds.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5183,7 +5183,7 @@ Ne 0 ""
 Po -5.00126 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-9p-125dsa.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-9p-125dsa.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5363,7 +5363,7 @@ Ne 0 ""
 Po 6.05028 -2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13-9p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13-9p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5568,7 +5568,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-10dp-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-10dp-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5745,7 +5745,7 @@ Ne 0 ""
 Po -5.6261 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-10p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-10p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5933,7 +5933,7 @@ Ne 0 ""
 Po -6.25094 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-11p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-11p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6132,7 +6132,7 @@ Ne 0 ""
 Po -6.87578 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-12p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-12p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6353,7 +6353,7 @@ Ne 0 ""
 Po 8.12546 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-14p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-14p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6585,7 +6585,7 @@ Ne 0 ""
 Po -8.7503 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-15p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-15p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6910,7 +6910,7 @@ Ne 0 ""
 Po 5.6261 2.99974
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-20dp-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-20dp-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6999,7 +6999,7 @@ Ne 0 ""
 Po 3.07594 -0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-2p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-2p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7444,7 +7444,7 @@ Ne 0 ""
 Po 8.7503 2.99974
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-30dp-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-30dp-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7544,7 +7544,7 @@ Ne 0 ""
 Po -1.24968 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-3p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-3p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8109,7 +8109,7 @@ Ne 0 ""
 Po 8.12546 -2.99974
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-40dp-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-40dp-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8220,7 +8220,7 @@ Ne 0 ""
 Po -1.87452 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-4p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-4p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8342,7 +8342,7 @@ Ne 0 ""
 Po -2.49936 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-5p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-5p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8475,7 +8475,7 @@ Ne 0 ""
 Po -3.1242 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-6p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-6p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8619,7 +8619,7 @@ Ne 0 ""
 Po -3.74904 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-7p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-7p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8774,7 +8774,7 @@ Ne 0 ""
 Po -4.37388 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-8p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-8p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8940,7 +8940,7 @@ Ne 0 ""
 Po -5.00126 -3.50012
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13a-9p-125h.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13a-9p-125h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9132,7 +9132,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-10p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-10p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9336,7 +9336,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-11p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-11p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9552,7 +9552,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-12p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-12p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9792,7 +9792,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-14p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-14p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10044,7 +10044,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-15p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-15p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10140,7 +10140,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-2p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-2p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10248,7 +10248,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-3p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-3p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10368,7 +10368,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-4p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-4p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10500,7 +10500,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-5p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-5p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10644,7 +10644,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-6p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-6p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10800,7 +10800,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-7p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-7p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10968,7 +10968,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-8p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-8p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11148,7 +11148,7 @@ Ne 0 ""
 Po 0 0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df13/df13c-9p-125v.wrl"
+Na "${LIBKICAD}/3d/conn_df13/df13c-9p-125v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

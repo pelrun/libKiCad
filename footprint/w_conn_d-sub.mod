@@ -777,7 +777,7 @@ Ne 0 ""
 Po -9.525 -7.50062
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_100f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_100f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -957,7 +957,7 @@ Ne 0 ""
 Po -8.31088 -5.6896
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_15f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_15f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1137,7 +1137,7 @@ Ne 0 ""
 Po -8.31088 -5.6896
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_15m.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_15m.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1387,7 +1387,7 @@ Ne 0 ""
 Po -15.23492 -5.6896
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_25f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_25f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1637,7 +1637,7 @@ Ne 0 ""
 Po -15.23492 -5.7277
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_25m.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_25m.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1887,7 +1887,7 @@ Ne 0 ""
 Po -7.62 -9.40054
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_26f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_26f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2151,7 +2151,7 @@ Ne 0 ""
 Po 8.255 -3.70078
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_28f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_28f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2485,7 +2485,7 @@ Ne 0 ""
 Po -23.545 -3.38
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_37f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_37f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2903,7 +2903,7 @@ Ne 0 ""
 Po 0 -9.40054
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_50f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_50f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3447,7 +3447,7 @@ Ne 0 ""
 Po -19.685 -7.50062
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_68f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_68f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3584,7 +3584,7 @@ Ne 0 ""
 Po -12.49426 -7.112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_9f.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_9f.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3721,7 +3721,7 @@ Ne 0 ""
 Po -12.49426 -7.112
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_d-sub/db_9m.wrl"
+Na "${LIBKICAD}/3d/conn_d-sub/db_9m.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

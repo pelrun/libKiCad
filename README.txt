@@ -48,9 +48,20 @@ Your directory should look like the following example.
         README
 	...
 
+In the KiCad main window, select "Configure Paths" from the Preferences menu.
+Click Add, and add a new path called LIBKICAD with the full path to the libkicad
+directory. This will allow 3D models to be found properly.
+
+--- For older versions of Kicad:
+
 Open your project .brd file (e.g. awesomeProject.brd) in KiCad's pcbnew, go to
 preferences > library, remove the default libraries and add all the .mod files
 under libKiCad/footprint.
+
+--- For current/development versions of Kicad
+
+In pcbnew, open the Footprint Libraries Manager, then add all the libraries under
+libKiCad/footprint.
 
 SCHEMATIC SYMBOLS
 =================

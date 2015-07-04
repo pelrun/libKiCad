@@ -65,7 +65,7 @@ Ne 0 ""
 Po 6.096 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/db_2KBP.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/db_2KBP.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -126,7 +126,7 @@ Ne 0 ""
 Po -2.54 -3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/db_dfm.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/db_dfm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -188,7 +188,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/db_kbu4.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/db_kbu4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -246,7 +246,7 @@ Ne 0 ""
 Po -2.54 -2.54
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/db_wob.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/db_wob.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -287,7 +287,7 @@ Ne 0 ""
 Po 6 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/diode_do15.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/diode_do15.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -327,7 +327,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/diode_do201.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/diode_do201.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -365,7 +365,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/diode_do35.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/diode_do35.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -403,7 +403,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/pth_diodes/diode_do41.wrl"
+Na "${LIBKICAD}/3d/pth_diodes/diode_do41.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

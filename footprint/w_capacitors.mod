@@ -149,7 +149,7 @@ Ne 0 ""
 Po -19.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cpa_13x31mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cpa_13x31mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -197,7 +197,7 @@ Ne 0 ""
 Po -19.05 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cpa_16x31mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cpa_16x31mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -245,7 +245,7 @@ Ne 0 ""
 Po -24.13 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cpa_16x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cpa_16x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -293,7 +293,7 @@ Ne 0 ""
 Po -8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cpa_5x11mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cpa_5x11mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -341,7 +341,7 @@ Ne 0 ""
 Po -8.89 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cpa_6x11mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cpa_6x11mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -389,7 +389,7 @@ Ne 0 ""
 Po -13.97 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cpa_8x21mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cpa_8x21mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -425,7 +425,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_10x12.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_10x12.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -461,7 +461,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_10x16mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_10x16mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -497,7 +497,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_10x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_10x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -533,7 +533,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_10x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_10x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -569,7 +569,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_10x30mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_10x30mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -605,7 +605,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_12.5x15mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_12.5x15mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -641,7 +641,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_12.5x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_12.5x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -677,7 +677,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_12.5x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_12.5x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -713,7 +713,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_12.5x30mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_12.5x30mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -749,7 +749,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_12.5x35mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_12.5x35mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -785,7 +785,7 @@ Ne 0 ""
 Po 0 -2.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_12.5x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_12.5x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -822,7 +822,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_16x16mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_16x16mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -859,7 +859,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_16x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_16x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -896,7 +896,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_16x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_16x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -933,7 +933,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_16x31.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_16x31.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -970,7 +970,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_16x35.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_16x35.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1007,7 +1007,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_16x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_16x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1045,7 +1045,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_18x16mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_18x16mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1083,7 +1083,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_18x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_18x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1121,7 +1121,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_18x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_18x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1159,7 +1159,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_18x31.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_18x31.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1197,7 +1197,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_18x35.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_18x35.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1235,7 +1235,7 @@ Ne 0 ""
 Po 0 -3.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_18x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_18x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1274,7 +1274,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1313,7 +1313,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1352,7 +1352,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x30mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x30mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1391,7 +1391,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x35mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x35mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1430,7 +1430,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1469,7 +1469,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x45mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x45mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1508,7 +1508,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_22x50mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_22x50mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1547,7 +1547,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1586,7 +1586,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1625,7 +1625,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x30mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x30mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1664,7 +1664,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x35mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x35mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1703,7 +1703,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1742,7 +1742,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x45mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x45mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1781,7 +1781,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_25x50mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_25x50mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1823,7 +1823,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1865,7 +1865,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1907,7 +1907,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x30mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x30mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1949,7 +1949,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x35mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x35mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1991,7 +1991,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2033,7 +2033,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x45mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x45mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2075,7 +2075,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_30x50mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_30x50mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2117,7 +2117,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2159,7 +2159,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x25mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x25mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2201,7 +2201,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x30mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x30mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2243,7 +2243,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x35mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x35mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2285,7 +2285,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x40mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x40mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2327,7 +2327,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x45mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x45mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2369,7 +2369,7 @@ Ne 0 ""
 Po 0 -5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_35x50mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_35x50mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2404,7 +2404,7 @@ Ne 0 ""
 Po 0 -0.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_4x5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_4x5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2439,7 +2439,7 @@ Ne 0 ""
 Po 0 -0.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_4x7mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_4x7mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2474,7 +2474,7 @@ Ne 0 ""
 Po 0 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_5x11mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_5x11mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2509,7 +2509,7 @@ Ne 0 ""
 Po 0 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_5x15mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_5x15mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2544,7 +2544,7 @@ Ne 0 ""
 Po 0 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_5x5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_5x5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2579,7 +2579,7 @@ Ne 0 ""
 Po 0 -1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_5x7mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_5x7mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2615,7 +2615,7 @@ Ne 0 ""
 Po 0 -1.25
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_6.3x11mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_6.3x11mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2651,7 +2651,7 @@ Ne 0 ""
 Po 0 -1.25
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_6.3x15mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_6.3x15mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2687,7 +2687,7 @@ Ne 0 ""
 Po 0 -1.25
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_6.3x5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_6.3x5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2723,7 +2723,7 @@ Ne 0 ""
 Po 0 -1.25
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_6.3x7mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_6.3x7mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2759,7 +2759,7 @@ Ne 0 ""
 Po 0 -1.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_8x11.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_8x11.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2795,7 +2795,7 @@ Ne 0 ""
 Po 0 -1.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_8x15mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_8x15mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2831,7 +2831,7 @@ Ne 0 ""
 Po 0 -1.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_8x20mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_8x20mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2867,7 +2867,7 @@ Ne 0 ""
 Po 0 -1.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cp_8x7mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cp_8x7mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2902,7 +2902,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_12mm_disc.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_12mm_disc.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2936,7 +2936,7 @@ Ne 0 ""
 Po 5.08 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_13x4mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_13x4mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2970,7 +2970,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_18x5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_18x5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3004,7 +3004,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_18x6mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_18x6mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3038,7 +3038,7 @@ Ne 0 ""
 Po -7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_18x8mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_18x8mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3074,7 +3074,7 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_3mm_disc.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_3mm_disc.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3109,7 +3109,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_6mm_disc.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_6mm_disc.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3144,7 +3144,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_7.5mm_disc.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_7.5mm_disc.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3178,7 +3178,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_7x2mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_7x2mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3212,7 +3212,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_7x4.5mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_7x4.5mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3246,7 +3246,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnp_7x6mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnp_7x6mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3282,7 +3282,7 @@ Ne 0 ""
 Po -20.955 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_12x33mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_12x33mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3318,7 +3318,7 @@ Ne 0 ""
 Po -20.955 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_14x33mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_14x33mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3354,7 +3354,7 @@ Ne 0 ""
 Po -20.955 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_16x33mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_16x33mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3390,7 +3390,7 @@ Ne 0 ""
 Po -20.955 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_18x33mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_18x33mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3426,7 +3426,7 @@ Ne 0 ""
 Po -20.955 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_20x33mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_20x33mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3462,7 +3462,7 @@ Ne 0 ""
 Po -27.94 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_20x44mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_20x44mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3498,7 +3498,7 @@ Ne 0 ""
 Po -20.955 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_22x33mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_22x33mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3534,7 +3534,7 @@ Ne 0 ""
 Po -27.94 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_24x44mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_24x44mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3570,7 +3570,7 @@ Ne 0 ""
 Po -27.94 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_28x44mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_28x44mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3606,7 +3606,7 @@ Ne 0 ""
 Po -36.195 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_29x58mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_29x58mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3642,7 +3642,7 @@ Ne 0 ""
 Po -36.195 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_32x58mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_32x58mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3678,7 +3678,7 @@ Ne 0 ""
 Po -27.94 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/cnpa_34x44mm.wrl"
+Na "${LIBKICAD}/3d/capacitors/cnpa_34x44mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3716,7 +3716,7 @@ Ne 0 ""
 Po -2.65 12.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_h_11x21.3x23.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_h_11x21.3x23.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3754,7 +3754,7 @@ Ne 0 ""
 Po -2.65 16.95
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_h_11x21.3x32.5.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_h_11x21.3x32.5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3792,7 +3792,7 @@ Ne 0 ""
 Po -5.9 8
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_h_9x17.3x14.5.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_h_9x17.3x14.5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3830,7 +3830,7 @@ Ne 0 ""
 Po -5.9 11.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_h_9x17.3x22.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_h_9x17.3x22.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3868,7 +3868,7 @@ Ne 0 ""
 Po -5.9 17
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_h_9x17.3x32.5.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_h_9x17.3x32.5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3906,7 +3906,7 @@ Ne 0 ""
 Po -2.65 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_v_11x21.3x23.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_v_11x21.3x23.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3944,7 +3944,7 @@ Ne 0 ""
 Po -2.65 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_v_11x21.3x32.5.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_v_11x21.3x32.5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3982,7 +3982,7 @@ Ne 0 ""
 Po -5.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_v_9x17.3x14.5.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_v_9x17.3x14.5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4020,7 +4020,7 @@ Ne 0 ""
 Po -5.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_v_9x17.3x22.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_v_9x17.3x22.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4058,7 +4058,7 @@ Ne 0 ""
 Po -5.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/capacitors/phv_v_9x17.3x32.5.wrl"
+Na "${LIBKICAD}/3d/capacitors/phv_v_9x17.3x32.5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

@@ -112,7 +112,7 @@ Ne 0 ""
 Po -15.75 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-10-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-10-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -220,7 +220,7 @@ Ne 0 ""
 Po -17.5 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-11-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-11-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -336,7 +336,7 @@ Ne 0 ""
 Po -19.25 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-12-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-12-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -460,7 +460,7 @@ Ne 0 ""
 Po -21 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-13-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-13-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -592,7 +592,7 @@ Ne 0 ""
 Po -22.75 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-14-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-14-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -732,7 +732,7 @@ Ne 0 ""
 Po -24.5 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-15-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-15-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -880,7 +880,7 @@ Ne 0 ""
 Po -26.25 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-16-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-16-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -916,7 +916,7 @@ Ne 0 ""
 Po 1.75 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-2-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-2-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -960,7 +960,7 @@ Ne 0 ""
 Po -3.5 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-3-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-3-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1012,7 +1012,7 @@ Ne 0 ""
 Po -5.25 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-4-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-4-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1072,7 +1072,7 @@ Ne 0 ""
 Po -7 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-5-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-5-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1140,7 +1140,7 @@ Ne 0 ""
 Po -8.75 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-6-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-6-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1216,7 +1216,7 @@ Ne 0 ""
 Po -10.5 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-7-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-7-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1300,7 +1300,7 @@ Ne 0 ""
 Po -12.25 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-8-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-8-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1392,7 +1392,7 @@ Ne 0 ""
 Po -14 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_pt-1_5/pt_1,5-9-3,5-h.wrl"
+Na "${LIBKICAD}/3d/conn_pt-1_5/pt_1,5-9-3,5-h.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

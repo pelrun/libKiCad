@@ -244,7 +244,7 @@ Po 2.74828 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-10dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-10dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -411,7 +411,7 @@ Ne 0 ""
 Po 2.69748 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-10ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-10ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -618,7 +618,7 @@ Po 3.24866 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-14dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-14dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -827,7 +827,7 @@ Po 3.19786 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-14ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-14ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1094,7 +1094,7 @@ Po 3.99796 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-20dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-20dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1363,7 +1363,7 @@ Po 3.9497 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-20ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-20ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1730,7 +1730,7 @@ Po 5.24764 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-30dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-30dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2099,7 +2099,7 @@ Po 5.19938 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-30ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-30ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2486,7 +2486,7 @@ Po 5.4991 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-32dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-32dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2875,7 +2875,7 @@ Po 5.4483 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-32ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-32ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3302,7 +3302,7 @@ Po 5.99948 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-36dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-36dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3731,7 +3731,7 @@ Po 5.94868 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-36ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-36ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4198,7 +4198,7 @@ Po 6.49986 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-40dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-40dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4667,7 +4667,7 @@ Po 6.44906 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-40ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-40ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5234,7 +5234,7 @@ Po 7.74954 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-50dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-50dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5803,7 +5803,7 @@ Po 7.6962 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-50ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-50ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6470,7 +6470,7 @@ Po 8.99922 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-60dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-60dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7140,7 +7140,7 @@ Po 8.94588 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-60ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-60ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8007,7 +8007,7 @@ Po 11.49858 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-80dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-80dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -8878,7 +8878,7 @@ Po 11.44778 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12(3.0)-80ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12(3.0)-80ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9029,7 +9029,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-10ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-10ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9220,7 +9220,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-14ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-14ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9471,7 +9471,7 @@ Ne 0 ""
 Po 3.29946 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-20ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-20ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -9822,7 +9822,7 @@ Ne 0 ""
 Po 4.54914 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-30ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-30ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10193,7 +10193,7 @@ Ne 0 ""
 Po 4.79806 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-32ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-32ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -10604,7 +10604,7 @@ Ne 0 ""
 Po 5.29844 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-36ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-36ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11055,7 +11055,7 @@ Ne 0 ""
 Po 5.79882 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-40ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-40ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -11606,7 +11606,7 @@ Ne 0 ""
 Po 7.0485 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-50ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-50ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -12258,7 +12258,7 @@ Ne 0 ""
 Po 8.29818 -1.4986
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-60ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-60ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13111,7 +13111,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12a(3.0)-80ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12a(3.0)-80ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13264,7 +13264,7 @@ Po 2.74828 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-10dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-10dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13417,7 +13417,7 @@ Ne 0 ""
 Po 2.69748 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-10ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-10ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13610,7 +13610,7 @@ Po 3.24866 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-14dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-14dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -13805,7 +13805,7 @@ Po 3.19786 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-14ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-14ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14058,7 +14058,7 @@ Po 3.99796 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-20dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-20dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14313,7 +14313,7 @@ Po 3.9497 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-20ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-20ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -14666,7 +14666,7 @@ Po 5.24764 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-30dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-30dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15021,7 +15021,7 @@ Po 5.19938 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-30ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-30ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15394,7 +15394,7 @@ Po 5.4991 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-32dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-32dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -15769,7 +15769,7 @@ Po 5.4483 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-32ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-32ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16182,7 +16182,7 @@ Po 5.99948 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-36dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-36dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -16597,7 +16597,7 @@ Po 5.94868 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-36ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-36ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17050,7 +17050,7 @@ Po 6.49986 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-40dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-40dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -17505,7 +17505,7 @@ Po 6.44906 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-40ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-40ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -18058,7 +18058,7 @@ Po 7.74954 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-50dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-50dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -18613,7 +18613,7 @@ Po 7.6962 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-50ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-50ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19266,7 +19266,7 @@ Po 8.99922 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-60dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-60dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -19922,7 +19922,7 @@ Po 8.94588 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-60ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-60ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -20775,7 +20775,7 @@ Po 11.49858 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-80dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-80dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21632,7 +21632,7 @@ Po 11.44778 0
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12b(3.0)-80ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12b(3.0)-80ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21769,7 +21769,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-10ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-10ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -21946,7 +21946,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-14ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-14ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22183,7 +22183,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-20ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-20ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22520,7 +22520,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-30ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-30ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -22877,7 +22877,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-32ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-32ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -23274,7 +23274,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-36ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-36ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -23711,7 +23711,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-40ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-40ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24248,7 +24248,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-50ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-50ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -24886,7 +24886,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-60ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-60ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25725,7 +25725,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12c(3.0)-80ds-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12c(3.0)-80ds-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -25874,7 +25874,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-10dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-10dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26063,7 +26063,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-14dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-14dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26312,7 +26312,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-20dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-20dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -26661,7 +26661,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-30dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-30dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27030,7 +27030,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-32dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-32dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27439,7 +27439,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-36dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-36dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -27888,7 +27888,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-40dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-40dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -28437,7 +28437,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-50dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-50dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29086,7 +29086,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-60dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-60dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -29935,7 +29935,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12d(3.0)-80dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12d(3.0)-80dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30070,7 +30070,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-10dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-10dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30245,7 +30245,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-14dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-14dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30480,7 +30480,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-20dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-20dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -30815,7 +30815,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-30dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-30dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31170,7 +31170,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-32dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-32dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -31565,7 +31565,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-36dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-36dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32000,7 +32000,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-40dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-40dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -32535,7 +32535,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-50dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-50dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -33170,7 +33170,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-60dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-60dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -34005,7 +34005,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_df12/df12e(3.0)-80dp-0.5v.wrl"
+Na "${LIBKICAD}/3d/conn_df12/df12e(3.0)-80dp-0.5v.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

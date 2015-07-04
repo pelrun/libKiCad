@@ -40,7 +40,7 @@ Ne 0 ""
 Po 3.81 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_gmkds/gmkds_3-2-7,62.wrl"
+Na "${LIBKICAD}/3d/conn_gmkds/gmkds_3-2-7,62.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -90,7 +90,7 @@ Ne 0 ""
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_gmkds/gmkds_3-3-7,62.wrl"
+Na "${LIBKICAD}/3d/conn_gmkds/gmkds_3-3-7,62.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

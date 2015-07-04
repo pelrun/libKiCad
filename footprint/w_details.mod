@@ -80,13 +80,13 @@ Ne 0 ""
 Po -1.4 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of 0.027559 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of -0.027559 0 0
 Ro 0 0 0
@@ -134,13 +134,13 @@ Ne 0 ""
 Po -0.7 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of 0 0.027559 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of 0 -0.027559 0
 Ro 0 0 0
@@ -202,25 +202,25 @@ Ne 0 ""
 Po -1.4 -0.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of 0.027559 0.027559 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of -0.027559 -0.027559 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of 0.055118 0 0
 Ro 0 0 90
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
+Na "${LIBKICAD}/3d/smd_resistors/r_0603.wrl"
 Sc 1 1 1
 Of -0.055118 0 0
 Ro 0 0 90
@@ -253,7 +253,7 @@ Po 0 0
 .ZoneConnection 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/fiducial_3mm_round.wrl"
+Na "${LIBKICAD}/3d/details/fiducial_3mm_round.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -286,7 +286,7 @@ Po 0 0
 .ZoneConnection 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/fiducial_3mm_square.wrl"
+Na "${LIBKICAD}/3d/details/fiducial_3mm_square.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -319,7 +319,7 @@ Po 0 0
 .ZoneConnection 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/fiducial_2mm_round.wrl"
+Na "${LIBKICAD}/3d/details/fiducial_2mm_round.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -352,7 +352,7 @@ Po 0 0
 .ZoneConnection 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/fiducial_2mm_square.wrl"
+Na "${LIBKICAD}/3d/details/fiducial_2mm_square.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -385,7 +385,7 @@ Po 0 0
 .ZoneConnection 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/fiducial_3mm_round.wrl"
+Na "${LIBKICAD}/3d/details/fiducial_3mm_round.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -418,7 +418,7 @@ Po 0 0
 .ZoneConnection 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/fiducial_3mm_square.wrl"
+Na "${LIBKICAD}/3d/details/fiducial_3mm_square.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -444,7 +444,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -470,7 +470,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -496,7 +496,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -522,7 +522,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -548,7 +548,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -574,7 +574,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -600,7 +600,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -626,7 +626,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -652,7 +652,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -678,7 +678,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -704,7 +704,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -730,7 +730,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -756,7 +756,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -782,7 +782,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -808,7 +808,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -834,7 +834,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -860,7 +860,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -886,7 +886,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -912,7 +912,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hole.wrl"
+Na "${LIBKICAD}/3d/details/hole.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -954,7 +954,7 @@ Ne 0 ""
 Po -12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_11cw_to220.wrl"
+Na "${LIBKICAD}/3d/details/hs_11cw_to220.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -996,7 +996,7 @@ Ne 0 ""
 Po -12.7 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_14cw_to220.wrl"
+Na "${LIBKICAD}/3d/details/hs_14cw_to220.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1038,7 +1038,7 @@ Ne 0 ""
 Po 0 -0.84836
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_5770.wrl"
+Na "${LIBKICAD}/3d/details/hs_5770.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1080,7 +1080,7 @@ Ne 0 ""
 Po 0 -0.84836
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_5771.wrl"
+Na "${LIBKICAD}/3d/details/hs_5771.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1122,7 +1122,7 @@ Ne 0 ""
 Po 0 -0.84836
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_5772.wrl"
+Na "${LIBKICAD}/3d/details/hs_5772.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1170,7 +1170,7 @@ Ne 0 ""
 Po -11.5824 8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_5901.wrl"
+Na "${LIBKICAD}/3d/details/hs_5901.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1216,7 +1216,7 @@ Ne 0 ""
 Po -12.0396 8.89
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/hs_5903.wrl"
+Na "${LIBKICAD}/3d/details/hs_5903.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1277,7 +1277,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/testpoint.wrl"
+Na "${LIBKICAD}/3d/details/testpoint.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1302,7 +1302,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/testpoint.wrl"
+Na "${LIBKICAD}/3d/details/testpoint.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1327,7 +1327,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/testpoint.wrl"
+Na "${LIBKICAD}/3d/details/testpoint.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1352,7 +1352,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/testpoint.wrl"
+Na "${LIBKICAD}/3d/details/testpoint.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1376,7 +1376,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/details/vite_2mm5.wrl"
+Na "${LIBKICAD}/3d/details/vite_2mm5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

@@ -197,7 +197,7 @@ Ne 0 ""
 Po -6.35 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_10x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_10x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -360,7 +360,7 @@ Ne 0 ""
 Po -6.35 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_10x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_10x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -552,7 +552,7 @@ Ne 0 ""
 Po -8.89 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_12x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_12x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -743,7 +743,7 @@ Ne 0 ""
 Po -8.89 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_12x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_12x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -949,7 +949,7 @@ Ne 0 ""
 Po -10.16 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_13x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_13x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1154,7 +1154,7 @@ Ne 0 ""
 Po -10.16 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_13x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_13x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1388,7 +1388,7 @@ Ne 0 ""
 Po -12.7 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_15x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_15x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1621,7 +1621,7 @@ Ne 0 ""
 Po -12.7 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_15x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_15x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1869,7 +1869,7 @@ Ne 0 ""
 Po -13.97 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_16x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_16x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2116,7 +2116,7 @@ Ne 0 ""
 Po -13.97 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_16x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_16x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2378,7 +2378,7 @@ Ne 0 ""
 Po -15.24 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_17x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_17x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2639,7 +2639,7 @@ Ne 0 ""
 Po -15.24 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_17x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_17x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2915,7 +2915,7 @@ Ne 0 ""
 Po -16.51 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_18x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_18x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3190,7 +3190,7 @@ Ne 0 ""
 Po -16.51 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_18x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_18x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3494,7 +3494,7 @@ Ne 0 ""
 Po -19.05 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_20x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_20x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3797,7 +3797,7 @@ Ne 0 ""
 Po -19.05 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_20x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_20x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4171,7 +4171,7 @@ Ne 0 ""
 Po -25.4 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_25x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_25x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4544,7 +4544,7 @@ Ne 0 ""
 Po -25.4 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_25x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_25x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4994,7 +4994,7 @@ Ne 0 ""
 Po -31.75 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_30x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_30x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5441,7 +5441,7 @@ Ne 0 ""
 Po -31.75 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_30x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_30x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5919,7 +5919,7 @@ Ne 0 ""
 Po -34.29 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_32x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_32x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6394,7 +6394,7 @@ Ne 0 ""
 Po -34.29 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_32x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_32x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6460,7 +6460,7 @@ Ne 0 ""
 Po 2.54 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_3x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_3x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6525,7 +6525,7 @@ Ne 0 ""
 Po 2.54 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_3x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_3x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6605,7 +6605,7 @@ Ne 0 ""
 Po 1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_4x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_4x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6684,7 +6684,7 @@ Ne 0 ""
 Po 1.27 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_4x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_4x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6778,7 +6778,7 @@ Ne 0 ""
 Po 0 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_5x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_5x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6871,7 +6871,7 @@ Ne 0 ""
 Po 0 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_5x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_5x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -6979,7 +6979,7 @@ Ne 0 ""
 Po -1.27 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_6x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_6x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7086,7 +7086,7 @@ Ne 0 ""
 Po -1.27 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_6x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_6x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7208,7 +7208,7 @@ Ne 0 ""
 Po -2.54 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_7x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_7x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7329,7 +7329,7 @@ Ne 0 ""
 Po -2.54 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_7x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_7x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7465,7 +7465,7 @@ Ne 0 ""
 Po -3.81 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_8x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_8x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7600,7 +7600,7 @@ Ne 0 ""
 Po -3.81 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_8x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_8x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7750,7 +7750,7 @@ Ne 0 ""
 Po -5.08 -1.27
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_9x2.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_9x2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -7899,7 +7899,7 @@ Ne 0 ""
 Po -5.08 3.81
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_strip/vasch_strip_9x2_90.wrl"
+Na "${LIBKICAD}/3d/conn_strip/vasch_strip_9x2_90.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

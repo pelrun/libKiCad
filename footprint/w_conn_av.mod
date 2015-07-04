@@ -198,7 +198,7 @@ Ne 0 ""
 Po -26.49982 -0.20066
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/scart.wrl"
+Na "${LIBKICAD}/3d/conn_av/scart.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -296,7 +296,7 @@ Ne 0 ""
 Po -5.00126 6.9977
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/din-5.wrl"
+Na "${LIBKICAD}/3d/conn_av/din-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -375,7 +375,7 @@ Ne 0 ""
 Po 3.3 -2.75
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/jack_3.5_pj313d-smt.wrl"
+Na "${LIBKICAD}/3d/conn_av/jack_3.5_pj313d-smt.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -433,7 +433,7 @@ Ne 0 ""
 Po -5.9 -3.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/jack_3.5_sj1-3513-smt.wrl"
+Na "${LIBKICAD}/3d/conn_av/jack_3.5_sj1-3513-smt.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -498,7 +498,7 @@ Ne 0 ""
 Po 5.7 1.2
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/jack_3.5_sj1-3514-smt.wrl"
+Na "${LIBKICAD}/3d/conn_av/jack_3.5_sj1-3514-smt.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -570,7 +570,7 @@ Ne 0 ""
 Po -5.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/jack_3.5_sj1-3515-smt.wrl"
+Na "${LIBKICAD}/3d/conn_av/jack_3.5_sj1-3515-smt.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -624,7 +624,7 @@ Ne 0 ""
 Po -3.49758 -0.5969
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/jack_3.5_vert_plug.wrl"
+Na "${LIBKICAD}/3d/conn_av/jack_3.5_vert_plug.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -726,7 +726,7 @@ Ne 0 ""
 Po 0 1.80086
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/minidin-8.wrl"
+Na "${LIBKICAD}/3d/conn_av/minidin-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -787,7 +787,7 @@ Ne 0 ""
 Po -5.0546 -3.99796
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/rca_black.wrl"
+Na "${LIBKICAD}/3d/conn_av/rca_black.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -848,7 +848,7 @@ Ne 0 ""
 Po -5.0546 -3.99796
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/rca_red.wrl"
+Na "${LIBKICAD}/3d/conn_av/rca_red.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -909,7 +909,7 @@ Ne 0 ""
 Po -5.0546 -3.99796
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/rca_white.wrl"
+Na "${LIBKICAD}/3d/conn_av/rca_white.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -970,7 +970,7 @@ Ne 0 ""
 Po -5.0546 -3.99796
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_av/rca_yellow.wrl"
+Na "${LIBKICAD}/3d/conn_av/rca_yellow.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

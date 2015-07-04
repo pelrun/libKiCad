@@ -57,7 +57,7 @@ Ne 0 ""
 Po -1.99898 -1.74752
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/buzzer_sg13j12.wrl"
+Na "${LIBKICAD}/3d/misc_comp/buzzer_sg13j12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -91,7 +91,7 @@ Ne 0 ""
 Po 3.8 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/buzzer_tmb.wrl"
+Na "${LIBKICAD}/3d/misc_comp/buzzer_tmb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -168,7 +168,7 @@ Ne 0 ""
 Po 2.49936 -7.00024
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/encoder_alps-ec12d.wrl"
+Na "${LIBKICAD}/3d/misc_comp/encoder_alps-ec12d.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -231,7 +231,7 @@ Ne 0 ""
 Po 6.20014 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/encoder_alps-ec12e.wrl"
+Na "${LIBKICAD}/3d/misc_comp/encoder_alps-ec12e.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -270,7 +270,7 @@ Ne 0 ""
 Po 0 10.8839
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/fuse_cq-200c.wrl"
+Na "${LIBKICAD}/3d/misc_comp/fuse_cq-200c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -319,7 +319,7 @@ Ne 0 ""
 Po 3.1877 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/fuse_smf.wrl"
+Na "${LIBKICAD}/3d/misc_comp/fuse_smf.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -355,7 +355,7 @@ Ne 0 ""
 Po -11.7983 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/inductor_1400_24,4x14_p23,6.wrl"
+Na "${LIBKICAD}/3d/misc_comp/inductor_1400_24,4x14_p23,6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -391,7 +391,7 @@ Ne 0 ""
 Po -11.7475 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/inductor_1400_24,4x18,5_p23,5.wrl"
+Na "${LIBKICAD}/3d/misc_comp/inductor_1400_24,4x18,5_p23,5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -422,7 +422,7 @@ Ne 0 ""
 Po -2.49936 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/inductor_8mm-p5.wrl"
+Na "${LIBKICAD}/3d/misc_comp/inductor_8mm-p5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -488,7 +488,7 @@ Ne 0 ""
 Po -10 -12.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/misc_comp/trafo_EI38.wrl"
+Na "${LIBKICAD}/3d/misc_comp/trafo_EI38.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

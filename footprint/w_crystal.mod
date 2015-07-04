@@ -67,7 +67,7 @@ Ne 0 ""
 Po -0.7239 -0.5715
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_fa-128.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_fa-128.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -114,7 +114,7 @@ Ne 0 ""
 Po 4.7498 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_hc-49-smd.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_hc-49-smd.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -157,7 +157,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_hc-49s.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_hc-49s.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -200,7 +200,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_hc-49u.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_hc-49u.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -242,7 +242,7 @@ Ne 0 ""
 Po 2.54 7.84352
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_hc-49u_horiz.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_hc-49u_horiz.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -290,7 +290,7 @@ Po 1.85 0
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_smd_5x3.2mm.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_smd_5x3.2mm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -344,7 +344,7 @@ Ne 0 ""
 Po 4.8 -1.8
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_smd_ma-406.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_smd_ma-406.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -384,7 +384,7 @@ Po 5.55 0
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_smd_ma-505.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_smd_ma-505.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -438,7 +438,7 @@ Ne 0 ""
 Po 5.55 -1.8
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_smd_ma-505.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_smd_ma-505.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -471,7 +471,7 @@ Ne 0 ""
 Po 0.35 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_tc-26.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_tc-26.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -514,7 +514,7 @@ Ne 0 ""
 Po 0 3.3
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_tc-26_horiz.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_tc-26_horiz.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -547,7 +547,7 @@ Ne 0 ""
 Po 0.55 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_tc-38.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_tc-38.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -590,7 +590,7 @@ Ne 0 ""
 Po 0 4.6
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_tc-38_horiz.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_tc-38_horiz.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -656,7 +656,7 @@ Ne 0 ""
 Po -0.675 -0.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/crystal_xrcgb.wrl"
+Na "${LIBKICAD}/3d/crystal/crystal_xrcgb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -720,7 +720,7 @@ Ne 0 ""
 Po -1 -0.9
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/resonator_awscr.wrl"
+Na "${LIBKICAD}/3d/crystal/resonator_awscr.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -766,7 +766,7 @@ Ne 0 ""
 Po 2.49936 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/crystal/resonator_sip3.wrl"
+Na "${LIBKICAD}/3d/crystal/resonator_sip3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

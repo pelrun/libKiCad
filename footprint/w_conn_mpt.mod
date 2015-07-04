@@ -111,7 +111,7 @@ Ne 0 ""
 Po -4500 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-10-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-10-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -222,7 +222,7 @@ Ne 0 ""
 Po -5000 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-11-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-11-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -341,7 +341,7 @@ Ne 0 ""
 Po -5500 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-12-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-12-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -380,7 +380,7 @@ Ne 0 ""
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-2-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-2-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -427,7 +427,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-3-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-3-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -482,7 +482,7 @@ Ne 0 ""
 Po -500 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-4-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-4-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -545,7 +545,7 @@ Ne 0 ""
 Po -2000 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-5-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-5-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -616,7 +616,7 @@ Ne 0 ""
 Po -2500 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-6-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-6-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -695,7 +695,7 @@ Ne 0 ""
 Po -3000 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-7-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-7-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -782,7 +782,7 @@ Ne 0 ""
 Po -3500 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-8-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-8-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -877,7 +877,7 @@ Ne 0 ""
 Po -4000 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/conn_mpt/mpt_0,5-9-2,54.wrl"
+Na "${LIBKICAD}/3d/conn_mpt/mpt_0,5-9-2,54.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

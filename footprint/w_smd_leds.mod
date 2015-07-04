@@ -118,7 +118,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/avago_aveon.wrl"
+Na "${LIBKICAD}/3d/smd_leds/avago_aveon.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -175,7 +175,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/avago_jade.wrl"
+Na "${LIBKICAD}/3d/smd_leds/avago_jade.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -220,7 +220,7 @@ Ne 0 ""
 Po 0.78232 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/citizen_cl82x.wrl"
+Na "${LIBKICAD}/3d/smd_leds/citizen_cl82x.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -254,7 +254,7 @@ Ne 0 ""
 Po 0.57912 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/citizen_cll600.wrl"
+Na "${LIBKICAD}/3d/smd_leds/citizen_cll600.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -289,7 +289,7 @@ Ne 0 ""
 Po 1.12522 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_clm3c.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_clm3c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -376,7 +376,7 @@ Ne 0 ""
 Po 1.80086 2.10058
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_clp6b.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_clp6b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -470,7 +470,7 @@ Po 0 0
 .SolderMask 0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_mc-e.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_mc-e.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -554,7 +554,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_ml-e.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_ml-e.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -718,7 +718,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_mx.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_mx.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -786,7 +786,7 @@ Po 1.29794 0
 .SolderPaste -0.03048
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_xb.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_xb.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -858,7 +858,7 @@ Po 2.58064 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_xm.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_xm.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -969,7 +969,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_xm_color.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_xm_color.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1041,7 +1041,7 @@ Po 1.79832 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_xp.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_xp.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1140,7 +1140,7 @@ Ne 0 ""
 Po 3.9 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_xr.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_xr.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1230,7 +1230,7 @@ Po 0 0
 .SolderPaste -0.70104
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/edison_edixeon-a.wrl"
+Na "${LIBKICAD}/3d/smd_leds/edison_edixeon-a.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1347,7 +1347,7 @@ Ne 0 ""
 Po 6.49986 1.84912
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/edison_edixeon-RGB.wrl"
+Na "${LIBKICAD}/3d/smd_leds/edison_edixeon-RGB.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1533,7 +1533,7 @@ Po -2.1717 -1.9939
 .SolderPaste -0.04826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/edison_federal_5050.wrl"
+Na "${LIBKICAD}/3d/smd_leds/edison_federal_5050.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1573,7 +1573,7 @@ Ne 0 ""
 Po 0.54864 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/led_0402.wrl"
+Na "${LIBKICAD}/3d/smd_leds/led_0402.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1613,7 +1613,7 @@ Ne 0 ""
 Po 0.7493 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/led_0603.wrl"
+Na "${LIBKICAD}/3d/smd_leds/led_0603.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1654,7 +1654,7 @@ Ne 0 ""
 Po 1.04902 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/led_0805.wrl"
+Na "${LIBKICAD}/3d/smd_leds/led_0805.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1695,7 +1695,7 @@ Ne 0 ""
 Po 1.74752 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/led_1206.wrl"
+Na "${LIBKICAD}/3d/smd_leds/led_1206.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1731,7 +1731,7 @@ Ne 0 ""
 Po 1.12522 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_clm3c.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_clm3c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1777,7 +1777,7 @@ Ne 0 ""
 Po 1.4986 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/led_plcc2_3528.wrl"
+Na "${LIBKICAD}/3d/smd_leds/led_plcc2_3528.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1860,7 +1860,7 @@ Po -0.89916 -0.6985
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/luxeon_c.wrl"
+Na "${LIBKICAD}/3d/smd_leds/luxeon_c.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2047,7 +2047,7 @@ Po -1.50114 -1.50114
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/luxeon_rebel.wrl"
+Na "${LIBKICAD}/3d/smd_leds/luxeon_rebel.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2173,13 +2173,13 @@ Ne 0 ""
 Po 1.84912 -0.8001
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/luxeon_rebel.wrl"
+Na "${LIBKICAD}/3d/smd_leds/luxeon_rebel.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/cree_xp.wrl"
+Na "${LIBKICAD}/3d/smd_leds/cree_xp.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 180
@@ -2226,7 +2226,7 @@ Po -1.35 0
 .SolderPaste -0.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_duris_e3.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_duris_e3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2341,7 +2341,7 @@ Ne 0 ""
 Po 0 1.075
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_duris_e5.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_duris_e5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2431,7 +2431,7 @@ Po -0.835 0.575
 .SolderPaste -0.05
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_duris_s5.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_duris_s5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2500,7 +2500,7 @@ Po 0 0
 .SolderPaste -0.7493
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_goldendragon.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_goldendragon.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2571,7 +2571,7 @@ Po 0 0
 .SolderPaste -0.7493
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_goldendragonplus.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_goldendragonplus.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2642,7 +2642,7 @@ Po 0 0
 .SolderPaste -0.7493
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_platinumdragon.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_platinumdragon.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2753,7 +2753,7 @@ Po 0.94996 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/samsung_2323.wrl"
+Na "${LIBKICAD}/3d/smd_leds/samsung_2323.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2855,7 +2855,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/seoul_5630.wrl"
+Na "${LIBKICAD}/3d/smd_leds/seoul_5630.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2946,7 +2946,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/seoul_p4.wrl"
+Na "${LIBKICAD}/3d/smd_leds/seoul_p4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3031,7 +3031,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/seoul_p5-ii.wrl"
+Na "${LIBKICAD}/3d/smd_leds/seoul_p5-ii.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3169,7 +3169,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/seoul_z7.wrl"
+Na "${LIBKICAD}/3d/smd_leds/seoul_z7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3220,7 +3220,7 @@ Po 0 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/osram_oslon.wrl"
+Na "${LIBKICAD}/3d/smd_leds/osram_oslon.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3285,7 +3285,7 @@ Po -0.775 -0.825
 .SolderMask 0.06858
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/sfh5712.wrl"
+Na "${LIBKICAD}/3d/smd_leds/sfh5712.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3325,7 +3325,7 @@ Po 0.89916 0
 .SolderPaste -0.0508
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_leds/sharp_doubledome.wrl"
+Na "${LIBKICAD}/3d/smd_leds/sharp_doubledome.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

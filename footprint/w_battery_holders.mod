@@ -81,7 +81,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_1025.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_1025.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -143,7 +143,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_1025-7.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_1025-7.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -205,7 +205,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_1026.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_1026.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -267,7 +267,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_1027.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_1027.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -329,7 +329,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_103.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_103.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -391,7 +391,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_104.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_104.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -453,7 +453,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_105.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_105.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -515,7 +515,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_106.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_106.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -577,7 +577,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_107.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_107.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -620,7 +620,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_2990.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_2990.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -663,7 +663,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_2991.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_2991.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -706,7 +706,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_2992.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_2992.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -743,7 +743,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_2993.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_2993.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -801,7 +801,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_3000.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_3000.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -859,7 +859,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_3001.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_3001.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -919,7 +919,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_3008.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_3008.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -979,7 +979,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_3009.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_3009.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1043,7 +1043,7 @@ Ne 0 ""
 Po 15.2146 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_301.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_301.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1101,7 +1101,7 @@ Ne 0 ""
 Po 9.98728 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_499.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_499.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1159,7 +1159,7 @@ Ne 0 ""
 Po 9.98728 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_500.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_500.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1217,7 +1217,7 @@ Ne 0 ""
 Po 9.98728 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_501.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_501.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1275,7 +1275,7 @@ Ne 0 ""
 Po 11.7602 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/battery_holders/keystone_502.wrl"
+Na "${LIBKICAD}/3d/battery_holders/keystone_502.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

@@ -382,7 +382,7 @@ Ne 0 ""
 Po 6.82498 6.59638
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/hsop-44.wrl"
+Na "${LIBKICAD}/3d/smd_dil/hsop-44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -432,7 +432,7 @@ Ne 0 ""
 Po -1.27 -4.50596
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/mdip_4.wrl"
+Na "${LIBKICAD}/3d/smd_dil/mdip_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -496,7 +496,7 @@ Ne 0 ""
 Po -2.54 -4.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/mdip_6.wrl"
+Na "${LIBKICAD}/3d/smd_dil/mdip_6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -574,7 +574,7 @@ Ne 0 ""
 Po -3.81 -4.5
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/mdip_8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/mdip_8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -623,7 +623,7 @@ Ne 0 ""
 Po -0.635 -3.175
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/mfp-4.wrl"
+Na "${LIBKICAD}/3d/smd_dil/mfp-4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -726,7 +726,7 @@ Ne 0 ""
 Po -1.00076 -2.30124
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/msoic-10.wrl"
+Na "${LIBKICAD}/3d/smd_dil/msoic-10.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -813,7 +813,7 @@ Ne 0 ""
 Po -0.97536 -2.30124
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/msoic-8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/msoic-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -907,7 +907,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/msoic-8_pp.wrl"
+Na "${LIBKICAD}/3d/smd_dil/msoic-8_pp.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1039,7 +1039,7 @@ Ne 0 ""
 Po -1.62306 -2.16916
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/msop-12.wrl"
+Na "${LIBKICAD}/3d/smd_dil/msop-12.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1203,7 +1203,7 @@ Ne 0 ""
 Po -1.74498 -2.19964
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/msop-16.wrl"
+Na "${LIBKICAD}/3d/smd_dil/msop-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1461,7 +1461,7 @@ Ne 0 ""
 Po -7 -9.1
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/multipowerso-30.wrl"
+Na "${LIBKICAD}/3d/smd_dil/multipowerso-30.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1563,7 +1563,7 @@ Po -0.75 -1.55
 .SolderPaste -0.025
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/pdso-8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/pdso-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1741,7 +1741,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/powerso-20.wrl"
+Na "${LIBKICAD}/3d/smd_dil/powerso-20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1941,7 +1941,7 @@ Ne 0 ""
 Po -3.57378 -2.79908
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/psop-24.wrl"
+Na "${LIBKICAD}/3d/smd_dil/psop-24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2043,7 +2043,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/psop-8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/psop-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2192,7 +2192,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/qsop-16ep.wrl"
+Na "${LIBKICAD}/3d/smd_dil/qsop-16ep.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2241,7 +2241,7 @@ Ne 0 ""
 Po -1.27 -3.25
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/smd_4.wrl"
+Na "${LIBKICAD}/3d/smd_dil/smd_4.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2374,7 +2374,7 @@ Ne 0 ""
 Po -3.81 -2.794
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/so-14.wrl"
+Na "${LIBKICAD}/3d/smd_dil/so-14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2523,7 +2523,7 @@ Ne 0 ""
 Po -4.445 -2.794
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/so-16.wrl"
+Na "${LIBKICAD}/3d/smd_dil/so-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2608,7 +2608,7 @@ Ne 0 ""
 Po -1.905 -2.794
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/so-8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/so-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2741,7 +2741,7 @@ Ne 0 ""
 Po -3.81 -4.81076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soic-14.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soic-14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2890,7 +2890,7 @@ Ne 0 ""
 Po -4.445 -4.81076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soic-16.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soic-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3055,7 +3055,7 @@ Ne 0 ""
 Po -5.08 -4.81076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soic-18.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soic-18.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3236,7 +3236,7 @@ Ne 0 ""
 Po -5.715 -4.81076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soic-20.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soic-20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3449,7 +3449,7 @@ Ne 0 ""
 Po -6.985 -4.81076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soic-24.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soic-24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3694,7 +3694,7 @@ Ne 0 ""
 Po -8.255 -4.81076
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soic-28.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soic-28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3779,7 +3779,7 @@ Ne 0 ""
 Po -1.905 -3.79984
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/soij-8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/soij-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3912,7 +3912,7 @@ Ne 0 ""
 Po -1.5875 -2.667
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/ssop-16.wrl"
+Na "${LIBKICAD}/3d/smd_dil/ssop-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4102,7 +4102,7 @@ Ne 0 ""
 Po -3.4925 -2.69748
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/ssop-24.wrl"
+Na "${LIBKICAD}/3d/smd_dil/ssop-24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4319,7 +4319,7 @@ Ne 0 ""
 Po 2.92608 -3.59918
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/ssop-28.wrl"
+Na "${LIBKICAD}/3d/smd_dil/ssop-28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4676,7 +4676,7 @@ Ne 0 ""
 Po -0.9525 4.826
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/ssop-48.wrl"
+Na "${LIBKICAD}/3d/smd_dil/ssop-48.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4758,7 +4758,7 @@ Ne 0 ""
 Po -1.27 -1.7
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tsoc-6.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tsoc-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5087,7 +5087,7 @@ Ne 0 ""
 Po 8.4 5.65
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tsop2-44.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tsop2-44.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5206,7 +5206,7 @@ Ne 0 ""
 Po -1.95072 -2.79908
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tssop-14.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tssop-14.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5339,7 +5339,7 @@ Ne 0 ""
 Po -1.6256 -2.794
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tssop-16.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tssop-16.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5500,7 +5500,7 @@ Ne 0 ""
 Po -2.92608 -2.79908
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tssop-20.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tssop-20.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5689,7 +5689,7 @@ Ne 0 ""
 Po -3.57378 -2.79908
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tssop-24.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tssop-24.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5906,7 +5906,7 @@ Ne 0 ""
 Po -4.22402 -2.79908
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tssop-28.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tssop-28.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5983,7 +5983,7 @@ Ne 0 ""
 Po -0.97536 -2.79908
 $EndPAD
 $SHAPE3D
-Na "../libKiCad/3d/smd_dil/tssop-8.wrl"
+Na "${LIBKICAD}/3d/smd_dil/tssop-8.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
