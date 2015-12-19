@@ -105,7 +105,7 @@
     (solder_mask_margin 0.06858) (solder_paste_margin -0.04826))
   (pad "" smd rect (at 6.49986 0) (size 0.79756 1.79578) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.06858) (solder_paste_margin -0.04826))
-  (model "walter/conn_df12/df12(3.0)-40dp-0.5v.wrl"
+  (model "${LIBKICAD}/3d/conn_df12/df12(3.0)-40dp-0.5v.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

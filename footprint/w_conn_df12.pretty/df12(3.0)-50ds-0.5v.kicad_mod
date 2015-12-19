@@ -125,7 +125,7 @@
   (pad "" np_thru_hole circle (at 7.0485 -1.4986) (size 0.5969 0.5969) (drill 0.5969) (layers *.Cu *.Mask F.SilkS))
   (pad "" smd rect (at -7.69874 0) (size 0.79756 1.79578) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 7.69874 0) (size 0.79756 1.79578) (layers F.Cu F.Paste F.Mask))
-  (model "walter/conn_df12/df12(3.0)-50ds-0.5v.wrl"
+  (model "${LIBKICAD}/3d/conn_df12/df12(3.0)-50ds-0.5v.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
